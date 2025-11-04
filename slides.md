@@ -156,49 +156,49 @@ New: AI-powered, real-time
 
 # HNW Relationships are Broken
 
-<div class="text-center mb-8">
+<div class="text-center mb-6">
 
 <div class="text-2xl font-semibold">46% of HNW Investors Planning to Switch Advisors</div>
 
 </div>
 
-<div class="grid grid-cols-2 gap-12 max-h-[75vh]">
+<div class="grid grid-cols-2 gap-8 max-h-[72vh] overflow-hidden">
 
 <div class="flex items-center justify-center">
 
 <div class="text-center">
-<div class="text-8xl font-bold text-orange-400 mb-6">46%</div>
+<div class="text-7xl font-bold text-orange-400 mb-4">46%</div>
 <div class="text-2xl font-semibold">Planning to Switch</div>
-<div class="text-lg mt-3">in the next 1-2 years</div>
+<div class="text-base mt-2">in the next 1-2 years</div>
 </div>
 
 </div>
 
-<div class="space-y-6">
+<div class="space-y-3 overflow-y-auto">
 
-<div class="text-2xl font-semibold mb-4">📊 The Data</div>
+<div class="text-xl font-semibold mb-3">📊 The Data</div>
 
-<div class="p-4 border-l-4 border-orange-500 bg-orange-900/20 text-base">
-<strong class="text-lg">39% already switched</strong><br/>
+<div class="p-3 border-l-4 border-orange-500 bg-orange-900/20 text-sm">
+<strong class="text-base">39% already switched</strong><br/>
 or added provider (last 3 yrs)
 </div>
 
-<div class="p-4 border-l-4 border-amber-500 bg-amber-900/20 text-base">
-<strong class="text-lg">More pronounced under 55</strong><br/>
+<div class="p-3 border-l-4 border-amber-500 bg-amber-900/20 text-sm">
+<strong class="text-base">More pronounced under 55</strong><br/>
 Switch at 2x the rate
 </div>
 
-<div class="p-4 border-l-4 border-teal-500 bg-teal-900/20 text-base">
-<strong class="text-lg">Trend accelerating</strong><br/>
+<div class="p-3 border-l-4 border-teal-500 bg-teal-900/20 text-sm">
+<strong class="text-base">Trend accelerating</strong><br/>
 Retention collapsing
 </div>
 
-<div class="mt-6">
-<div class="text-xl font-semibold mb-2">🎯 Why This Matters</div>
-<div class="text-base">Once-in-a-generation window to capture share from incumbents</div>
+<div class="mt-4">
+<div class="text-base font-semibold mb-1">🎯 Why This Matters</div>
+<div class="text-sm">Once-in-a-generation window to capture share from incumbents</div>
 </div>
 
-<div class="mt-4 text-sm opacity-60">Source: PwC HNW Investor Survey, 2022</div>
+<div class="mt-3 text-xs opacity-60">Source: PwC HNW Investor Survey, 2022</div>
 
 </div>
 
@@ -335,7 +335,7 @@ Primary challenges are no longer just "growth"
 
 # The Advisor Shortage Makes It Worse
 
-<div class="grid grid-cols-2 gap-4">
+<div class="grid grid-cols-2 gap-4 max-h-[75vh] overflow-hidden">
 
 <div>
 
@@ -533,7 +533,7 @@ Full-stack agentic AI platform — Live, validated with real-money portfolio
 
 # Your Personal AI Investment Committee
 
-<div class="grid grid-cols-2 gap-4">
+<div class="grid grid-cols-2 gap-4 max-h-[75vh] overflow-hidden">
 
 <div>
 
@@ -604,7 +604,7 @@ Collective intelligence, 24/7, infinitely scalable
 
 # Our HNW Moat: The Specialized "Alpha" Agents
 
-<div class="text-lg font-light mb-8 text-center">
+<div class="text-base font-light mb-4 text-center">
 Solving the Three Highest-Friction Problems Traditional Advisors Cannot Scale
 </div>
 
@@ -1185,7 +1185,7 @@ Recommendation
 
 # Our Tech Stack & API-First Design
 
-<div class="grid grid-cols-2 gap-4">
+<div class="grid grid-cols-2 gap-4 max-h-[73vh] overflow-hidden">
 
 <div>
 
@@ -1478,13 +1478,13 @@ Why We Win
 
 # The Competitive Landscape (US)
 
-<div class="text-center mb-8">
+<div class="text-center mb-4">
 
 ### The "Magic Quadrant" for Wealth Tech
 
 </div>
 
-```mermaid {theme: 'dark', scale: 0.85}
+```mermaid {theme: 'dark', scale: 0.75}
 quadrantChart
     title US Wealth Management Competitive Map
     x-axis Low Tech → High Tech
@@ -1503,7 +1503,7 @@ quadrantChart
     "Our Platform": [0.85, 0.90]
 ```
 
-<div class="grid grid-cols-2 gap-3 text-xs mt-6">
+<div class="grid grid-cols-2 gap-2 text-xs mt-3">
 <div class="p-2 border border-red-500 bg-red-900/20 rounded">
 <strong>Bottom-Left:</strong> Wealthfront, Betterment — Commoditized robo-advisors
 </div>
@@ -1518,17 +1518,17 @@ quadrantChart
 </div>
 </div>
 
-<div class="grid grid-cols-3 gap-3 mt-6 text-xs">
-<div class="p-3 bg-teal-900/20 rounded-lg border border-teal-500/30">
-<div class="font-bold text-sm mb-2 text-teal-400">🎯 HNW Specialization</div>
+<div class="grid grid-cols-3 gap-2 mt-3 text-xs">
+<div class="p-2 bg-teal-900/20 rounded-lg border border-teal-500/30">
+<div class="font-bold text-xs mb-1 text-teal-400">🎯 HNW Specialization</div>
 Tax Alpha (2-3% annually) • Alt Access • Concentrated Stock • $10M = $200K/yr saved (4x robos)
 </div>
-<div class="p-3 bg-purple-900/20 rounded-lg border border-purple-500/30">
-<div class="font-bold text-sm mb-2 text-purple-400">✅ Validated Model</div>
+<div class="p-2 bg-purple-900/20 rounded-lg border border-purple-500/30">
+<div class="font-bold text-xs mb-1 text-purple-400">✅ Validated Model</div>
 Arta proved HNWIs pay for AI advisory • We execute better: Explainable + Broker-agnostic
 </div>
-<div class="p-3 bg-blue-900/20 rounded-lg border border-blue-500/30">
-<div class="font-bold text-sm mb-2 text-blue-400">🔓 Open Platform</div>
+<div class="p-2 bg-blue-900/20 rounded-lg border border-blue-500/30">
+<div class="font-bold text-xs mb-1 text-blue-400">🔓 Open Platform</div>
 Not a brokerage • Clients keep accounts • Faster adoption • No custody risk
 </div>
 </div>
