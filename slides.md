@@ -173,11 +173,13 @@ New: AI-powered, real-time
 
 <div class="flex items-center justify-center">
 
-<div class="text-center">
-<div class="text-7xl font-bold text-orange-400 mb-4">46%</div>
-<div class="text-2xl font-semibold">Planning to Switch</div>
-<div class="text-base mt-2">in the next 1-2 years</div>
-</div>
+<StatCard
+  :value="46"
+  suffix="%"
+  label="Planning to Switch<br/>in the next 1-2 years"
+  color="orange"
+  :animate="true"
+/>
 
 </div>
 
@@ -1043,122 +1045,108 @@ HNW Personas & Real Solutions
 
 # User Journey 1: "Jed, the Active Investor"
 
-<div class="grid grid-cols-3 gap-4 max-h-[75vh]">
+<ThreeColumnLayout :gap="4">
 
-<div class="p-4 border-2 border-red-500 rounded-xl bg-red-900/20 flex flex-col">
-<div class="text-center mb-4">
-<div class="text-4xl mb-2">😟</div>
-<div class="text-xl font-bold text-red-400">Pain</div>
-</div>
-<div class="text-sm space-y-2 flex-1">
-<div class="font-semibold">Jed, 42, Tech Executive</div>
-<div class="text-3xl font-bold text-red-400 my-3">$5M</div>
-<div>in company stock</div>
-<div class="mt-4 p-2 bg-red-900/40 rounded">
-"Need help executing properly — stuck with generic advice"
-</div>
-</div>
-</div>
+<PersonaJourneyCard
+  emoji="😟"
+  title="Pain"
+  color="red"
+  name="Jed, 42, Tech Executive"
+  metric="$5M"
+  metric-label="in company stock"
+  quote="Need help executing properly — stuck with generic advice"
+/>
 
-<div class="p-4 border-2 border-blue-500 rounded-xl bg-blue-900/20 flex flex-col">
-<div class="text-center mb-4">
-<div class="text-4xl mb-2">🤖</div>
-<div class="text-xl font-bold text-blue-400">AI Solution</div>
-</div>
-<div class="text-sm space-y-3 flex-1">
-<div class="p-2 bg-blue-900/30 rounded">
-<strong>Equity Agent:</strong> Analyzes stock, recommends covered call strategy
-</div>
-<div class="p-2 bg-blue-900/30 rounded">
-<strong>Alt Agent:</strong> Scans 200+ PE funds, surfaces top 3 with 1-pg memos
-</div>
-<div class="p-2 bg-blue-900/30 rounded">
-<strong>Execution:</strong> One-click approval via IBKR
-</div>
-</div>
-</div>
+<PersonaJourneyCard
+  emoji="🤖"
+  title="AI Solution"
+  color="blue"
+>
+  <div class="p-2 bg-blue-900/30 rounded text-xs mb-2">
+    <strong>Equity Agent:</strong> Analyzes stock, recommends covered call strategy
+  </div>
+  <div class="p-2 bg-blue-900/30 rounded text-xs mb-2">
+    <strong>Alt Agent:</strong> Scans 200+ PE funds, surfaces top 3 with 1-pg memos
+  </div>
+  <div class="p-2 bg-blue-900/30 rounded text-xs">
+    <strong>Execution:</strong> One-click approval via IBKR
+  </div>
+</PersonaJourneyCard>
 
-<div class="p-4 border-2 border-green-500 rounded-xl bg-green-900/20 flex flex-col">
-<div class="text-center mb-4">
-<div class="text-4xl mb-2">✅</div>
-<div class="text-xl font-bold text-green-400">Outcome</div>
-</div>
-<div class="text-sm space-y-2 flex-1">
-<div class="font-semibold mb-2">After 12 Months:</div>
-<div class="text-2xl font-bold text-green-400">$142K</div>
-<div class="text-xs">Income from covered calls</div>
-<div class="text-2xl font-bold text-teal-400 mt-3">$85K</div>
-<div class="text-xs">Tax savings via TLH</div>
-<div class="text-2xl font-bold text-blue-400 mt-3">$1.5M</div>
-<div class="text-xs">PE allocation (2 funds)</div>
-<div class="mt-3 p-2 bg-green-900/40 rounded italic text-xs">
-"Speaks my language, my speed"
-</div>
-</div>
-</div>
+<PersonaJourneyCard
+  emoji="✅"
+  title="Outcome"
+  color="green"
+>
+  <div class="space-y-2 text-sm">
+    <div class="font-semibold mb-2">After 12 Months:</div>
+    <div class="text-2xl font-bold text-green-400">$142K</div>
+    <div class="text-xs">Income from covered calls</div>
+    <div class="text-2xl font-bold text-teal-400 mt-3">$85K</div>
+    <div class="text-xs">Tax savings via TLH</div>
+    <div class="text-2xl font-bold text-blue-400 mt-3">$1.5M</div>
+    <div class="text-xs">PE allocation (2 funds)</div>
+    <div class="mt-3 p-2 bg-green-900/40 rounded italic text-xs">
+      "Speaks my language, my speed"
+    </div>
+  </div>
+</PersonaJourneyCard>
 
-</div>
+</ThreeColumnLayout>
 
 ---
 
 # User Journey 2: "Chris, the 'Hands-Off' Inheritor"
 
-<div class="grid grid-cols-3 gap-4 max-h-[75vh]">
+<ThreeColumnLayout :gap="4">
 
-<div class="p-4 border-2 border-red-500 rounded-xl bg-red-900/20 flex flex-col">
-<div class="text-center mb-4">
-<div class="text-4xl mb-2">😰</div>
-<div class="text-xl font-bold text-red-400">Pain</div>
-</div>
-<div class="text-sm space-y-2 flex-1">
-<div class="font-semibold">Chris, 35, Inherited Wealth</div>
-<div class="text-3xl font-bold text-red-400 my-3">$12M</div>
-<div>fragmented across:</div>
-<div class="text-xs">• 4 banks<br/>• 2 trusts<br/>• 3 real estate holdings</div>
-<div class="mt-4 p-2 bg-red-900/40 rounded">
-"Scattered and risky — no single view"
-</div>
-</div>
-</div>
+<PersonaJourneyCard
+  emoji="😰"
+  title="Pain"
+  color="red"
+  name="Chris, 35, Inherited Wealth"
+  metric="$12M"
+  metric-label="fragmented across:"
+  description="• 4 banks • 2 trusts • 3 real estate holdings"
+  quote="Scattered and risky — no single view"
+/>
 
-<div class="p-4 border-2 border-blue-500 rounded-xl bg-blue-900/20 flex flex-col">
-<div class="text-center mb-4">
-<div class="text-4xl mb-2">🤖</div>
-<div class="text-xl font-bold text-blue-400">AI Solution</div>
-</div>
-<div class="text-sm space-y-3 flex-1">
-<div class="p-2 bg-blue-900/30 rounded">
-<strong>Portfolio Agent:</strong> Consolidates all accounts into unified dashboard
-</div>
-<div class="p-2 bg-blue-900/30 rounded">
-<strong>Risk Manager:</strong> Flags 62% bond duration risk
-</div>
-<div class="p-2 bg-blue-900/30 rounded">
-<strong>Rebalancer:</strong> Restructures 12yr → 5yr + TIPS
-</div>
-</div>
-</div>
+<PersonaJourneyCard
+  emoji="🤖"
+  title="AI Solution"
+  color="blue"
+>
+  <div class="p-2 bg-blue-900/30 rounded text-xs mb-2">
+    <strong>Portfolio Agent:</strong> Consolidates all accounts into unified dashboard
+  </div>
+  <div class="p-2 bg-blue-900/30 rounded text-xs mb-2">
+    <strong>Risk Manager:</strong> Flags 62% bond duration risk
+  </div>
+  <div class="p-2 bg-blue-900/30 rounded text-xs">
+    <strong>Rebalancer:</strong> Restructures 12yr → 5yr + TIPS
+  </div>
+</PersonaJourneyCard>
 
-<div class="p-4 border-2 border-green-500 rounded-xl bg-green-900/20 flex flex-col">
-<div class="text-center mb-4">
-<div class="text-4xl mb-2">✅</div>
-<div class="text-xl font-bold text-green-400">Outcome</div>
-</div>
-<div class="text-sm space-y-2 flex-1">
-<div class="font-semibold mb-2">After 6 Months:</div>
-<div class="text-2xl font-bold text-green-400">100%</div>
-<div class="text-xs">Fully consolidated</div>
-<div class="text-2xl font-bold text-teal-400 mt-3">-42%</div>
-<div class="text-xs">Risk reduction</div>
-<div class="text-2xl font-bold text-blue-400 mt-3">✓</div>
-<div class="text-xs">Goals aligned</div>
-<div class="mt-3 p-2 bg-green-900/40 rounded italic text-xs">
-"I finally sleep well"
-</div>
-</div>
-</div>
+<PersonaJourneyCard
+  emoji="✅"
+  title="Outcome"
+  color="green"
+>
+  <div class="space-y-2 text-sm">
+    <div class="font-semibold mb-2">After 6 Months:</div>
+    <div class="text-2xl font-bold text-green-400">100%</div>
+    <div class="text-xs">Fully consolidated</div>
+    <div class="text-2xl font-bold text-teal-400 mt-3">-42%</div>
+    <div class="text-xs">Risk reduction</div>
+    <div class="text-2xl font-bold text-blue-400 mt-3">✓</div>
+    <div class="text-xs">Goals aligned</div>
+    <div class="mt-3 p-2 bg-green-900/40 rounded italic text-xs">
+      "I finally sleep well"
+    </div>
+  </div>
+</PersonaJourneyCard>
 
-</div>
+</ThreeColumnLayout>
 
 ---
 
@@ -1568,17 +1556,16 @@ for the next generation of US wealth
 
 ### 📊 3-Year Growth Plan
 
-<div class="text-xs">
-
-| Metric | Y1 | Y2 | Y3 |
-|--------|--------|--------|--------|
-| **Users** | 200 | 800 | 2,000 |
-| **Avg Portfolio** | $1.0M | $1.2M | $1.25M |
-| **AUM** | $200M | $960M | $2.5B |
-| **Revenue** | $1.0M | $4.8M | $12.5M |
-| **EBITDA** | -$1.2M | +$0.8M | +$4.5M |
-
-</div>
+<MetricsTable
+  :rows="[
+    { metric: 'Users', y1: 200, y2: 800, y3: 2000 },
+    { metric: 'Avg Portfolio', y1: '$1.0M', y2: '$1.2M', y3: '$1.25M' },
+    { metric: 'AUM', y1: '$200M', y2: '$960M', y3: '$2.5B' },
+    { metric: 'Revenue', y1: '$1.0M', y2: '$4.8M', y3: '$12.5M' },
+    { metric: 'EBITDA', y1: '-$1.2M', y2: '+$0.8M', y3: '+$4.5M' }
+  ]"
+  :highlight-row="4"
+/>
 
 ### 💎 Unit Economics
 
