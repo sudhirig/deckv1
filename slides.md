@@ -44,7 +44,7 @@ US High-Net-Worth Wealth in Motion
 
 # The $107T "Stranded" Wealth Opportunity
 
-<div class="grid grid-cols-3 gap-8 mt-12 max-h-[70vh]">
+<div class="grid grid-cols-3 gap-6 mt-8 max-h-[70vh]">
 
 <div class="flex flex-col items-center justify-center p-6 bg-blue-900/20 rounded-xl border-2 border-blue-500/40">
 <div class="text-7xl font-bold text-blue-400 mb-4">39.7%</div>
@@ -208,16 +208,16 @@ Retention collapsing
 
 # Why They Are Switching: The HNW "Guidance Gap"
 
-<div class="grid grid-cols-3 gap-6 mt-10 max-h-[70vh] overflow-hidden">
+<div class="grid grid-cols-3 gap-6 mt-6 max-h-[72vh] overflow-hidden">
 
 <div class="border-2 border-blue-500 p-4 rounded-xl bg-blue-900/20 flex flex-col">
 
-<div class="text-center mb-6">
+<div class="text-center mb-4">
 <div class="text-5xl mb-3">💻</div>
 <div class="text-2xl font-bold text-blue-400">Digital</div>
 </div>
 
-<div class="space-y-6 text-lg flex-1">
+<div class="space-y-4 text-base flex-1">
 
 <div class="bg-blue-900/30 p-4 rounded-lg">
 <div class="font-bold text-green-400 mb-2">✓ Want</div>
@@ -235,12 +235,12 @@ Retention collapsing
 
 <div class="border-2 border-green-500 p-4 rounded-xl bg-green-900/20 flex flex-col">
 
-<div class="text-center mb-6">
+<div class="text-center mb-4">
 <div class="text-5xl mb-3">🏛️</div>
 <div class="text-2xl font-bold text-green-400">Products</div>
 </div>
 
-<div class="space-y-6 text-lg flex-1">
+<div class="space-y-4 text-base flex-1">
 
 <div class="bg-green-900/30 p-4 rounded-lg">
 <div class="font-bold text-green-400 mb-2">✓ Want</div>
@@ -258,12 +258,12 @@ Retention collapsing
 
 <div class="border-2 border-teal-500 p-4 rounded-xl bg-teal-900/20 flex flex-col">
 
-<div class="text-center mb-6">
+<div class="text-center mb-4">
 <div class="text-5xl mb-3">⚖️</div>
 <div class="text-2xl font-bold text-teal-400">Needs</div>
 </div>
 
-<div class="space-y-6 text-lg flex-1">
+<div class="space-y-4 text-base flex-1">
 
 <div class="bg-teal-900/30 p-4 rounded-lg">
 <div class="font-bold text-green-400 mb-2">✓ Want</div>
@@ -426,7 +426,7 @@ The AI-Powered Digital Family Office
 
 # The AI Digital Family Office
 
-<div class="grid grid-cols-2 gap-3">
+<div class="grid grid-cols-2 gap-3 max-h-[75vh] overflow-hidden">
 
 <div>
 
@@ -457,7 +457,7 @@ Complete family office services
 
 </div>
 
-<div class="p-2 border-2 border-purple-500 rounded-lg bg-black/40">
+<div class="p-2 border-2 border-purple-500 rounded-lg bg-black/40 overflow-hidden">
 
 ### 📱 Platform Preview
 
@@ -465,26 +465,24 @@ Complete family office services
 
 **Consolidated Dashboard**
 ```
-┌──────────────────────────┐
-│ Net Worth: $12.4M        │
-│ ↗️ +14.2% YTD (After Tax)│
-├──────────────────────────┤
-│ Public Eq   $7.2M  58%   │
-│ Private Eq  $2.5M  20%   │
-│ Real Estate $1.8M  15%   │
-│ Cash/Fixed  $0.9M   7%   │
-├──────────────────────────┤
-│ 🎯 Goals on Track        │
-│ ⚠️  Tax Alert            │
-│ 💡 New PE Opportunity    │
-└──────────────────────────┘
+┌───────────────────────┐
+│ Net Worth: $12.4M     │
+│ ↗️ +14.2% YTD         │
+├───────────────────────┤
+│ Public Eq  $7.2M  58% │
+│ Private Eq $2.5M  20% │
+│ Real Est   $1.8M  15% │
+│ Cash/Fixed $0.9M   7% │
+├───────────────────────┤
+│ 🎯 Goals on Track     │
+│ ⚠️  Tax Alert         │
+│ 💡 New PE Opp         │
+└───────────────────────┘
 ```
 
 **Premium UX**
-- Dark mode, elegant
-- Real-time data viz
-- Mobile-first
-- Bank-level security
+- Dark mode • Real-time
+- Mobile-first • Secure
 
 </div>
 
@@ -683,7 +681,7 @@ How the AI "Thinks"
 
 # Core: The "Portfolio Management" Swarm
 
-<div class="grid grid-cols-2 gap-4">
+<div class="grid grid-cols-2 gap-3 max-h-[75vh] overflow-hidden">
 
 <div class="space-y-2">
 
@@ -752,7 +750,7 @@ Max DD: -8.2%
 
 # Our Edge: The "Tax Alpha" Agent
 
-<div class="grid grid-cols-2 gap-4">
+<div class="grid grid-cols-2 gap-3 max-h-[75vh] overflow-hidden">
 
 <div>
 
@@ -812,7 +810,7 @@ $10M = <strong>$180K/year</strong>
 
 # Our "Unfair Advantage": Alternative Asset Agent
 
-<div class="grid grid-cols-2 gap-3 text-xs">
+<div class="grid grid-cols-2 gap-3 text-xs max-h-[75vh] overflow-hidden">
 
 <div>
 
@@ -1015,7 +1013,7 @@ End-to-end investment & repatriation
 
 <div class="text-xs opacity-80 mb-2">Example: HNW Liquidity Event</div>
 
-<div class="grid grid-cols-3 gap-2">
+<div class="grid grid-cols-3 gap-2 max-h-[75vh] overflow-hidden">
 
 <div class="p-2 border-2 border-blue-500 rounded-lg bg-blue-900/20">
 <div class="text-base mb-1 text-center">1️⃣</div>
@@ -1097,7 +1095,7 @@ Next, we tackle concentrated stock risk.
 
 # Roadmap: The AI Equity Agent
 
-<div class="grid grid-cols-2 gap-6">
+<div class="grid grid-cols-2 gap-4 max-h-[75vh] overflow-hidden">
 
 <div>
 
@@ -1520,7 +1518,7 @@ quadrantChart
 </div>
 </div>
 
-<div class="grid grid-cols-3 gap-4 mt-8 text-xs">
+<div class="grid grid-cols-3 gap-3 mt-6 text-xs">
 <div class="p-3 bg-teal-900/20 rounded-lg border border-teal-500/30">
 <div class="font-bold text-sm mb-2 text-teal-400">🎯 HNW Specialization</div>
 Tax Alpha (2-3% annually) • Alt Access • Concentrated Stock • $10M = $200K/yr saved (4x robos)
@@ -1567,7 +1565,7 @@ We are winning.
 
 # Market Sizing: The Opportunity
 
-<div class="grid grid-cols-2 gap-3 text-xs">
+<div class="grid grid-cols-2 gap-3 text-xs max-h-[75vh] overflow-hidden">
 
 <div>
 
@@ -1636,7 +1634,7 @@ Built by Experts, Ready to Scale
 
 # Our Team
 
-<div class="grid grid-cols-3 gap-3 text-xs">
+<div class="grid grid-cols-3 gap-2 text-xs max-h-[72vh] overflow-hidden">
 
 <div class="p-2 border-2 border-teal-500 rounded-lg bg-teal-900/20">
 
@@ -1741,7 +1739,7 @@ for the next generation of US wealth
 
 # Use of Funds
 
-<div class="grid grid-cols-2 gap-4 text-xs">
+<div class="grid grid-cols-2 gap-3 text-xs max-h-[75vh] overflow-hidden">
 
 <div>
 
@@ -1799,7 +1797,7 @@ pie title Use of Funds
 
 # Financial Projections
 
-<div class="grid grid-cols-2 gap-4">
+<div class="grid grid-cols-2 gap-3 max-h-[75vh] overflow-hidden">
 
 <div>
 
