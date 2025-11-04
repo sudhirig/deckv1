@@ -1488,8 +1488,8 @@ Why We Win
 ```mermaid {theme: 'dark', scale: 0.75}
 quadrantChart
     title US Wealth Management Competitive Map
-    x-axis Low Tech → High Tech
-    y-axis Mass Market → HNW/Family Office
+    x-axis Low Tech --> High Tech
+    y-axis Mass Market --> HNW/Family Office
 
     quadrant-1 "AI-Powered HNW (Our Space)"
     quadrant-2 "Legacy HNW Platforms"
