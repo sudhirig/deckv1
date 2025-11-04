@@ -1099,7 +1099,7 @@ Next, we tackle concentrated stock risk.
 
 # Roadmap: The AI Equity Agent
 
-<div class="grid grid-cols-2 gap-4 max-h-[62vh] overflow-hidden">
+<div class="grid grid-cols-2 gap-4 max-h-[58vh] overflow-hidden">
 
 <div>
 
@@ -1156,24 +1156,21 @@ News, filings, social sentiment
 diversification + income strategy."
 
 AI Analysis: AAPL
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━
 Price: $182.50  Position: $5M
 Cost: $95  Gain: $2.4M (92%)
-
 Scores: Fund 8.5 | Tech 7.2
         Sentiment 8.1
 
 Recommendation
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━
 ✅ PHASED DIVERSIFICATION
    Y1: Sell 25% ($1.25M)
    Y2: Sell 25% ($1.25M)
    Keep: 50% ($2.5M)
-
 💰 INCOME
    Covered Calls (2% OTM)
    ~$120K/year income
-
 📊 TAX
    2yr spread + TLH offset
    Save $100K in taxes
