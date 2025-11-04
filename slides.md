@@ -1145,11 +1145,11 @@ News, filings, social sentiment
 
 </div>
 
-<div class="p-4 border-2 border-teal-500 rounded-lg bg-black/40">
+<div class="p-3 border-2 border-teal-500 rounded-lg bg-black/40">
 
 ### 💼 Use Case
 
-<div class="text-xs">
+<div class="text-xs leading-tight">
 
 ```
 "Analyze $5M AAPL. Tax-efficient
