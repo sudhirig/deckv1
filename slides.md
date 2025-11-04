@@ -67,27 +67,27 @@ US High-Net-Worth Wealth in Motion
 
 # A Market in Motion
 
-<div class="text-center mb-8">
+<div class="text-center mb-4">
 
-<div class="text-2xl font-semibold">The Great Wealth Transfer Has Begun</div>
+<div class="text-xl font-semibold">The Great Wealth Transfer Has Begun</div>
 
 </div>
 
-<div class="grid grid-cols-2 gap-8 max-h-[75vh]">
+<div class="grid grid-cols-2 gap-6 max-h-[72vh] overflow-hidden">
 
-<div class="p-6 border-2 border-teal-500 rounded-xl bg-teal-900/20">
+<div class="p-4 border-2 border-teal-500 rounded-xl bg-teal-900/20">
 
-<div class="text-2xl font-semibold mb-4">📊 The Transfer</div>
+<div class="text-xl font-semibold mb-3">📊 The Transfer</div>
 
-<div class="text-base space-y-4">
+<div class="text-sm space-y-3">
 
 <div class="text-center">
-<div class="text-6xl font-bold text-teal-400 mb-3">$124T</div>
+<div class="text-5xl font-bold text-teal-400 mb-2">$124T</div>
 </div>
 
 <div>
-<div class="text-lg font-semibold mb-2">Total Transfer</div>
-<div class="space-y-1 ml-4">
+<div class="text-base font-semibold mb-1">Total Transfer</div>
+<div class="space-y-0.5 ml-3 text-xs">
 <div>• Next 25 years</div>
 <div>• 50% from top 2%</div>
 <div>• Accelerating post-2030</div>
@@ -95,8 +95,8 @@ US High-Net-Worth Wealth in Motion
 </div>
 
 <div>
-<div class="text-lg font-semibold mb-2">Annual Flow</div>
-<div class="space-y-1 ml-4">
+<div class="text-base font-semibold mb-1">Annual Flow</div>
+<div class="space-y-0.5 ml-3 text-xs">
 <div>Gen X: <strong class="text-teal-400">$1.4T/yr</strong></div>
 <div>Millennials: <strong class="text-teal-400">$8B/yr</strong></div>
 </div>
@@ -106,15 +106,15 @@ US High-Net-Worth Wealth in Motion
 
 </div>
 
-<div class="p-6 border-2 border-blue-500 rounded-xl bg-blue-900/20">
+<div class="p-4 border-2 border-blue-500 rounded-xl bg-blue-900/20">
 
-<div class="text-2xl font-semibold mb-4">👥 The New Generation</div>
+<div class="text-xl font-semibold mb-3">👥 The New Generation</div>
 
-<div class="text-base space-y-4">
+<div class="text-sm space-y-3">
 
 <div>
-<div class="text-lg font-semibold mb-2">Active Management</div>
-<div class="space-y-1 ml-4">
+<div class="text-base font-semibold mb-1">Active Management</div>
+<div class="space-y-0.5 ml-3 text-xs">
 <div>• Reject passive models</div>
 <div>• Demand transparency</div>
 <div>• Tech-native, ESG-driven</div>
@@ -122,25 +122,25 @@ US High-Net-Worth Wealth in Motion
 </div>
 
 <div>
-<div class="text-lg font-semibold mb-2">Behavioral Shifts</div>
-<div class="flex flex-col gap-2">
-<div class="flex items-center gap-2">
-<span class="text-2xl">📈</span>
+<div class="text-base font-semibold mb-1">Behavioral Shifts</div>
+<div class="flex flex-col gap-1">
+<div class="flex items-center gap-2 text-xs">
+<span class="text-xl">📈</span>
 <span><strong class="text-blue-400">15%</strong> in alts (vs 9% in 2018)</span>
 </div>
-<div class="flex items-center gap-2">
-<span class="text-2xl">📊</span>
+<div class="flex items-center gap-2 text-xs">
+<span class="text-xl">📊</span>
 <span><strong class="text-blue-400">72%</strong> say stocks/bonds insufficient</span>
 </div>
-<div class="flex items-center gap-2">
-<span class="text-2xl">📱</span>
+<div class="flex items-center gap-2 text-xs">
+<span class="text-xl">📱</span>
 <span>Mobile-first, API-enabled</span>
 </div>
 </div>
 </div>
 
-<div class="mt-4 p-3 bg-teal-900/30 rounded-lg border border-teal-500/40">
-<div class="text-base font-semibold text-teal-400">
+<div class="mt-3 p-2 bg-teal-900/30 rounded-lg border border-teal-500/40">
+<div class="text-sm font-semibold text-teal-400">
 Old: Quarterly advisor<br/>
 New: AI-powered, real-time
 </div>
