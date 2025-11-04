@@ -1479,13 +1479,13 @@ Why We Win
 
 # The Competitive Landscape (US)
 
-<div class="text-center mb-4">
+<div class="text-center mb-2">
 
 ### The "Magic Quadrant" for Wealth Tech
 
 </div>
 
-```mermaid {theme: 'dark', scale: 0.75}
+```mermaid {theme: 'dark', scale: 0.65}
 quadrantChart
     title US Wealth Management Competitive Map
     x-axis Low Tech --> High Tech
@@ -1504,7 +1504,7 @@ quadrantChart
     "Our Platform": [0.85, 0.90]
 ```
 
-<div class="grid grid-cols-2 gap-2 text-xs mt-3">
+<div class="grid grid-cols-2 gap-2 text-xs mt-2">
 <div class="p-2 border border-red-500 bg-red-900/20 rounded">
 <strong>Bottom-Left:</strong> Wealthfront, Betterment — Commoditized robo-advisors
 </div>
@@ -1519,7 +1519,7 @@ quadrantChart
 </div>
 </div>
 
-<div class="grid grid-cols-3 gap-2 mt-3 text-xs">
+<div class="grid grid-cols-3 gap-2 mt-2 text-xs">
 <div class="p-2 bg-teal-900/20 rounded-lg border border-teal-500/30">
 <div class="font-bold text-xs mb-1 text-teal-400">🎯 HNW Specialization</div>
 Tax Alpha (2-3% annually) • Alt Access • Concentrated Stock • $10M = $200K/yr saved (4x robos)
