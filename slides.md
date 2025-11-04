@@ -335,17 +335,17 @@ Primary challenges are no longer just "growth"
 
 # The Advisor Shortage Makes It Worse
 
-<div class="grid grid-cols-2 gap-4 max-h-[75vh] overflow-hidden">
+<div class="grid grid-cols-2 gap-4 max-h-[72vh] overflow-hidden">
 
 <div>
 
 ### 📉 The Looming Crisis
 
-<div class="space-y-2 text-sm">
+<div class="space-y-2 text-xs">
 
 <div class="p-2 bg-red-900/30 rounded-lg border border-red-500/30">
-<div class="text-2xl font-bold text-red-400">100,000</div>
-<div class="text-sm">Advisor shortage by 2034</div>
+<div class="text-xl font-bold text-red-400">100,000</div>
+<div class="text-xs">Advisor shortage by 2034</div>
 </div>
 
 **Why**
@@ -362,7 +362,9 @@ Primary challenges are no longer just "growth"
 
 <div class="flex items-center justify-center">
 
-```mermaid {theme: 'dark', scale: 0.6}
+<div class="w-full">
+
+```mermaid {theme: 'dark', scale: 0.5}
 graph LR
     A[2024] --> B[2029]
     B --> C[2034]
@@ -378,10 +380,12 @@ graph LR
 ```
 
 <div class="mt-2 text-center p-2 bg-orange-900/30 rounded-lg border border-orange-500/30">
-<div class="text-base font-bold">Gap is Guaranteed</div>
+<div class="text-sm font-bold">Gap is Guaranteed</div>
 <div class="text-xs opacity-80">
 Industry can't hire its way out
 </div>
+</div>
+
 </div>
 
 </div>
