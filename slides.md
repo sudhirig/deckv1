@@ -1504,33 +1504,37 @@ quadrantChart
     "Our Platform": [0.85, 0.90]
 ```
 
-<div class="grid grid-cols-2 gap-2 text-xs mt-2">
-<div class="p-2 border border-red-500 bg-red-900/20 rounded">
-<strong>Bottom-Left:</strong> Wealthfront, Betterment — Commoditized robo-advisors
+<div class="grid grid-cols-2 gap-3 text-sm mt-2">
+<div class="p-3 border-2 border-red-400 bg-red-900/40 rounded-lg">
+<div class="font-bold text-base text-red-200 mb-1">Bottom-Left: Robo-Advisors</div>
+<div class="text-red-100">Wealthfront, Betterment — Commoditized mass market</div>
 </div>
-<div class="p-2 border border-orange-500 bg-orange-900/20 rounded">
-<strong>Bottom-Right:</strong> Addepar, Black Diamond — Legacy tools, no AI
+<div class="p-3 border-2 border-orange-400 bg-orange-900/40 rounded-lg">
+<div class="font-bold text-base text-orange-200 mb-1">Bottom-Right: Legacy Platforms</div>
+<div class="text-orange-100">Addepar, Black Diamond — No AI, outdated tech</div>
 </div>
-<div class="p-2 border border-blue-500 bg-blue-900/20 rounded">
-<strong>Top-Right:</strong> Arta Finance ($90M raised) — Validates agentic model
+<div class="p-3 border-2 border-blue-400 bg-blue-900/40 rounded-lg">
+<div class="font-bold text-base text-blue-200 mb-1">Top-Right: Arta Finance</div>
+<div class="text-blue-100">$90M raised — Validates the agentic AI model</div>
 </div>
-<div class="p-2 border border-green-500 bg-green-900/20 rounded">
-<strong>Top-Right (Us):</strong> Explainable AI + Broker-Agnostic + HNW Specialized
+<div class="p-3 border-2 border-green-400 bg-green-900/40 rounded-lg">
+<div class="font-bold text-base text-green-200 mb-1">Top-Right: Our Platform</div>
+<div class="text-green-100">Explainable AI + Broker-Agnostic + HNW Focus</div>
 </div>
 </div>
 
-<div class="grid grid-cols-3 gap-2 mt-2 text-xs">
-<div class="p-2 bg-teal-900/20 rounded-lg border border-teal-500/30">
-<div class="font-bold text-xs mb-1 text-teal-400">🎯 HNW Specialization</div>
-Tax Alpha (2-3% annually) • Alt Access • Concentrated Stock • $10M = $200K/yr saved (4x robos)
+<div class="grid grid-cols-3 gap-3 mt-3 text-sm">
+<div class="p-3 bg-cyan-900/30 rounded-lg border-2 border-cyan-400/50">
+<div class="font-bold text-base mb-1 text-cyan-300">🎯 HNW Specialization</div>
+<div class="text-cyan-100">Tax Alpha 2-3%/yr • Alt Access • $10M = $200K saved annually</div>
 </div>
-<div class="p-2 bg-purple-900/20 rounded-lg border border-purple-500/30">
-<div class="font-bold text-xs mb-1 text-purple-400">✅ Validated Model</div>
-Arta proved HNWIs pay for AI advisory • We execute better: Explainable + Broker-agnostic
+<div class="p-3 bg-emerald-900/30 rounded-lg border-2 border-emerald-400/50">
+<div class="font-bold text-base mb-1 text-emerald-300">✅ Validated Market</div>
+<div class="text-emerald-100">Arta proved demand • We deliver explainable + agnostic</div>
 </div>
-<div class="p-2 bg-blue-900/20 rounded-lg border border-blue-500/30">
-<div class="font-bold text-xs mb-1 text-blue-400">🔓 Open Platform</div>
-Not a brokerage • Clients keep accounts • Faster adoption • No custody risk
+<div class="p-3 bg-sky-900/30 rounded-lg border-2 border-sky-400/50">
+<div class="font-bold text-base mb-1 text-sky-300">🔓 Open Platform</div>
+<div class="text-sky-100">Not a brokerage • Faster adoption • No custody risk</div>
 </div>
 </div>
 
