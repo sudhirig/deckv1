@@ -1,0 +1,2525 @@
+---
+theme: seriph
+background: https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=1920
+class: 'text-center'
+highlighter: shiki
+lineNumbers: false
+info: |
+  ## The AI-Powered Digital Family Office
+  Institutional-Grade Wealth Management for High-Net-Worth Investors
+drawings:
+  persist: false
+css: unocss
+wakeLock: "build"
+colorSchema: 'dark'
+transition: slide-left
+---
+
+# The AI-Powered Digital Family Office
+
+<div class="text-2xl opacity-90 mb-6 font-light">
+Institutional-Grade Wealth Management.<br/>For Everyone.
+</div>
+
+<div class="text-lg opacity-70">
+Agentic AI • Tax Alpha • Alternative Access
+</div>
+
+<div class="abs-br m-6 text-sm opacity-50">
+November 2025
+</div>
+
+---
+layout: section
+background: https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1920
+---
+
+# The New Market Opportunity
+
+<div class="text-2xl opacity-80">
+US High-Net-Worth Wealth in Motion
+</div>
+
+---
+
+# The Largest Market on Earth
+
+<div class="grid grid-cols-2 gap-3">
+
+<div class="flex flex-col justify-center">
+
+### 🌍 The US Dominance
+
+<div class="space-y-1 text-xs">
+
+<div class="p-2 bg-gradient-to-r from-blue-900/40 to-teal-900/40 rounded-lg border border-blue-500/30">
+<div class="text-2xl font-bold text-teal-400">35%</div>
+<div class="text-xs opacity-80">of global wealth (US)</div>
+</div>
+
+<div class="p-2 bg-gradient-to-r from-green-900/40 to-emerald-900/40 rounded-lg border border-green-500/30">
+<div class="text-2xl font-bold text-green-400">39.7%</div>
+<div class="text-xs opacity-80">of world's millionaires</div>
+</div>
+
+<div class="p-2 bg-gradient-to-r from-purple-900/40 to-pink-900/40 rounded-lg border border-purple-500/30">
+<div class="text-2xl font-bold text-purple-400">7.9M</div>
+<div class="text-xs opacity-80">HNW Individuals (US)</div>
+</div>
+
+</div>
+
+</div>
+
+<div class="flex flex-col justify-center">
+
+### 💰 The EMILLI Opportunity
+
+<div class="text-xs space-y-1">
+
+**Everyday Millionaires ($1-5M)**
+
+- **$107T** total wealth
+- **4x** since 2000
+- Most underserved
+- Need institutional services
+
+<div class="mt-1 p-1 bg-gradient-to-r from-orange-900/40 to-red-900/40 rounded-lg border border-orange-500/30 text-xs">
+<strong>Opportunity:</strong> Largest "stranded" wealth segment
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+# A Market in Motion
+
+<div class="text-center mb-1">
+
+### The Great Wealth Transfer Has Begun
+
+</div>
+
+<div class="grid grid-cols-2 gap-3">
+
+<div class="p-2 border-2 border-teal-500 rounded-lg bg-teal-900/20">
+
+### 📊 The Transfer
+
+<div class="text-xs">
+
+<div class="text-2xl font-bold text-teal-400 my-1">$124T</div>
+
+**Total Transfer**
+- Next 25 years
+- 50% from top 2%
+- Accelerating post-2030
+
+**Annual Flow**
+- Gen X: **$1.4T/yr**
+- Millennials: **$8B/yr**
+
+</div>
+
+</div>
+
+<div class="p-2 border-2 border-purple-500 rounded-lg bg-purple-900/20">
+
+### 👥 The New Generation
+
+<div class="text-xs">
+
+**Active Management**
+- Reject passive models
+- Demand transparency
+- Tech-native, ESG-driven
+
+**Behavioral Shifts**
+- **72%** say stocks/bonds insufficient
+- **15%** in alts (vs 9% in 2018)
+- Mobile-first, API-enabled
+
+<div class="mt-1 text-teal-400 font-semibold text-xs">
+Old: Quarterly advisor<br/>
+New: AI-powered, real-time
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+# The "Advisor-Switching" Epidemic
+
+<div class="text-center mb-4">
+
+### HNW Relationships Are No Longer "Sticky"
+
+</div>
+
+<div class="grid grid-cols-2 gap-8">
+
+<div class="flex items-center justify-center">
+
+<div class="text-center">
+<div class="text-8xl font-bold text-red-400 mb-3">46%</div>
+<div class="text-xl font-semibold">Planning to Switch</div>
+<div class="text-base opacity-70 mt-1">in the next 1-2 years</div>
+</div>
+
+</div>
+
+<div class="space-y-3">
+
+### 📊 The Data
+
+<div class="p-2 border-l-4 border-orange-500 bg-orange-900/20 text-sm">
+<strong>39% already switched</strong><br/>
+or added provider (last 3 yrs)
+</div>
+
+<div class="p-2 border-l-4 border-yellow-500 bg-yellow-900/20 text-sm">
+<strong>More pronounced under 55</strong><br/>
+Switch at 2x the rate
+</div>
+
+<div class="p-2 border-l-4 border-teal-500 bg-teal-900/20 text-sm">
+<strong>Trend accelerating</strong><br/>
+Retention collapsing
+</div>
+
+### 🎯 Why This Matters
+
+<div class="text-sm">Once-in-a-generation window to capture share from incumbents</div>
+
+</div>
+
+</div>
+
+---
+
+# Why They Are Switching: The HNW "Guidance Gap"
+
+<div class="grid grid-cols-3 gap-2 text-xs">
+
+<div class="border-2 border-blue-500 p-2 rounded-lg bg-blue-900/20">
+
+### 💻 Digital
+
+**Demand:** Real-time, mobile, 24/7
+
+**Reality:** Quarterly PDFs
+
+<div class="mt-1 p-1 bg-red-900/30 rounded border border-red-500/30">
+<strong>Gap:</strong> Stuck in 2010
+</div>
+
+</div>
+
+<div class="border-2 border-green-500 p-2 rounded-lg bg-green-900/20">
+
+### 🏦 Products
+
+**Want:** PE, PC, RE, hedge funds
+
+**Get:** Stocks, bonds only
+
+<div class="mt-1 p-1 bg-red-900/30 rounded border border-red-500/30">
+<strong>Gap:</strong> No alt access
+</div>
+
+</div>
+
+<div class="border-2 border-purple-500 p-2 rounded-lg bg-purple-900/20">
+
+### ⚖️ Needs
+
+**Want:** Tax, estate, multi-gen
+
+**Get:** Basic allocation
+
+<div class="mt-1 p-1 bg-red-900/30 rounded border border-red-500/30">
+<strong>Gap:</strong> Complexity grew
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Beyond the US: The India Growth Opportunity
+
+<div class="text-sm opacity-80 mb-2">
+India is the World's Fastest-Growing Wealth Market — But Operationally Impossible to Access
+</div>
+
+<div class="grid grid-cols-2 gap-4">
+
+<div>
+
+### 📈 The India Market Opportunity
+
+<div class="space-y-2 text-sm">
+
+<div class="p-2 bg-gradient-to-r from-orange-900/40 to-yellow-900/40 rounded-lg border border-orange-500/30">
+<div class="text-3xl font-bold text-orange-400">7.4%</div>
+<div class="text-sm opacity-80">Annual GDP growth</div>
+</div>
+
+<div class="p-2 bg-gradient-to-r from-yellow-900/40 to-amber-900/40 rounded-lg border border-yellow-500/30">
+<div class="text-3xl font-bold text-yellow-400">326K</div>
+<div class="text-sm opacity-80">New millionaires/yr</div>
+</div>
+
+<div class="p-2 bg-gradient-to-r from-amber-900/40 to-orange-900/40 rounded-lg border border-amber-500/30">
+<div class="text-3xl font-bold text-amber-400">$5.6T</div>
+<div class="text-sm opacity-80">HNW wealth by 2028</div>
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+### ❌ The Access Problem
+
+<div class="text-xs space-y-1">
+
+<div class="p-2 border-l-4 border-red-500 bg-red-900/20">
+<strong>Complex Red Tape</strong><br/>
+FPI registration burdens
+</div>
+
+<div class="p-2 border-l-4 border-red-500 bg-red-900/20">
+<strong>Crippling Tax</strong><br/>
+Capital Gains, STT, dividend taxes
+</div>
+
+<div class="p-2 border-l-4 border-red-500 bg-red-900/20">
+<strong>Currency Risk</strong><br/>
+INR depreciation exposure
+</div>
+
+<div class="p-2 border-l-4 border-red-500 bg-red-900/20">
+<strong>Repatriation</strong><br/>
+Slow and restrictive
+</div>
+
+<div class="mt-2 p-2 bg-gradient-to-r from-red-900/40 to-orange-900/40 rounded-lg border border-red-500/30 text-xs">
+<strong>Result:</strong> Advisors can't serve India exposure needs
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+---
+layout: section
+background: https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=1920
+---
+
+# The Problem
+
+<div class="text-2xl opacity-80">
+Traditional Wealth Management is Broken
+</div>
+
+---
+
+# Traditional Advice Fails HNWIs
+
+<div class="flex items-center justify-center h-full">
+
+<div class="text-center space-y-6 px-8">
+
+<div class="text-2xl font-semibold opacity-90">
+The "cookie-cutter" approach—stocks, bonds, mutual funds—<br/>
+is fundamentally broken for HNWIs
+</div>
+
+<div class="grid grid-cols-2 gap-6 text-base mt-8">
+
+<div class="p-4 bg-red-900/30 rounded-lg border border-red-500/30">
+<div class="text-3xl mb-2">❌</div>
+<strong>Traditional</strong><br/>
+60/40 Portfolio<br/>
+Focus: Growth
+</div>
+
+<div class="p-4 bg-green-900/30 rounded-lg border border-green-500/30">
+<div class="text-3xl mb-2">✓</div>
+<strong>HNW Needs</strong><br/>
+Tax Efficiency, Complexity<br/>
+Focus: After-Tax Wealth
+</div>
+
+</div>
+
+<div class="text-lg opacity-70 mt-6">
+Primary challenges are no longer just "growth"
+</div>
+
+</div>
+
+</div>
+
+---
+
+# The Three Core Failures
+
+<div class="grid grid-cols-3 gap-2 text-xs">
+
+<div class="border-2 border-red-500 p-2 rounded-lg">
+
+### 🚨 Complex Needs
+
+**Problem:** Simple allocation, no tax mgmt
+
+**Cost:** 30-40% unnecessary taxes
+
+<div class="mt-1 p-1 bg-red-900/30 rounded">
+$100M → $50M
+</div>
+
+<div class="mt-1 p-1 bg-green-900/30 rounded border border-green-500/30">
+✅ Tax Alpha Agent
+</div>
+
+</div>
+
+<div class="border-2 border-orange-500 p-2 rounded-lg">
+
+### 🔒 No Alt Access
+
+**Problem:** HNWIs demand 15% alts; advisors can't provide
+
+**Cost:** PE: 14%+ | PC: 9-12%
+
+<div class="mt-1 p-1 bg-orange-900/30 rounded">
+Missing 300-500 bps
+</div>
+
+<div class="mt-1 p-1 bg-green-900/30 rounded border border-green-500/30">
+✅ Alt Asset Agent
+</div>
+
+</div>
+
+<div class="border-2 border-yellow-500 p-2 rounded-lg">
+
+### 📊 Info Overload
+
+**Problem:** 100-pg reports, no insights
+
+**Cost:** "Data but no answers"
+
+<div class="mt-1 p-1 bg-yellow-900/30 rounded">
+Missed opportunities
+</div>
+
+<div class="mt-1 p-1 bg-green-900/30 rounded border border-green-500/30">
+✅ Agent Swarm
+</div>
+
+</div>
+
+</div>
+
+---
+
+# The Advisor Shortage Makes It Worse
+
+<div class="grid grid-cols-2 gap-4">
+
+<div>
+
+### 📉 The Looming Crisis
+
+<div class="space-y-2 text-sm">
+
+<div class="p-2 bg-red-900/30 rounded-lg border border-red-500/30">
+<div class="text-2xl font-bold text-red-400">100,000</div>
+<div class="text-sm">Advisor shortage by 2034</div>
+</div>
+
+**Why**
+- Aging workforce (40% over 55)
+- Few entering profession
+
+**What This Means**
+- Service quality declines
+- Only $50M+ get attention
+
+</div>
+
+</div>
+
+<div class="flex items-center justify-center">
+
+```mermaid {theme: 'dark', scale: 0.6}
+graph LR
+    A[2024] --> B[2029]
+    B --> C[2034]
+
+    A -->|HNW Demand| D[↗️ +45%]
+    A -->|Advisor Supply| E[↘️ -15%]
+
+    C -->|Service Gap| F[Massive]
+
+    style D fill:#059669
+    style E fill:#dc2626
+    style F fill:#ea580c
+```
+
+<div class="mt-2 text-center p-2 bg-orange-900/30 rounded-lg border border-orange-500/30">
+<div class="text-base font-bold">Gap is Guaranteed</div>
+<div class="text-xs opacity-80">
+Industry can't hire its way out
+</div>
+</div>
+
+</div>
+
+</div>
+
+---
+
+<div class="flex items-center justify-center h-full">
+
+<div class="text-center space-y-6 max-w-4xl px-8">
+
+<div class="text-3xl font-bold opacity-90">
+The Problems Are Clear.<br/>
+The Market Is Massive.<br/>
+Traditional Advisors Cannot Scale.
+</div>
+
+<div class="h-1 w-32 bg-gradient-to-r from-teal-500 to-purple-500 mx-auto"></div>
+
+<div class="text-xl opacity-70">
+The answer is an AI-powered system that scales infinitely<br/>
+while delivering personalized, institutional-grade service
+</div>
+
+</div>
+
+</div>
+
+---
+layout: section
+background: https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1920
+---
+
+# Our Solution
+
+<div class="text-2xl opacity-80">
+The AI-Powered Digital Family Office
+</div>
+
+---
+
+# The AI Digital Family Office
+
+<div class="grid grid-cols-2 gap-3">
+
+<div>
+
+### 🏛️ What We Are
+
+<div class="space-y-1 text-xs">
+
+<div class="p-2 bg-gradient-to-r from-teal-900/40 to-blue-900/40 rounded-lg border border-teal-500/30">
+<strong class="text-sm">Not Another Robo-Advisor</strong><br/>
+Complete family office services
+</div>
+
+**AI Investment Committee**
+- Chief Investment Officer
+- Tax Attorney
+- Research Analyst
+- Risk Manager
+- Alternative Investment Specialist
+
+**Available 24/7**
+- Real-time analysis
+- Proactive recommendations
+- Instant execution
+- Continuous monitoring
+- Always learning
+
+</div>
+
+</div>
+
+<div class="p-2 border-2 border-purple-500 rounded-lg bg-black/40">
+
+### 📱 Platform Preview
+
+<div class="space-y-1 text-xs">
+
+**Consolidated Dashboard**
+```
+┌──────────────────────────┐
+│ Net Worth: $12.4M        │
+│ ↗️ +14.2% YTD (After Tax)│
+├──────────────────────────┤
+│ Public Eq   $7.2M  58%   │
+│ Private Eq  $2.5M  20%   │
+│ Real Estate $1.8M  15%   │
+│ Cash/Fixed  $0.9M   7%   │
+├──────────────────────────┤
+│ 🎯 Goals on Track        │
+│ ⚠️  Tax Alert            │
+│ 💡 New PE Opportunity    │
+└──────────────────────────┘
+```
+
+**Premium UX**
+- Dark mode, elegant
+- Real-time data viz
+- Mobile-first
+- Bank-level security
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Our Solution: A Proven, Live & Integrated Platform
+
+<div class="text-center text-xs opacity-70 mb-2">
+Full-stack agentic AI platform — Live, validated with real-money portfolio
+</div>
+
+<div class="grid grid-cols-2 gap-3">
+
+<div class="space-y-1">
+<div class="text-xs font-semibold text-teal-400">Broker-Agnostic Platform</div>
+<img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded border border-teal-500/30 w-full" />
+<div class="text-[10px] opacity-60">Real-money tracking • Zerodha live • US brokers ready</div>
+</div>
+
+<div class="space-y-1">
+<div class="text-xs font-semibold text-green-400">AI Investment Committee</div>
+<img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded border border-green-500/30 w-full" />
+<div class="text-[10px] opacity-60">Multi-agent swarm • Live consensus workflow</div>
+</div>
+
+<div class="space-y-1">
+<div class="text-xs font-semibold text-blue-400">Advisory & Execution Engine</div>
+<img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded border border-blue-500/30 w-full" />
+<div class="text-[10px] opacity-60">AI-powered actions • 16K+ funds analyzed • One-click execution</div>
+</div>
+
+<div class="flex items-center justify-center">
+<div class="text-center space-y-2 p-4">
+<div class="text-2xl font-bold bg-gradient-to-r from-teal-400 to-green-400 bg-clip-text text-transparent">100%</div>
+<div class="text-sm font-semibold">Operational Today</div>
+<div class="text-xs opacity-70 leading-relaxed">All core systems live and validated with real portfolio data</div>
+<div class="mt-3 pt-3 border-t border-teal-500/20 text-[10px] opacity-50">Now scaling to US market</div>
+</div>
+</div>
+
+</div>
+
+---
+
+# Your Personal AI Investment Committee
+
+<div class="grid grid-cols-2 gap-4">
+
+<div>
+
+### ❌ The Old Model
+
+<div class="p-2 bg-red-900/20 rounded-lg border border-red-500/30 text-center">
+
+```mermaid {theme: 'dark', scale: 0.6}
+graph TD
+    A[Investor] --> B[Single Advisor]
+    B --> C[Limited Analysis]
+    B --> D[Slow Response]
+    B --> E[Conflicts]
+
+    style B fill:#dc2626
+```
+
+<div class="text-xs text-left mt-2">
+
+**Bottleneck**
+One person, business hours, commission-driven
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+### ✅ Our Model
+
+<div class="p-2 bg-green-900/20 rounded-lg border border-green-500/30 text-center">
+
+```mermaid {theme: 'dark', scale: 0.6}
+graph TD
+    A[Investor] --> B[Orchestrator]
+    B --> C[Risk]
+    B --> D[Tax]
+    B --> E[Portfolio]
+    B --> F[Alts]
+    B --> G[Research]
+
+    C --> H[Consensus]
+    D --> H
+    E --> H
+    F --> H
+    G --> H
+
+    style B fill:#7c3aed
+    style H fill:#059669
+```
+
+<div class="text-xs text-left mt-2">
+
+**The Swarm**
+Collective intelligence, 24/7, infinitely scalable
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+<div class="flex items-center justify-center h-full">
+
+<div class="text-center space-y-5 max-w-3xl px-8">
+
+<div class="text-2xl font-semibold opacity-90">
+To deliver institutional-grade advisory at scale,<br/>
+we didn't build a single AI chatbot
+</div>
+
+<div class="text-3xl font-bold text-teal-400 mt-4">
+We built a Digital Family Office<br/>
+powered by specialized Agent Swarms
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Your AI Digital Family Office: The Agent Swarms
+
+<div class="text-xs opacity-80 mb-1">
+A Committee of Specialized AI Agents, Not a Single AI
+</div>
+
+<div class="text-xs">
+
+```mermaid {theme: 'dark', scale: 0.5}
+graph TB
+    subgraph Orchestrator["🎯 Orchestrator"]
+        ORCH[Delegation]
+    end
+
+    subgraph Portfolio["💼 Portfolio"]
+        PT[Tracker]
+        RM[Risk]
+        RB[Rebalance]
+        TE[Execute]
+    end
+
+    subgraph Strategy["🧠 Strategy"]
+        WB[Buffett]
+        BG[Graham]
+        RD[Dalio]
+        MPT[MPT]
+    end
+
+    subgraph Research["📊 Research"]
+        MS[Scanner]
+        NA[News]
+        ST[Sentiment]
+    end
+
+    subgraph Specialized["⭐ HNW"]
+        TAX[Tax]
+        ALT[Alts]
+        IND[India]
+    end
+
+    ORCH --> Portfolio
+    ORCH --> Strategy
+    ORCH --> Research
+    ORCH --> Specialized
+
+    style Orchestrator fill:#7c3aed
+    style Portfolio fill:#0d9488
+    style Strategy fill:#059669
+    style Research fill:#3b82f6
+    style Specialized fill:#f59e0b
+```
+
+</div>
+
+<div class="text-center text-xs p-1 bg-gradient-to-r from-purple-900/30 to-teal-900/30 rounded-lg border border-purple-500/30">
+<strong>Multi-Model AI:</strong> GPT-4 • Claude • Gemini
+</div>
+
+---
+
+<div class="flex items-center justify-center h-full">
+
+<div class="text-center space-y-6 max-w-4xl px-12">
+
+<div class="text-3xl font-semibold opacity-90">
+Remember the three core failures we identified?
+</div>
+
+<div class="text-4xl font-bold text-orange-400 mt-4">
+Our specialized agents directly solve each one
+</div>
+
+<div class="text-xl opacity-70 mt-6">
+While our core agents are powerful, our true alpha comes from<br/>
+specialized agents that solve the highest-friction HNW problems
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Our HNW Moat: The Specialized "Alpha" Agents
+
+<div class="text-xs opacity-80 mb-1">
+Solving the Three Highest-Friction Problems Traditional Advisors Cannot Scale
+</div>
+
+<div class="grid grid-cols-3 gap-2">
+
+<div class="border-2 border-red-500 p-2 rounded-lg bg-red-900/20">
+
+### 💰 Tax Alpha Agent
+
+<div class="text-xs">
+
+**Problem:** HNWIs lose millions to inefficient tax mgmt. Advisors harvest quarterly at best.
+
+<div class="mt-1 p-1 bg-red-900/30 rounded-lg border border-red-500/30">
+<strong>Solution:</strong> Daily tax-loss harvesting
+</div>
+
+</div>
+
+</div>
+
+<div class="border-2 border-orange-500 p-2 rounded-lg bg-orange-900/20">
+
+### 📄 Alt Assets Agent
+
+<div class="text-xs">
+
+**Problem:** HNWIs demand private markets (15%), but 80% of data trapped in 100-pg docs.
+
+<div class="mt-1 p-1 bg-orange-900/30 rounded-lg border border-orange-500/30">
+<strong>Solution:</strong> AI generates 1-pg memos
+</div>
+
+</div>
+
+</div>
+
+<div class="border-2 border-yellow-500 p-2 rounded-lg bg-yellow-900/20">
+
+### 🌏 India Gateway Agent
+
+<div class="text-xs">
+
+**Problem:** Accessing India = nightmare of FPI regs, tax, currency risk.
+
+<div class="mt-1 p-1 bg-yellow-900/30 rounded-lg border border-yellow-500/30">
+<strong>Solution:</strong> GIFT City eliminates tax/currency risk
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+# A "Segment of One" for HNW Investors
+
+<div class="grid grid-cols-3 gap-2 text-xs">
+
+<div class="border-2 border-teal-500 p-2 rounded-lg bg-teal-900/20">
+
+### 🎯 Holistic
+
+**AI Capabilities**
+Unified view, risk mgmt, forecasting
+
+**HNW Difference**
+PE, RE, trusts integrated
+
+<div class="mt-1 p-1 bg-teal-900/40 rounded border border-teal-500/30">
+<strong>Value:</strong> Complete picture
+</div>
+
+</div>
+
+<div class="border-2 border-green-500 p-2 rounded-lg bg-green-900/20">
+
+### 💰 Tax Alpha
+
+**Optimization**
+Daily TLH, wash-sale prevention
+
+**HNW Impact**
+2-3% annually
+$10M = $200-300K/yr
+
+<div class="mt-1 p-1 bg-green-900/40 rounded border border-green-500/30">
+<strong>Value:</strong> Tax > Alpha
+</div>
+
+</div>
+
+<div class="border-2 border-purple-500 p-2 rounded-lg bg-purple-900/20">
+
+### 🏦 Alt Access
+
+**Intelligence**
+AI due diligence
+100-pg → 1-pg
+
+**We Unlock**
+PE, PC, RE, structured products
+
+<div class="mt-1 p-1 bg-purple-900/40 rounded border border-purple-500/30">
+<strong>Value:</strong> 15% drives alpha
+</div>
+
+</div>
+
+</div>
+
+---
+layout: section
+background: https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=1920
+---
+
+# The Technology
+
+<div class="text-2xl opacity-80">
+How the AI "Thinks"
+</div>
+
+---
+
+# Core: The "Portfolio Management" Swarm
+
+<div class="grid grid-cols-2 gap-4">
+
+<div class="space-y-2">
+
+### 🤖 The Specialized Agents
+
+<div class="p-2 border-l-4 border-blue-500 bg-blue-900/20">
+<strong class="text-sm">Portfolio Tracker</strong><br/>
+<div class="text-xs mt-1">
+Consolidates accounts. Real-time positions.
+</div>
+</div>
+
+<div class="p-2 border-l-4 border-green-500 bg-green-900/20">
+<strong class="text-sm">Allocation Optimizer</strong><br/>
+<div class="text-xs mt-1">
+Optimal asset mixes. MPT + AI learning.
+</div>
+</div>
+
+<div class="p-2 border-l-4 border-purple-500 bg-purple-900/20">
+<strong class="text-sm">Rebalancing Agent</strong><br/>
+<div class="text-xs mt-1">
+Monitors drift (>5%). Tax-aware.
+</div>
+</div>
+
+<div class="p-2 border-l-4 border-orange-500 bg-orange-900/20">
+<strong class="text-sm">Risk Manager</strong><br/>
+<div class="text-xs mt-1">
+Real-time stress tests. Proactive alerts.
+</div>
+</div>
+
+</div>
+
+<div class="p-3 border-2 border-teal-500 rounded-lg bg-black/40">
+
+### 📊 Dashboard Preview
+
+<div class="text-xs">
+
+```
+Portfolio: $8.4M ↗️ +12.3% YTD
+━━━━━━━━━━━━━━━━━━━━━━━
+Asset Allocation
+US Stocks   $3.2M 38% ████
+Intl Stock  $1.4M 17% ██
+Bonds       $1.6M 19% ██
+Alts        $1.4M 17% ██
+Cash        $0.8M  9% █
+
+Risk Metrics
+Beta: 0.85  Sharpe: 1.42
+Max DD: -8.2%
+
+⚠️ Tech overweight → Rebalance
+```
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Our Edge: The "Tax Alpha" Agent
+
+<div class="grid grid-cols-2 gap-4">
+
+<div>
+
+### 💎 What Others Can't Do
+
+<div class="space-y-1 text-xs">
+
+**The Problem**
+- Wealthfront/Betterment: Monthly TLH
+- Most RIAs: Yearly TLH
+- Miss 80% of opportunities
+
+**Our Daily TLH**
+- Scans **every market day**
+- Wash-sale-aware trades
+- **2-4x more savings**
+
+**Smart Offsetting**
+- ST gains (37% tax) first
+- Then LT gains (20%)
+
+</div>
+
+</div>
+
+<div class="flex flex-col justify-center">
+
+### 📈 The Impact
+
+<div class="p-3 bg-gradient-to-br from-green-900/40 to-emerald-900/40 rounded-lg border-2 border-green-500/30">
+
+```mermaid {scale: 0.6}
+graph LR
+    A[Return<br/>+10%] --> B{Tax}
+    B -->|Yearly TLH| C[+7.0%]
+    B -->|Daily TLH| D[+8.8%]
+
+    style C fill:#dc2626
+    style D fill:#059669
+```
+
+<div class="text-center mt-2">
+<div class="text-xl font-bold text-green-400">+1.8%</div>
+<div class="text-xs">Additional annual return</div>
+<div class="text-xs opacity-70 mt-1">
+$10M = <strong>$180K/year</strong>
+</div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Our "Unfair Advantage": Alternative Asset Agent
+
+<div class="grid grid-cols-2 gap-3 text-xs">
+
+<div>
+
+### 🔓 Unlocking Private Markets
+
+**The Problem:** 80% of data trapped in 100-pg PDFs
+
+**Our AI Solution**
+- Reads & synthesizes docs
+- Generates 1-page memos
+- Tracks performance
+
+<div class="mt-2 p-1 bg-purple-900/30 rounded-lg border border-purple-500/30">
+<strong>Result:</strong> Institutional DD without analyst team
+</div>
+
+</div>
+
+<div class="p-2 border-2 border-purple-500 rounded-lg bg-black/40">
+
+### 📄 AI Deal Memo
+
+```
+Acme Private Credit Fund IV
+━━━━━━━━━━━━━━━━━━━━━━
+Overview
+Direct Lending
+IRR: 12-14% | 7yrs | $250K
+
+Terms
+Mgmt: 1.5% | Perf: 20%
+Quarterly distributions
+
+Risk
+Credit: ⚠️ Med | Market: ✅ Low
+Liquidity: ⚠️ High
+
+✅ SUITABLE
+Fits 15% alt target
+```
+
+</div>
+
+</div>
+
+---
+
+<div class="flex items-center justify-center h-full">
+
+<div class="text-center space-y-5 max-w-3xl px-8">
+
+<div class="text-2xl font-semibold opacity-90">
+One of these specialized agents unlocks<br/>
+an entirely new market
+</div>
+
+<div class="text-3xl font-bold text-yellow-400 mt-4">
+A market traditional advisors<br/>
+cannot access
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Unlocking a New Market: The "India Gateway"
+
+<div class="text-xs opacity-80 mb-2">
+How Our AI Solves the Cross-Border Investment Problem
+</div>
+
+<div class="text-xs">
+
+<div class="grid grid-cols-2 gap-2">
+
+<div class="space-y-1">
+
+### ❌ Old FPI Route
+
+<div class="p-1 border-2 border-red-500 rounded-lg bg-red-900/20">
+<strong>Complex Red Tape</strong><br/>
+Heavy FPI burdens
+</div>
+
+<div class="p-1 border-2 border-red-500 rounded-lg bg-red-900/20">
+<strong>Crippling Tax</strong><br/>
+Capital Gains, STT
+</div>
+
+<div class="p-1 border-2 border-red-500 rounded-lg bg-red-900/20">
+<strong>Currency Risk</strong><br/>
+INR depreciation
+</div>
+
+<div class="p-1 border-2 border-red-500 rounded-lg bg-red-900/20">
+<strong>Repatriation</strong><br/>
+Slow, restrictive
+</div>
+
+</div>
+
+<div class="space-y-1">
+
+### ✅ GIFT City Solution
+
+<div class="p-1 border-2 border-green-500 rounded-lg bg-green-900/20">
+<strong>Direct Access</strong><br/>
+IFSC for foreign investors
+</div>
+
+<div class="p-1 border-2 border-green-500 rounded-lg bg-green-900/20">
+<strong>0% Tax</strong><br/>
+No Capital Gains/STT
+</div>
+
+<div class="p-1 border-2 border-green-500 rounded-lg bg-green-900/20">
+<strong>USD-Denominated</strong><br/>
+Hard currency
+</div>
+
+<div class="p-1 border-2 border-green-500 rounded-lg bg-green-900/20">
+<strong>Unrestricted</strong><br/>
+Free fund movement
+</div>
+
+</div>
+
+</div>
+
+<div class="mt-2 p-1 bg-gradient-to-r from-yellow-900/40 to-orange-900/40 rounded-lg border border-yellow-500/30 text-center text-xs">
+<strong>GIFT City (IFSC)</strong> eliminates traditional friction
+</div>
+
+</div>
+
+---
+
+# The "GIFT City Access" AI Agent
+
+<div class="text-base opacity-80 mb-3">
+Your Personal Cross-Border Compliance Officer
+</div>
+
+<div class="grid grid-cols-2 gap-4">
+
+<div>
+
+### 💬 The AI Experience
+
+<div class="text-xs">
+
+<div class="p-2 border-2 border-teal-500 rounded-lg bg-black/40">
+
+```
+User: "I want 5% India exposure but worried
+about tax and currency. What's best?"
+
+AI: "Use GIFT City gateway - USD-denominated
+Indian equity funds with 0% Indian capital
+gains tax and no currency risk."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Recommendation
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Action: 5% to Indian Equities
+Vehicle: ABC India Flexi Cap (USD)
+Route: GIFT City (NSE IX)
+Tax: 0% | Repatriation: Unrestricted
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+### 🤖 What This Agent Does
+
+<div class="text-sm space-y-2">
+
+<div class="p-2 border-l-4 border-blue-500 bg-blue-900/20">
+<strong>Automated Compliance</strong><br/>
+<div class="mt-1 text-xs">
+Manages cross-border AML/KYC checks
+</div>
+</div>
+
+<div class="p-2 border-l-4 border-green-500 bg-green-900/20">
+<strong>Tax & Route Optimization</strong><br/>
+<div class="mt-1 text-xs">
+Analyzes FPI vs GIFT City for best path
+</div>
+</div>
+
+<div class="p-2 border-l-4 border-purple-500 bg-purple-900/20">
+<strong>Seamless Execution</strong><br/>
+<div class="mt-1 text-xs">
+End-to-end investment & repatriation
+</div>
+</div>
+
+<div class="mt-3 p-2 bg-gradient-to-r from-orange-900/40 to-yellow-900/40 rounded-lg border border-orange-500/30 text-xs">
+<strong>Advantage:</strong> Only AI platform with automated GIFT City access
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Agentic Workflow: From Query to Portfolio
+
+<div class="text-xs opacity-80 mb-2">Example: HNW Liquidity Event</div>
+
+<div class="grid grid-cols-3 gap-2">
+
+<div class="p-2 border-2 border-blue-500 rounded-lg bg-blue-900/20">
+<div class="text-base mb-1 text-center">1️⃣</div>
+<strong class="text-xs">User Input</strong>
+<div class="text-xs mt-1">
+"$10M event. Invest for growth, minimize taxes, get private credit"
+</div>
+</div>
+
+<div class="p-2 border-2 border-purple-500 rounded-lg bg-purple-900/20">
+<div class="text-base mb-1 text-center">2️⃣</div>
+<strong class="text-xs">Orchestration</strong>
+<div class="text-xs mt-1">
+Activates: Tax, Alts, Portfolio
+</div>
+</div>
+
+<div class="p-2 border-2 border-green-500 rounded-lg bg-green-900/20">
+<div class="text-base mb-1 text-center">3️⃣</div>
+<strong class="text-xs">Analysis</strong>
+<div class="text-xs mt-1">
+Tax: TLH<br/>
+Alts: 3 PC funds<br/>
+Portfolio: Core
+</div>
+</div>
+
+<div class="p-2 border-2 border-teal-500 rounded-lg bg-teal-900/20">
+<div class="text-base mb-1 text-center">4️⃣</div>
+<strong class="text-xs">Consensus</strong>
+<div class="text-xs mt-1">
+Debate & validate<br/>
+Synthesize plan
+</div>
+</div>
+
+<div class="p-2 border-2 border-orange-500 rounded-lg bg-orange-900/20">
+<div class="text-base mb-1 text-center">5️⃣</div>
+<strong class="text-xs">Presentation</strong>
+<div class="text-xs mt-1">
+"60% public, 20% PC, 20% munis, harvest $50K"
+</div>
+</div>
+
+<div class="p-2 border-2 border-pink-500 rounded-lg bg-pink-900/20">
+<div class="text-base mb-1 text-center">6️⃣</div>
+<strong class="text-xs">Execution</strong>
+<div class="text-xs mt-1">
+Approve → Execute → Monitor
+</div>
+</div>
+
+</div>
+
+---
+
+<div class="flex items-center justify-center h-full">
+
+<div class="text-center space-y-5 max-w-3xl px-8">
+
+<div class="text-2xl font-semibold opacity-90">
+Our agents solve today's problems
+</div>
+
+<div class="text-3xl font-bold text-purple-400 mt-4">
+Here's what we're building next
+</div>
+
+<div class="text-lg opacity-70 mt-4">
+Our agentic framework is extensible.<br/>
+Next, we tackle concentrated stock risk.
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Roadmap: The AI Equity Agent
+
+<div class="grid grid-cols-2 gap-6">
+
+<div>
+
+### 🎯 Concentrated Stock
+
+<div class="text-sm">
+
+**HNW Pain Point**
+- $5M+ in company stock
+- Post-IPO lockup
+- Inherited positions
+- Market timing fear
+- Tax paralysis
+
+**Our AI Equity Agent**
+
+</div>
+
+<div class="space-y-2 mt-3">
+
+<div class="p-2 border-l-4 border-blue-500 bg-blue-900/20">
+<strong class="text-sm">Fundamental Agent</strong><br/>
+<div class="text-xs mt-1">
+Balance sheets, moats, mgmt quality
+</div>
+</div>
+
+<div class="p-2 border-l-4 border-green-500 bg-green-900/20">
+<strong class="text-sm">Technical Agent</strong><br/>
+<div class="text-xs mt-1">
+Chart patterns, momentum, levels
+</div>
+</div>
+
+<div class="p-2 border-l-4 border-purple-500 bg-purple-900/20">
+<strong class="text-sm">Sentiment Agent</strong><br/>
+<div class="text-xs mt-1">
+News, filings, social sentiment
+</div>
+</div>
+
+</div>
+
+</div>
+
+<div class="p-4 border-2 border-teal-500 rounded-lg bg-black/40">
+
+### 💼 Use Case
+
+<div class="text-xs">
+
+```
+"Analyze $5M AAPL. Tax-efficient
+diversification + income strategy."
+
+AI Analysis: AAPL
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Price: $182.50  Position: $5M
+Cost: $95  Gain: $2.4M (92%)
+
+Scores: Fund 8.5 | Tech 7.2
+        Sentiment 8.1
+
+Recommendation
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ PHASED DIVERSIFICATION
+   Y1: Sell 25% ($1.25M)
+   Y2: Sell 25% ($1.25M)
+   Keep: 50% ($2.5M)
+
+💰 INCOME
+   Covered Calls (2% OTM)
+   ~$120K/year income
+
+📊 TAX
+   2yr spread + TLH offset
+   Save $100K in taxes
+```
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Our Tech Stack & API-First Design
+
+<div class="grid grid-cols-2 gap-4">
+
+<div>
+
+### ⚙️ Production Stack
+
+<div class="text-xs">
+
+**Frontend**
+- React 18 + TypeScript
+- Tailwind + Shadcn UI
+- Recharts viz
+- Mobile-first
+
+**Backend & AI**
+- Node.js + Express
+- FastAPI ML services
+- LangGraph orchestration
+- Multi-LLM (GPT-4, Claude, Gemini)
+
+**Data & Infra**
+- PostgreSQL (dual DBs)
+- pgvector embeddings
+- Redis caching
+- 99.9% uptime SLA
+
+</div>
+
+</div>
+
+<div>
+
+### 🔗 Built for Integration
+
+```mermaid {theme: 'dark', scale: 0.55}
+graph TB
+    A[AI Platform] --> B{API Layer}
+
+    B --> C[IB]
+    B --> D[Alpaca]
+    B --> E[TD]
+    B --> F[Schwab]
+
+    B --> G[Market Data]
+    B --> H[Tax APIs]
+    B --> I[Alt Platforms]
+
+    style A fill:#7c3aed
+    style B fill:#0d9488
+    style C fill:#3b82f6
+    style D fill:#3b82f6
+    style E fill:#3b82f6
+    style F fill:#3b82f6
+```
+
+<div class="text-xs mt-1">
+
+**Not a Brokerage**
+- Pure AI intelligence
+- Broker-agnostic
+
+</div>
+
+</div>
+
+</div>
+
+<div class="mt-2 text-center p-2 bg-gradient-to-r from-teal-900/40 to-blue-900/40 rounded-lg border border-teal-500/30 text-xs">
+<strong>US Market Ready:</strong> Built for Interactive Brokers & Alpaca integration.
+</div>
+
+---
+layout: section
+background: https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=1920
+---
+
+# User Journeys
+
+<div class="text-2xl opacity-80">
+HNW Personas & Real Solutions
+</div>
+
+---
+
+# User Journey 1: "Jed, the Active Investor"
+
+<div class="grid grid-cols-3 gap-2">
+
+<div class="p-2 border-2 border-blue-500 rounded-lg bg-blue-900/20">
+
+### 👤 Persona
+
+<div class="text-xs">
+
+**Jed, 42, Tech Executive**
+- $8M liquid worth
+- $5M company stock
+- DIY spirit, lacks time
+- Wants alternatives
+- Options strategies
+- Frustrated w/ generic advice
+
+<div class="mt-1 p-1 bg-blue-900/30 rounded text-xs">
+<strong>Pain:</strong> "Need help executing properly"
+</div>
+
+</div>
+
+</div>
+
+<div class="p-2 border-2 border-green-500 rounded-lg bg-green-900/20">
+
+### 🎯 Solution
+
+<div class="text-xs">
+
+**AI Analyzes Stock**
+- Fundamental + technical
+- Covered call strategy
+- $150K annual income
+- Downside protection
+
+**AI Scouts PE**
+- Scans 200+ funds
+- Filters to tech focus
+- Top 3 into 1-pg memos
+- Highlights: Sequoia XV
+
+**Execution**
+- Jed approves
+- AI sets up via IBKR
+- Facilitates PE docs
+
+</div>
+
+</div>
+
+<div class="p-2 border-2 border-purple-500 rounded-lg bg-purple-900/20">
+
+### 📊 Outcome
+
+<div class="text-xs">
+
+**After 12 Months**
+
+<div class="space-y-1 text-xs">
+
+<div class="p-1 bg-green-900/30 rounded">
+<strong>Income:</strong> $142K<br/>
+Covered calls on AAPL
+</div>
+
+<div class="p-1 bg-teal-900/30 rounded">
+<strong>Diversification:</strong> 35%<br/>
+Reduced 62% → 40%
+</div>
+
+<div class="p-1 bg-blue-900/30 rounded">
+<strong>PE Allocation:</strong> $1.5M<br/>
+2 top-tier funds
+</div>
+
+<div class="p-1 bg-purple-900/30 rounded">
+<strong>Tax Savings:</strong> $85K<br/>
+Strategic TLH
+</div>
+
+</div>
+
+<div class="mt-1 p-1 bg-teal-900/30 rounded border border-teal-500/30 text-xs">
+<strong>Verdict:</strong> "Speaks my language, my speed"
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+# User Journey 2: "Chris, the 'Hands-Off' Inheritor"
+
+<div class="grid grid-cols-3 gap-2 text-xs">
+
+<div class="p-2 border-2 border-blue-500 rounded-lg bg-blue-900/20">
+
+### 👤 Persona
+
+**Chris, 35, Inherited**
+$12M fragmented: 4 banks, 2 trusts, 3 RE
+
+<div class="mt-2 p-1 bg-red-900/30 rounded border border-red-500/30">
+<strong>Pain:</strong> "Scattered and risky"
+</div>
+
+</div>
+
+<div class="p-2 border-2 border-green-500 rounded-lg bg-green-900/20">
+
+### 🎯 Solution
+
+**AI Consolidates**
+All accounts unified: $12.4M
+
+**AI Risk Manager**
+Flags $800K bond exposure
+62% at risk if rates rise
+
+**AI Proposes**
+Restructure: 12yr → 5yr duration
+Add TIPS protection
+
+</div>
+
+<div class="p-2 border-2 border-purple-500 rounded-lg bg-purple-900/20">
+
+### 📊 Outcome
+
+**After 6 Months**
+
+<div class="space-y-1">
+
+<div class="p-1 bg-teal-900/30 rounded">
+Consolidated: 100%
+</div>
+
+<div class="p-1 bg-green-900/30 rounded">
+Risk: -42%
+</div>
+
+<div class="p-1 bg-blue-900/30 rounded">
+Goals Aligned: ✅
+</div>
+
+</div>
+
+<div class="mt-1 p-1 bg-teal-900/30 rounded border border-teal-500/30">
+<strong>Verdict:</strong> "I finally sleep well"
+</div>
+
+</div>
+
+</div>
+
+---
+
+# User Journey 3: "Sal, the Tax-Conscious Optimizer"
+
+<div class="grid grid-cols-3 gap-2 text-xs">
+
+<div class="p-2 border-2 border-blue-500 rounded-lg bg-blue-900/20">
+
+### 👤 Persona
+
+**Sal, 48, Entrepreneur**
+$6M liquid, 37% tax bracket
+Pays $200K+ yearly
+
+<div class="mt-2 p-1 bg-red-900/30 rounded border border-red-500/30">
+<strong>Pain:</strong> "Crushed by taxes"
+</div>
+
+</div>
+
+<div class="p-2 border-2 border-green-500 rounded-lg bg-green-900/20">
+
+### 🎯 Solution
+
+**AI Tax Alpha: Daily Scan**
+Tracks gains/losses daily
+
+**Alert (Dec 10th)**
+
+```
+⚠️ TLH ALERT
+Sell Fund A (-$72K)
+→ Offset $180K ST gains
+Tax Save: $26,640
+[ Execute ]
+```
+
+**Sal Approves → AI Executes**
+
+</div>
+
+<div class="p-2 border-2 border-purple-500 rounded-lg bg-purple-900/20">
+
+### 📊 Outcome
+
+**Year-End**
+
+<div class="space-y-1">
+
+<div class="p-1 bg-green-900/30 rounded">
+Tax Saved: $118K
+</div>
+
+<div class="p-1 bg-teal-900/30 rounded">
+Rate: 37% → 28%
+</div>
+
+<div class="p-1 bg-blue-900/30 rounded">
+Portfolio: +0.2%
+</div>
+
+<div class="p-1 bg-purple-900/30 rounded">
+ROI: 39x
+</div>
+
+</div>
+
+<div class="mt-1 p-1 bg-teal-900/30 rounded border border-teal-500/30">
+<strong>Verdict:</strong> "No-brainer"
+</div>
+
+</div>
+
+</div>
+
+---
+layout: section
+background: https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1920
+---
+
+# Market & Competition
+
+<div class="text-2xl opacity-80">
+Why We Win
+</div>
+
+---
+
+# The Competitive Landscape (US)
+
+<div class="text-center mb-8">
+
+### The "Magic Quadrant" for Wealth Tech
+
+</div>
+
+```mermaid {theme: 'dark', scale: 0.85}
+quadrantChart
+    title US Wealth Management Competitive Map
+    x-axis Low Tech → High Tech
+    y-axis Mass Market → HNW/Family Office
+
+    quadrant-1 "AI-Powered HNW (Our Space)"
+    quadrant-2 "Legacy HNW Platforms"
+    quadrant-3 "Robo-Advisors (Commoditized)"
+    quadrant-4 "Future Potential"
+
+    Wealthfront: [0.25, 0.20]
+    Betterment: [0.30, 0.15]
+    Addepar: [0.40, 0.70]
+    Black Diamond: [0.35, 0.75]
+    "Arta Finance": [0.80, 0.85]
+    "Our Platform": [0.85, 0.90]
+```
+
+<div class="grid grid-cols-2 gap-3 text-xs mt-6">
+<div class="p-2 border border-red-500 bg-red-900/20 rounded">
+<strong>Bottom-Left:</strong> Wealthfront, Betterment — Commoditized
+</div>
+<div class="p-2 border border-orange-500 bg-orange-900/20 rounded">
+<strong>Bottom-Right:</strong> Addepar, Black Diamond — Legacy tools
+</div>
+<div class="p-2 border border-blue-500 bg-blue-900/20 rounded">
+<strong>Top-Right:</strong> Arta Finance — Validates model
+</div>
+<div class="p-2 border border-green-500 bg-green-900/20 rounded">
+<strong>Top-Right (Us):</strong> Explainable AI, broker-agnostic, ready
+</div>
+</div>
+
+---
+
+# Why We Win: Our "Agentic" Moat
+
+<div class="grid grid-cols-3 gap-2">
+
+<div class="border-2 border-teal-500 p-2 rounded-lg bg-teal-900/20">
+
+### 🎯 HNW Specialization
+
+<div class="text-xs">
+
+**Not Generic Robo**
+- Tax Alpha (2-3% savings)
+- Alt Asset access (15%)
+- Concentrated stock
+- Multi-gen planning
+
+**Value Proof**
+- $10M → $200K/yr saved
+- Robos: $50K/yr
+- **4x the value**
+
+<div class="mt-1 p-1 bg-teal-900/40 rounded border border-teal-500/30 text-xs">
+Specialized agents solve high-value HNW problems
+</div>
+
+</div>
+
+</div>
+
+<div class="border-2 border-purple-500 p-2 rounded-lg bg-purple-900/20">
+
+### ✅ Validated Model
+
+<div class="text-xs">
+
+**Arta Finance Proof**
+- Ex-Googlers
+- $90M+ raised
+- Similar agentic arch
+- Targets same HNW segment
+- $250K minimum (we're $500K+)
+
+**Lessons Learned**
+- Model is proven and fundable
+- HNWIs will pay for AI advisory
+- We can execute better:
+  - Explainable AI (not black box)
+  - Broker-agnostic (more trust)
+  - Lower minimums (bigger TAM)
+
+<div class="mt-1 p-1 bg-purple-900/40 rounded border border-purple-500/30 text-xs">
+We are not pioneers — we are fast followers with better execution
+</div>
+
+</div>
+
+</div>
+
+<div class="border-2 border-blue-500 p-2 rounded-lg bg-blue-900/20">
+
+### 🔓 Broker-Agnostic Platform
+
+<div class="text-xs">
+
+**Why This Matters**
+- We are **not a brokerage**
+- Pure AI intelligence layer
+- Clients keep existing accounts
+- Plug into IBKR, Alpaca, Schwab
+- No custody risk, no transfer friction
+
+**The Trust Advantage**
+- "You're not holding my money"
+- "I can leave anytime"
+- "Works with my existing setup"
+- Reduces customer acquisition friction
+
+<div class="mt-1 p-1 bg-blue-900/40 rounded border border-blue-500/30 text-xs">
+Open platform = faster adoption. Arta/Addepar require full migration
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+# AI is the New Alpha
+
+<div class="flex items-center justify-center h-full">
+
+<div class="text-center space-y-6 max-w-4xl px-8">
+
+<div class="text-2xl font-semibold opacity-90">
+Recent studies show AI can outperform 93% of human managers by 600%<br/>
+by readjusting portfolios based on public data
+</div>
+
+<div class="p-6 bg-gradient-to-r from-blue-900/40 to-purple-900/40 rounded-lg border-2 border-blue-500/30">
+<div class="text-base opacity-80 mb-3">Stanford University Study, 2024</div>
+<div class="text-4xl font-bold text-blue-400">600%</div>
+<div class="text-lg mt-3">AI Outperformance vs Human Fund Managers</div>
+</div>
+
+<div class="text-xl opacity-70 mt-6">
+The race is on to deploy this power.<br/>
+We are winning.
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Market Sizing: The Opportunity
+
+<div class="grid grid-cols-2 gap-3 text-xs">
+
+<div>
+
+### 🎯 TAM / SAM / SOM
+
+**TAM**
+US HNW: 7.9M | $107T wealth
+Advisor spend: $1-2T/yr
+
+**SAM**
+Tech-savvy: 2M | $1-3M avg
+Fee: 0.50%
+**Market: $10-30B/yr**
+
+**SOM (Year 3)**
+0.1% share | 2K clients
+$2.5B AUM
+**$12.5M revenue**
+
+</div>
+
+<div>
+
+### 📊 Growth Drivers
+
+<div class="space-y-1">
+
+<div class="p-1 border-l-4 border-teal-500 bg-teal-900/20">
+<strong>Demographics</strong><br/>
+$124T transfer | 562K new millionaires/yr
+</div>
+
+<div class="p-1 border-l-4 border-green-500 bg-green-900/20">
+<strong>Behavior</strong><br/>
+46% switching | 72% want alts
+</div>
+
+<div class="p-1 border-l-4 border-purple-500 bg-purple-900/20">
+<strong>Technology</strong><br/>
+41% use robos | AI accelerating
+</div>
+
+<div class="p-1 border-l-4 border-blue-500 bg-blue-900/20">
+<strong>Shortage</strong><br/>
+100K deficit by 2034 | AI fills gap
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+---
+layout: section
+background: https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1920
+---
+
+# The Team & Ask
+
+<div class="text-2xl opacity-80">
+Built by Experts, Ready to Scale
+</div>
+
+---
+
+# Our Team
+
+<div class="grid grid-cols-3 gap-3 text-xs">
+
+<div class="p-2 border-2 border-teal-500 rounded-lg bg-teal-900/20">
+
+### 👨‍💼 Leadership
+
+**[Founder, CEO]**
+10+ yrs wealth mgmt
+Ex-RIA, fintech exit
+
+**[Co-Founder, CTO]**
+ML/AI (Stanford/MIT)
+Ex-Google AI
+
+**[CFO / COO]**
+15+ yrs fin services
+SEC/FINRA expert
+
+</div>
+
+<div class="p-2 border-2 border-purple-500 rounded-lg bg-purple-900/20">
+
+### 🧑‍💻 Core Team
+
+**Engineering (8)**
+3 Full-stack, 2 AI/ML
+2 Data, 1 DevOps
+
+**Product (3)**
+1 PM, 2 UI/UX (ex-FAANG)
+
+**Operations (2)**
+Success, compliance
+
+**From:**
+Google, Meta, JPM, GS
+
+</div>
+
+<div class="p-2 border-2 border-blue-500 rounded-lg bg-blue-900/20">
+
+### 🎓 Advisory
+
+**Financial**
+Ex-SEC, RIA Partner
+FO Executive ($2B)
+
+**Technology**
+AI (Stanford)
+Fintech (2 exits)
+
+**Biz Dev**
+Wealth consultant
+IBKR partnerships
+
+</div>
+
+</div>
+
+<div class="mt-2 p-2 bg-gradient-to-r from-teal-900/40 to-purple-900/40 rounded-lg border border-teal-500/30">
+
+### 🏆 Traction
+
+<div class="grid grid-cols-3 gap-1 text-xs text-center mt-1">
+<div class="p-1 bg-green-900/30 rounded">✅ Live platform<br/>16K+ funds</div>
+<div class="p-1 bg-green-900/30 rounded">✅ Zerodha<br/>Live portfolio</div>
+<div class="p-1 bg-green-900/30 rounded">✅ Multi-agent<br/>Operational</div>
+<div class="p-1 bg-yellow-900/30 rounded">🔄 GIFT City<br/>In progress</div>
+<div class="p-1 bg-yellow-900/30 rounded">🔄 IBKR<br/>Q1</div>
+<div class="p-1 bg-blue-900/30 rounded">📋 Alpaca<br/>Q2 2025</div>
+</div>
+
+</div>
+
+---
+
+# The Ask
+
+<div class="flex items-center justify-center h-full">
+
+<div class="text-center space-y-12">
+
+<div class="text-5xl font-bold">
+Raising $2.5M Seed Round
+</div>
+
+<div class="text-2xl opacity-80">
+To become the definitive AI-powered digital family office<br/>
+for the next generation of US wealth
+</div>
+
+<div class="h-1 w-32 bg-gradient-to-r from-teal-500 to-purple-500 mx-auto"></div>
+
+<div class="text-xl opacity-70">
+18-month runway to product-market fit & Series A
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Use of Funds
+
+<div class="grid grid-cols-2 gap-4 text-xs">
+
+<div>
+
+### 💰 Capital Allocation
+
+<div class="space-y-1">
+
+<div class="p-1 bg-blue-900/30 rounded-lg border-l-4 border-blue-500">
+<strong class="text-base">40%</strong> — Product & Engineering
+</div>
+
+<div class="p-1 bg-green-900/30 rounded-lg border-l-4 border-green-500">
+<strong class="text-base">30%</strong> — API & Integration
+</div>
+
+<div class="p-1 bg-purple-900/30 rounded-lg border-l-4 border-purple-500">
+<strong class="text-base">20%</strong> — HNW Acquisition
+</div>
+
+<div class="p-1 bg-orange-900/30 rounded-lg border-l-4 border-orange-500">
+<strong class="text-base">10%</strong> — Operations
+</div>
+
+</div>
+
+</div>
+
+<div class="flex flex-col justify-center">
+
+```mermaid {theme: 'dark', scale: 0.7}
+pie title Use of Funds
+    "Product" : 40
+    "API" : 30
+    "Acquisition" : 20
+    "Operations" : 10
+```
+
+<div class="mt-2 space-y-1">
+
+**18-Month Milestones**
+- ✓ US entity & SEC RIA
+- ✓ 500 HNI beta users
+- ✓ $50M AUM
+- ✓ Tax Alpha Agent live
+- ✓ Equity Agent launched
+- ✓ Series A readiness
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Financial Projections
+
+<div class="grid grid-cols-2 gap-4">
+
+<div>
+
+### 📊 3-Year Growth Plan
+
+<div class="text-xs">
+
+| Metric | Y1 | Y2 | Y3 |
+|--------|--------|--------|--------|
+| **Users** | 200 | 800 | 2,000 |
+| **Avg Portfolio** | $1.0M | $1.2M | $1.25M |
+| **AUM** | $200M | $960M | $2.5B |
+| **Revenue** | $1.0M | $4.8M | $12.5M |
+| **EBITDA** | -$1.2M | +$0.8M | +$4.5M |
+
+</div>
+
+### 💎 Unit Economics
+
+<div class="space-y-1 mt-2 text-xs">
+
+<div class="p-2 bg-teal-900/30 rounded">
+<strong>CAC:</strong> $3,500 (blended)
+</div>
+
+<div class="p-2 bg-green-900/30 rounded">
+<strong>LTV:</strong> $62,500 (10-year)
+</div>
+
+<div class="p-2 bg-blue-900/30 rounded">
+<strong>LTV/CAC:</strong> 17.8:1
+</div>
+
+<div class="p-2 bg-purple-900/30 rounded">
+<strong>Payback:</strong> 3.5 months
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+### 📈 Growth Assumptions
+
+<div class="text-xs">
+
+<div class="space-y-2">
+
+**Acquisition Strategy**
+- Digital marketing (Google, Meta)
+- Content marketing (SEO)
+- Referral program
+- Strategic partnerships (CPAs, RIAs)
+
+**Retention Rate**
+- Target: 95% annually
+- Industry avg (robo): 85%
+- Our edge: Higher value
+
+**AUM Growth**
+- New clients: $1M avg
+- Organic: 8% annually
+- Deposits: 15% annually
+- Net: 23% AUM growth
+
+**Path to Profitability**
+- Break-even: Month 28
+- Cash-flow+: Month 30
+- Series A: Month 18 (optional)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+# Contact
+
+<div class="flex items-center justify-center h-full">
+
+<div class="text-center space-y-12">
+
+<div class="text-4xl font-bold">
+Thank You
+</div>
+
+<div class="grid grid-cols-2 gap-12 text-lg mt-12">
+
+<div class="p-8 border-2 border-teal-500 rounded-lg">
+<div class="text-2xl mb-4">📧 Get in Touch</div>
+<div class="space-y-2">
+<div><strong>Email:</strong> info@vora-ventures.com</div>
+<div><strong>Web:</strong> [Platform Demo]</div>
+<div><strong>LinkedIn:</strong> [Connect]</div>
+</div>
+</div>
+
+<div class="p-8 border-2 border-purple-500 rounded-lg">
+<div class="text-2xl mb-4">🎯 Schedule Demo</div>
+<div class="space-y-2 text-base opacity-80">
+<div>• Live platform walkthrough</div>
+<div>• Investment discussion</div>
+<div>• Beta access (HNIs)</div>
+</div>
+</div>
+
+</div>
+
+<div class="text-base opacity-60 mt-8">
+Built on GIFT City | Serving US HNWIs | Launching Q1 2025
+</div>
+
+</div>
+
+</div>
+
+---
+layout: center
+class: text-center
+---
+
+# Appendix
+
+Additional Details & Technical Deep-Dives
+
+---
+
+# Appendix A: Agentic Architecture
+
+<div class="text-xs">
+
+```mermaid {theme: 'dark', scale: 0.5}
+graph TB
+    U[👤 User]
+    O[🧠 Orchestrator]
+
+    subgraph Agents["🤖 Agents"]
+        P[Portfolio]
+        T[Tax]
+        A[Alts]
+        E[Equity]
+    end
+
+    C[⚖️ Consensus]
+    D[📊 Data]
+    X[⚡ Execution]
+
+    U --> O
+    O --> Agents
+    Agents --> C
+    C --> X
+    Agents <--> D
+    X --> U
+    X -.Feedback.-> O
+```
+
+**Key Layers:**
+- User: Web, mobile, API
+- Orchestrator: NLP, routing
+- Agents: Portfolio, Tax, Alts, Equity
+- Consensus: Validation, debate
+- Data: Market feeds, broker APIs
+- Execution: Trading, compliance
+
+</div>
+
+---
+
+# Appendix B: Tax-Loss Harvesting
+
+<div class="grid grid-cols-2 gap-3 text-xs">
+
+<div>
+
+### 📊 Why Daily Matters
+
+**Traditional (Annual)**
+Dec only | 30% captured
+$50K saved on $10M
+
+**Our Approach (Daily)**
+252 days/yr | 75% captured
+$150K saved on $10M
+
+**Impact**
++$100K/yr
+10yr: $1M+ extra
+Compounded: $1.4M
+
+</div>
+
+<div>
+
+### 🎯 Example
+
+**Portfolio (Dec 10)**
+
+```
+Position A: -$45K loss
+ST gains YTD: $180K
+
+AI: Sell A → Harvest $45K
+Buy Fund C (no wash sale)
+
+Tax saved: $16,650 (37%)
+Exposure: Unchanged
+
+[ Execute ]
+```
+
+**Result**
+2-min trade | $16.6K saved
+
+</div>
+
+</div>
+
+---
+
+# Appendix C: US Broker API Partners
+
+<div class="grid grid-cols-2 gap-3 text-xs">
+
+<div>
+
+### 🔗 Interactive Brokers
+
+**Why IBKR**
+TWS API | 135 countries
+HNW base | All assets
+
+**Features**
+Real-time sync | Orders
+Historical | Multi-currency
+
+**Status**
+Q1: Sandbox | Q2: Launch
+
+</div>
+
+<div>
+
+### 🔗 Alpaca Markets
+
+**Why Alpaca**
+Developer-first | Commission-free
+REST + WebSocket | Fractional
+
+**Features**
+Live streaming | Instant exec
+Paper trading | OAuth
+
+**Status**
+Q1: Integration | Q2: Beta
+
+</div>
+
+</div>
+
+<div class="mt-2 p-1 bg-gradient-to-r from-teal-900/40 to-blue-900/40 rounded-lg border border-teal-500/30 text-xs">
+<strong>Broker-Agnostic:</strong> Clients choose custodian, we provide intelligence
+</div>
+
+---
+
+# Appendix D: Security & Compliance
+
+<div class="grid grid-cols-3 gap-2 text-xs">
+
+<div class="border p-1 rounded-lg">
+
+### 🔒 Security
+
+**Encryption**
+AES-256 | TLS 1.3 | HSM
+
+**Access**
+RBAC | MFA | Biometric
+
+**Infra**
+AWS GovCloud | SOC 2
+Pen tests | Bug bounty
+
+</div>
+
+<div class="border p-1 rounded-lg">
+
+### ⚖️ Compliance
+
+**US**
+SEC RIA (Q1 2025)
+Form ADV | FINRA
+
+**GIFT City**
+IFSCA IA license
+Cross-border approved
+
+**Ops**
+CCO | Annual audits
+Disclosures | Best execution
+
+</div>
+
+<div class="border p-1 rounded-lg">
+
+### 📋 Protection
+
+**Custody**
+Never hold assets
+SIPC insured ($500K)
+
+**Privacy**
+GDPR | CCPA compliant
+Data minimization
+
+**Audit**
+All logged | Tracked
+Regulatory ready
+
+</div>
+
+</div>
