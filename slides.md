@@ -44,24 +44,31 @@ US High-Net-Worth Wealth in Motion
 
 # The $107T "Stranded" Wealth Opportunity
 
-<div class="grid grid-cols-3 gap-6 mt-8 max-h-[70vh]">
+<ThreeColumnLayout :gap="6">
 
-<div class="flex flex-col items-center justify-center p-6 bg-blue-900/20 rounded-xl border-2 border-blue-500/40">
-<div class="text-7xl font-bold text-blue-400 mb-4">39.7%</div>
-<div class="text-lg font-medium text-center leading-relaxed">of world's millionaires<br/>are in the US</div>
-</div>
+<StatCard
+  :value="39.7"
+  suffix="%"
+  label="of world's millionaires<br/>are in the US"
+  color="blue"
+  :animate="true"
+/>
 
-<div class="flex flex-col items-center justify-center p-6 bg-teal-900/20 rounded-xl border-2 border-teal-500/40">
-<div class="text-7xl font-bold text-teal-400 mb-4">7.9M</div>
-<div class="text-lg font-medium text-center leading-relaxed">Everyday Millionaires<br/>($1-5M liquid)</div>
-</div>
+<StatCard
+  value="7.9M"
+  label="Everyday Millionaires<br/>($1-5M liquid)"
+  color="teal"
+  :animate="true"
+/>
 
-<div class="flex flex-col items-center justify-center p-6 bg-green-900/20 rounded-xl border-2 border-green-500/40">
-<div class="text-7xl font-bold text-green-400 mb-4">$107T</div>
-<div class="text-lg font-medium text-center leading-relaxed">Total Wealth in this<br/>underserved segment</div>
-</div>
+<StatCard
+  value="$107T"
+  label="Total Wealth in this<br/>underserved segment"
+  color="green"
+  :animate="true"
+/>
 
-</div>
+</ThreeColumnLayout>
 
 ---
 
@@ -208,78 +215,33 @@ Retention collapsing
 
 # Why They Are Switching: The HNW "Guidance Gap"
 
-<div class="grid grid-cols-3 gap-6 mt-6 max-h-[72vh] overflow-hidden">
+<ThreeColumnLayout :gap="6">
 
-<div class="border-2 border-blue-500 p-4 rounded-xl bg-blue-900/20 flex flex-col">
+<ComparisonCard
+  icon="💻"
+  title="Digital"
+  color="blue"
+  want-text="24/7 Real-time Dashboards"
+  get-text="Quarterly PDFs"
+/>
 
-<div class="text-center mb-4">
-<div class="text-5xl mb-3">💻</div>
-<div class="text-2xl font-bold text-blue-400">Digital</div>
-</div>
+<ComparisonCard
+  icon="🏛️"
+  title="Products"
+  color="green"
+  want-text="Access to PE, Credit, RE"
+  get-text="Stocks & Bonds Only"
+/>
 
-<div class="space-y-4 text-base flex-1">
+<ComparisonCard
+  icon="⚖️"
+  title="Needs"
+  color="teal"
+  want-text="Proactive Tax & Legacy Planning"
+  get-text="Basic Asset Allocation"
+/>
 
-<div class="bg-blue-900/30 p-4 rounded-lg">
-<div class="font-bold text-green-400 mb-2">✓ Want</div>
-<div>24/7 Real-time Dashboards</div>
-</div>
-
-<div class="bg-red-900/30 p-4 rounded-lg">
-<div class="font-bold text-red-400 mb-2">✗ Get</div>
-<div>Quarterly PDFs</div>
-</div>
-
-</div>
-
-</div>
-
-<div class="border-2 border-green-500 p-4 rounded-xl bg-green-900/20 flex flex-col">
-
-<div class="text-center mb-4">
-<div class="text-5xl mb-3">🏛️</div>
-<div class="text-2xl font-bold text-green-400">Products</div>
-</div>
-
-<div class="space-y-4 text-base flex-1">
-
-<div class="bg-green-900/30 p-4 rounded-lg">
-<div class="font-bold text-green-400 mb-2">✓ Want</div>
-<div>Access to PE, Credit, RE</div>
-</div>
-
-<div class="bg-red-900/30 p-4 rounded-lg">
-<div class="font-bold text-red-400 mb-2">✗ Get</div>
-<div>Stocks & Bonds Only</div>
-</div>
-
-</div>
-
-</div>
-
-<div class="border-2 border-teal-500 p-4 rounded-xl bg-teal-900/20 flex flex-col">
-
-<div class="text-center mb-4">
-<div class="text-5xl mb-3">⚖️</div>
-<div class="text-2xl font-bold text-teal-400">Needs</div>
-</div>
-
-<div class="space-y-4 text-base flex-1">
-
-<div class="bg-teal-900/30 p-4 rounded-lg">
-<div class="font-bold text-green-400 mb-2">✓ Want</div>
-<div>Proactive Tax & Legacy Planning</div>
-</div>
-
-<div class="bg-red-900/30 p-4 rounded-lg">
-<div class="font-bold text-red-400 mb-2">✗ Get</div>
-<div>Basic Asset Allocation</div>
-</div>
-
-</div>
-
-</div>
-
-</div>
+</ThreeColumnLayout>
 
 ---
 layout: section
@@ -360,35 +322,7 @@ Primary challenges are no longer just "growth"
 
 </div>
 
-<div class="flex items-center justify-center">
-
-<div class="w-full">
-
-```mermaid {theme: 'dark', scale: 0.5}
-graph LR
-    A[2024] --> B[2029]
-    B --> C[2034]
-
-    A -->|HNW Demand| D[↗️ +45%]
-    A -->|Advisor Supply| E[↘️ -15%]
-
-    C -->|Service Gap| F[Massive]
-
-    style D fill:#059669
-    style E fill:#dc2626
-    style F fill:#ea580c
-```
-
-<div class="mt-2 text-center p-2 bg-orange-900/30 rounded-lg border border-orange-500/30">
-<div class="text-sm font-bold">Gap is Guaranteed</div>
-<div class="text-xs opacity-80">
-Industry can't hire its way out
-</div>
-</div>
-
-</div>
-
-</div>
+<TimelineChart />
 
 </div>
 
@@ -537,72 +471,19 @@ Full-stack agentic AI platform — Live, validated with real-money portfolio
 
 # Your Personal AI Investment Committee
 
-<div class="grid grid-cols-2 gap-4 max-h-[75vh] overflow-hidden">
+<TwoColumnLayout :gap="4">
 
 <div>
-
-### ❌ The Old Model
-
-<div class="p-2 bg-red-900/20 rounded-lg border border-red-500/30 text-center">
-
-```mermaid {theme: 'dark', scale: 0.6}
-graph TD
-    A[Investor] --> B[Single Advisor]
-    B --> C[Limited Analysis]
-    B --> D[Slow Response]
-    B --> E[Conflicts]
-
-    style B fill:#dc2626
-```
-
-<div class="text-xs text-left mt-2">
-
-**Bottleneck**
-One person, business hours, commission-driven
-
-</div>
-
-</div>
-
+  <div class="text-xl font-semibold mb-3">❌ The Old Model</div>
+  <FlowDiagram type="old" />
 </div>
 
 <div>
-
-### ✅ Our Model
-
-<div class="p-2 bg-green-900/20 rounded-lg border border-green-500/30 text-center">
-
-```mermaid {theme: 'dark', scale: 0.6}
-graph TD
-    A[Investor] --> B[Orchestrator]
-    B --> C[Risk]
-    B --> D[Tax]
-    B --> E[Portfolio]
-    B --> F[Alts]
-    B --> G[Research]
-
-    C --> H[Consensus]
-    D --> H
-    E --> H
-    F --> H
-    G --> H
-
-    style B fill:#7c3aed
-    style H fill:#059669
-```
-
-<div class="text-xs text-left mt-2">
-
-**The Swarm**
-Collective intelligence, 24/7, infinitely scalable
-
+  <div class="text-xl font-semibold mb-3">✅ Our Model</div>
+  <FlowDiagram type="new" />
 </div>
 
-</div>
-
-</div>
-
-</div>
+</TwoColumnLayout>
 
 ---
 
@@ -612,63 +493,33 @@ Collective intelligence, 24/7, infinitely scalable
 Solving the Three Highest-Friction Problems Traditional Advisors Cannot Scale
 </div>
 
-<div class="grid grid-cols-3 gap-6 max-h-[75vh] overflow-hidden">
+<ThreeColumnLayout :gap="6">
 
-<div class="border-2 border-orange-500 p-4 rounded-xl bg-orange-900/20">
+<AgentCard
+  icon="💰"
+  title="Tax Alpha Agent"
+  color="orange"
+  problem="HNWIs lose millions to inefficient tax mgmt. Advisors harvest quarterly at best."
+  solution="Daily tax-loss harvesting"
+/>
 
-<div class="text-xl font-semibold mb-4">💰 Tax Alpha Agent</div>
+<AgentCard
+  icon="📄"
+  title="Alt Assets Agent"
+  color="orange"
+  problem="HNWIs demand private markets (15%), but 80% of data trapped in 100-pg docs."
+  solution="AI generates 1-pg memos"
+/>
 
-<div class="text-base space-y-4">
+<AgentCard
+  icon="🌏"
+  title="India Gateway Agent"
+  color="orange"
+  problem="Accessing India = nightmare of FPI regs, tax, currency risk."
+  solution="GIFT City eliminates tax/currency risk"
+/>
 
-<div>
-<span class="font-semibold">Problem:</span> HNWIs lose millions to inefficient tax mgmt. Advisors harvest quarterly at best.
-</div>
-
-<div class="mt-4 p-3 bg-green-900/30 rounded-lg border border-green-500/40">
-<strong>Solution:</strong> Daily tax-loss harvesting
-</div>
-
-</div>
-
-</div>
-
-<div class="border-2 border-amber-500 p-4 rounded-xl bg-amber-900/20">
-
-<div class="text-xl font-semibold mb-4">📄 Alt Assets Agent</div>
-
-<div class="text-base space-y-4">
-
-<div>
-<span class="font-semibold">Problem:</span> HNWIs demand private markets (15%), but 80% of data trapped in 100-pg docs.
-</div>
-
-<div class="mt-4 p-3 bg-green-900/30 rounded-lg border border-green-500/40">
-<strong>Solution:</strong> AI generates 1-pg memos
-</div>
-
-</div>
-
-</div>
-
-<div class="border-2 border-yellow-500 p-4 rounded-xl bg-yellow-900/20">
-
-<div class="text-xl font-semibold mb-4">🌏 India Gateway Agent</div>
-
-<div class="text-base space-y-4">
-
-<div>
-<span class="font-semibold">Problem:</span> Accessing India = nightmare of FPI regs, tax, currency risk.
-</div>
-
-<div class="mt-4 p-3 bg-green-900/30 rounded-lg border border-green-500/40">
-<strong>Solution:</strong> GIFT City eliminates tax/currency risk
-</div>
-
-</div>
-
-</div>
-
-</div>
+</ThreeColumnLayout>
 
 ---
 layout: section
@@ -1017,60 +868,7 @@ End-to-end investment & repatriation
 
 <div class="text-xs opacity-80 mb-2">Example: HNW Liquidity Event</div>
 
-<div class="grid grid-cols-3 gap-2 max-h-[75vh] overflow-hidden">
-
-<div class="p-2 border-2 border-blue-500 rounded-lg bg-blue-900/20">
-<div class="text-base mb-1 text-center">1️⃣</div>
-<strong class="text-xs">User Input</strong>
-<div class="text-xs mt-1">
-"$10M event. Invest for growth, minimize taxes, get private credit"
-</div>
-</div>
-
-<div class="p-2 border-2 border-purple-500 rounded-lg bg-purple-900/20">
-<div class="text-base mb-1 text-center">2️⃣</div>
-<strong class="text-xs">Orchestration</strong>
-<div class="text-xs mt-1">
-Activates: Tax, Alts, Portfolio
-</div>
-</div>
-
-<div class="p-2 border-2 border-green-500 rounded-lg bg-green-900/20">
-<div class="text-base mb-1 text-center">3️⃣</div>
-<strong class="text-xs">Analysis</strong>
-<div class="text-xs mt-1">
-Tax: TLH<br/>
-Alts: 3 PC funds<br/>
-Portfolio: Core
-</div>
-</div>
-
-<div class="p-2 border-2 border-teal-500 rounded-lg bg-teal-900/20">
-<div class="text-base mb-1 text-center">4️⃣</div>
-<strong class="text-xs">Consensus</strong>
-<div class="text-xs mt-1">
-Debate & validate<br/>
-Synthesize plan
-</div>
-</div>
-
-<div class="p-2 border-2 border-orange-500 rounded-lg bg-orange-900/20">
-<div class="text-base mb-1 text-center">5️⃣</div>
-<strong class="text-xs">Presentation</strong>
-<div class="text-xs mt-1">
-"60% public, 20% PC, 20% munis, harvest $50K"
-</div>
-</div>
-
-<div class="p-2 border-2 border-pink-500 rounded-lg bg-pink-900/20">
-<div class="text-base mb-1 text-center">6️⃣</div>
-<strong class="text-xs">Execution</strong>
-<div class="text-xs mt-1">
-Approve → Execute → Monitor
-</div>
-</div>
-
-</div>
+<WorkflowSteps />
 
 ---
 
@@ -1220,34 +1018,7 @@ Recommendation
 
 ### 🔗 Built for Integration
 
-```mermaid {theme: 'dark', scale: 0.55}
-graph TB
-    A[AI Platform] --> B{API Layer}
-
-    B --> C[IB]
-    B --> D[Alpaca]
-    B --> E[TD]
-    B --> F[Schwab]
-
-    B --> G[Market Data]
-    B --> H[Tax APIs]
-    B --> I[Alt Platforms]
-
-    style A fill:#7c3aed
-    style B fill:#0d9488
-    style C fill:#3b82f6
-    style D fill:#3b82f6
-    style E fill:#3b82f6
-    style F fill:#3b82f6
-```
-
-<div class="text-xs mt-1">
-
-**Not a Brokerage**
-- Pure AI intelligence
-- Broker-agnostic
-
-</div>
+<ArchitectureDiagram title="API-First Design" />
 
 </div>
 
@@ -1479,30 +1250,16 @@ Why We Win
 
 # The Competitive Landscape (US)
 
-<div class="text-center mb-2">
+<div class="text-center mb-4">
 
 ### The "Magic Quadrant" for Wealth Tech
 
 </div>
 
-```mermaid {theme: 'dark', scale: 0.65}
-quadrantChart
-    title US Wealth Management Competitive Map
-    x-axis Low Tech --> High Tech
-    y-axis Mass Market --> HNW/Family Office
-
-    quadrant-1 "AI-Powered HNW (Our Space)"
-    quadrant-2 "Legacy HNW Platforms"
-    quadrant-3 "Robo-Advisors (Commoditized)"
-    quadrant-4 "Future Potential"
-
-    Wealthfront: [0.25, 0.20]
-    Betterment: [0.30, 0.15]
-    Addepar: [0.40, 0.70]
-    Black Diamond: [0.35, 0.75]
-    "Arta Finance": [0.80, 0.85]
-    "Our Platform": [0.85, 0.90]
-```
+<CompetitiveQuadrant
+  x-label="Low Tech → High Tech"
+  y-label="Mass Market → HNW/Family Office"
+/>
 
 <div class="grid grid-cols-2 gap-3 text-sm mt-2">
 <div class="p-3 border-2 border-red-400 bg-red-900/40 rounded-lg">
@@ -1774,15 +1531,18 @@ for the next generation of US wealth
 
 <div class="flex flex-col justify-center">
 
-```mermaid {theme: 'dark', scale: 0.7}
-pie title Use of Funds
-    "Product" : 40
-    "API" : 30
-    "Acquisition" : 20
-    "Operations" : 10
-```
+<PieChart
+  title="Use of Funds"
+  :size="300"
+  :data="[
+    { label: 'Product & Engineering', value: 40, color: '#3b82f6' },
+    { label: 'API & Integration', value: 30, color: '#14b8a6' },
+    { label: 'HNW Acquisition', value: 20, color: '#a855f7' },
+    { label: 'Operations', value: 10, color: '#f59e0b' }
+  ]"
+/>
 
-<div class="mt-2 space-y-1">
+<div class="mt-4 space-y-1 text-xs">
 
 **18-Month Milestones**
 - ✓ US entity & SEC RIA

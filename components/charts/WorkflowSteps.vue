@@ -10,7 +10,9 @@ interface Props {
   steps?: Step[]
 }
 
-const defaultSteps: Step[] = [
+const props = defineProps<Props>()
+
+const displaySteps = props.steps || [
   {
     emoji: '1️⃣',
     title: 'User Input',
@@ -49,10 +51,6 @@ const defaultSteps: Step[] = [
   },
 ]
 
-const props = withDefaults(defineProps<Props>(), {
-  steps: () => defaultSteps,
-})
-
 const colorClasses: Record<string, string> = {
   blue: 'border-blue-500 bg-blue-900/20',
   purple: 'border-purple-500 bg-purple-900/20',
@@ -66,7 +64,7 @@ const colorClasses: Record<string, string> = {
 <template>
   <div class="grid grid-cols-3 gap-3 max-h-[75vh] overflow-hidden">
     <div
-      v-for="(step, index) in steps"
+      v-for="(step, index) in displaySteps"
       :key="index"
       class="p-3 border-2 rounded-lg transition-all duration-500 hover:scale-105"
       :class="colorClasses[step.color]"
