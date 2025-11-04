@@ -1099,13 +1099,13 @@ Next, we tackle concentrated stock risk.
 
 # Roadmap: The AI Equity Agent
 
-<div class="grid grid-cols-2 gap-4 max-h-[75vh] overflow-hidden">
+<div class="grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden">
 
 <div>
 
 ### 🎯 Concentrated Stock
 
-<div class="text-sm">
+<div class="text-xs">
 
 **HNW Pain Point**
 - $5M+ in company stock
@@ -1118,25 +1118,25 @@ Next, we tackle concentrated stock risk.
 
 </div>
 
-<div class="space-y-2 mt-3">
+<div class="space-y-1.5 mt-2">
 
-<div class="p-2 border-l-4 border-blue-500 bg-blue-900/20">
-<strong class="text-sm">Fundamental Agent</strong><br/>
-<div class="text-xs mt-1">
+<div class="p-1.5 border-l-4 border-blue-500 bg-blue-900/20">
+<strong class="text-xs">Fundamental Agent</strong><br/>
+<div class="text-xs mt-0.5">
 Balance sheets, moats, mgmt quality
 </div>
 </div>
 
-<div class="p-2 border-l-4 border-green-500 bg-green-900/20">
-<strong class="text-sm">Technical Agent</strong><br/>
-<div class="text-xs mt-1">
+<div class="p-1.5 border-l-4 border-green-500 bg-green-900/20">
+<strong class="text-xs">Technical Agent</strong><br/>
+<div class="text-xs mt-0.5">
 Chart patterns, momentum, levels
 </div>
 </div>
 
-<div class="p-2 border-l-4 border-purple-500 bg-purple-900/20">
-<strong class="text-sm">Sentiment Agent</strong><br/>
-<div class="text-xs mt-1">
+<div class="p-1.5 border-l-4 border-purple-500 bg-purple-900/20">
+<strong class="text-xs">Sentiment Agent</strong><br/>
+<div class="text-xs mt-0.5">
 News, filings, social sentiment
 </div>
 </div>
