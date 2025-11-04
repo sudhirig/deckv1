@@ -860,26 +860,6 @@ Fits 15% alt target
 
 ---
 
-<div class="flex items-center justify-center h-full">
-
-<div class="text-center space-y-5 max-w-3xl px-8">
-
-<div class="text-2xl font-semibold opacity-90">
-One of these specialized agents unlocks<br/>
-an entirely new market
-</div>
-
-<div class="text-3xl font-bold text-yellow-400 mt-4">
-A market traditional advisors<br/>
-cannot access
-</div>
-
-</div>
-
-</div>
-
----
-
 # Unlocking a New Market: The "India Gateway"
 
 <div class="text-xs opacity-80 mb-2">
@@ -1293,95 +1273,58 @@ HNW Personas & Real Solutions
 
 # User Journey 1: "Jed, the Active Investor"
 
-<div class="grid grid-cols-3 gap-2">
+<div class="grid grid-cols-3 gap-4 max-h-[75vh]">
 
-<div class="p-2 border-2 border-blue-500 rounded-lg bg-blue-900/20">
-
-### 👤 Persona
-
-<div class="text-xs">
-
-**Jed, 42, Tech Executive**
-- $8M liquid worth
-- $5M company stock
-- DIY spirit, lacks time
-- Wants alternatives
-- Options strategies
-- Frustrated w/ generic advice
-
-<div class="mt-1 p-1 bg-blue-900/30 rounded text-xs">
-<strong>Pain:</strong> "Need help executing properly"
+<div class="p-4 border-2 border-red-500 rounded-xl bg-red-900/20 flex flex-col">
+<div class="text-center mb-4">
+<div class="text-4xl mb-2">😟</div>
+<div class="text-xl font-bold text-red-400">Pain</div>
+</div>
+<div class="text-sm space-y-2 flex-1">
+<div class="font-semibold">Jed, 42, Tech Executive</div>
+<div class="text-3xl font-bold text-red-400 my-3">$5M</div>
+<div>in company stock</div>
+<div class="mt-4 p-2 bg-red-900/40 rounded">
+"Need help executing properly — stuck with generic advice"
+</div>
+</div>
 </div>
 
+<div class="p-4 border-2 border-blue-500 rounded-xl bg-blue-900/20 flex flex-col">
+<div class="text-center mb-4">
+<div class="text-4xl mb-2">🤖</div>
+<div class="text-xl font-bold text-blue-400">AI Solution</div>
+</div>
+<div class="text-sm space-y-3 flex-1">
+<div class="p-2 bg-blue-900/30 rounded">
+<strong>Equity Agent:</strong> Analyzes stock, recommends covered call strategy
+</div>
+<div class="p-2 bg-blue-900/30 rounded">
+<strong>Alt Agent:</strong> Scans 200+ PE funds, surfaces top 3 with 1-pg memos
+</div>
+<div class="p-2 bg-blue-900/30 rounded">
+<strong>Execution:</strong> One-click approval via IBKR
+</div>
+</div>
 </div>
 
+<div class="p-4 border-2 border-green-500 rounded-xl bg-green-900/20 flex flex-col">
+<div class="text-center mb-4">
+<div class="text-4xl mb-2">✅</div>
+<div class="text-xl font-bold text-green-400">Outcome</div>
 </div>
-
-<div class="p-2 border-2 border-green-500 rounded-lg bg-green-900/20">
-
-### 🎯 Solution
-
-<div class="text-xs">
-
-**AI Analyzes Stock**
-- Fundamental + technical
-- Covered call strategy
-- $150K annual income
-- Downside protection
-
-**AI Scouts PE**
-- Scans 200+ funds
-- Filters to tech focus
-- Top 3 into 1-pg memos
-- Highlights: Sequoia XV
-
-**Execution**
-- Jed approves
-- AI sets up via IBKR
-- Facilitates PE docs
-
+<div class="text-sm space-y-2 flex-1">
+<div class="font-semibold mb-2">After 12 Months:</div>
+<div class="text-2xl font-bold text-green-400">$142K</div>
+<div class="text-xs">Income from covered calls</div>
+<div class="text-2xl font-bold text-teal-400 mt-3">$85K</div>
+<div class="text-xs">Tax savings via TLH</div>
+<div class="text-2xl font-bold text-blue-400 mt-3">$1.5M</div>
+<div class="text-xs">PE allocation (2 funds)</div>
+<div class="mt-3 p-2 bg-green-900/40 rounded italic text-xs">
+"Speaks my language, my speed"
 </div>
-
 </div>
-
-<div class="p-2 border-2 border-purple-500 rounded-lg bg-purple-900/20">
-
-### 📊 Outcome
-
-<div class="text-xs">
-
-**After 12 Months**
-
-<div class="space-y-1 text-xs">
-
-<div class="p-1 bg-green-900/30 rounded">
-<strong>Income:</strong> $142K<br/>
-Covered calls on AAPL
-</div>
-
-<div class="p-1 bg-teal-900/30 rounded">
-<strong>Diversification:</strong> 35%<br/>
-Reduced 62% → 40%
-</div>
-
-<div class="p-1 bg-blue-900/30 rounded">
-<strong>PE Allocation:</strong> $1.5M<br/>
-2 top-tier funds
-</div>
-
-<div class="p-1 bg-purple-900/30 rounded">
-<strong>Tax Savings:</strong> $85K<br/>
-Strategic TLH
-</div>
-
-</div>
-
-<div class="mt-1 p-1 bg-teal-900/30 rounded border border-teal-500/30 text-xs">
-<strong>Verdict:</strong> "Speaks my language, my speed"
-</div>
-
-</div>
-
 </div>
 
 </div>
@@ -1390,64 +1333,59 @@ Strategic TLH
 
 # User Journey 2: "Chris, the 'Hands-Off' Inheritor"
 
-<div class="grid grid-cols-3 gap-2 text-xs">
+<div class="grid grid-cols-3 gap-4 max-h-[75vh]">
 
-<div class="p-2 border-2 border-blue-500 rounded-lg bg-blue-900/20">
-
-### 👤 Persona
-
-**Chris, 35, Inherited**
-$12M fragmented: 4 banks, 2 trusts, 3 RE
-
-<div class="mt-2 p-1 bg-red-900/30 rounded border border-red-500/30">
-<strong>Pain:</strong> "Scattered and risky"
+<div class="p-4 border-2 border-red-500 rounded-xl bg-red-900/20 flex flex-col">
+<div class="text-center mb-4">
+<div class="text-4xl mb-2">😰</div>
+<div class="text-xl font-bold text-red-400">Pain</div>
+</div>
+<div class="text-sm space-y-2 flex-1">
+<div class="font-semibold">Chris, 35, Inherited Wealth</div>
+<div class="text-3xl font-bold text-red-400 my-3">$12M</div>
+<div>fragmented across:</div>
+<div class="text-xs">• 4 banks<br/>• 2 trusts<br/>• 3 real estate holdings</div>
+<div class="mt-4 p-2 bg-red-900/40 rounded">
+"Scattered and risky — no single view"
+</div>
+</div>
 </div>
 
+<div class="p-4 border-2 border-blue-500 rounded-xl bg-blue-900/20 flex flex-col">
+<div class="text-center mb-4">
+<div class="text-4xl mb-2">🤖</div>
+<div class="text-xl font-bold text-blue-400">AI Solution</div>
+</div>
+<div class="text-sm space-y-3 flex-1">
+<div class="p-2 bg-blue-900/30 rounded">
+<strong>Portfolio Agent:</strong> Consolidates all accounts into unified dashboard
+</div>
+<div class="p-2 bg-blue-900/30 rounded">
+<strong>Risk Manager:</strong> Flags 62% bond duration risk
+</div>
+<div class="p-2 bg-blue-900/30 rounded">
+<strong>Rebalancer:</strong> Restructures 12yr → 5yr + TIPS
+</div>
+</div>
 </div>
 
-<div class="p-2 border-2 border-green-500 rounded-lg bg-green-900/20">
-
-### 🎯 Solution
-
-**AI Consolidates**
-All accounts unified: $12.4M
-
-**AI Risk Manager**
-Flags $800K bond exposure
-62% at risk if rates rise
-
-**AI Proposes**
-Restructure: 12yr → 5yr duration
-Add TIPS protection
-
+<div class="p-4 border-2 border-green-500 rounded-xl bg-green-900/20 flex flex-col">
+<div class="text-center mb-4">
+<div class="text-4xl mb-2">✅</div>
+<div class="text-xl font-bold text-green-400">Outcome</div>
 </div>
-
-<div class="p-2 border-2 border-purple-500 rounded-lg bg-purple-900/20">
-
-### 📊 Outcome
-
-**After 6 Months**
-
-<div class="space-y-1">
-
-<div class="p-1 bg-teal-900/30 rounded">
-Consolidated: 100%
+<div class="text-sm space-y-2 flex-1">
+<div class="font-semibold mb-2">After 6 Months:</div>
+<div class="text-2xl font-bold text-green-400">100%</div>
+<div class="text-xs">Fully consolidated</div>
+<div class="text-2xl font-bold text-teal-400 mt-3">-42%</div>
+<div class="text-xs">Risk reduction</div>
+<div class="text-2xl font-bold text-blue-400 mt-3">✓</div>
+<div class="text-xs">Goals aligned</div>
+<div class="mt-3 p-2 bg-green-900/40 rounded italic text-xs">
+"I finally sleep well"
 </div>
-
-<div class="p-1 bg-green-900/30 rounded">
-Risk: -42%
 </div>
-
-<div class="p-1 bg-blue-900/30 rounded">
-Goals Aligned: ✅
-</div>
-
-</div>
-
-<div class="mt-1 p-1 bg-teal-900/30 rounded border border-teal-500/30">
-<strong>Verdict:</strong> "I finally sleep well"
-</div>
-
 </div>
 
 </div>
@@ -1569,106 +1507,32 @@ quadrantChart
 
 <div class="grid grid-cols-2 gap-3 text-xs mt-6">
 <div class="p-2 border border-red-500 bg-red-900/20 rounded">
-<strong>Bottom-Left:</strong> Wealthfront, Betterment — Commoditized
+<strong>Bottom-Left:</strong> Wealthfront, Betterment — Commoditized robo-advisors
 </div>
 <div class="p-2 border border-orange-500 bg-orange-900/20 rounded">
-<strong>Bottom-Right:</strong> Addepar, Black Diamond — Legacy tools
+<strong>Bottom-Right:</strong> Addepar, Black Diamond — Legacy tools, no AI
 </div>
 <div class="p-2 border border-blue-500 bg-blue-900/20 rounded">
-<strong>Top-Right:</strong> Arta Finance — Validates model
+<strong>Top-Right:</strong> Arta Finance ($90M raised) — Validates agentic model
 </div>
 <div class="p-2 border border-green-500 bg-green-900/20 rounded">
-<strong>Top-Right (Us):</strong> Explainable AI, broker-agnostic, ready
+<strong>Top-Right (Us):</strong> Explainable AI + Broker-Agnostic + HNW Specialized
 </div>
 </div>
 
----
-
-# Why We Win: Our "Agentic" Moat
-
-<div class="grid grid-cols-3 gap-2">
-
-<div class="border-2 border-teal-500 p-2 rounded-lg bg-teal-900/20">
-
-### 🎯 HNW Specialization
-
-<div class="text-xs">
-
-**Not Generic Robo**
-- Tax Alpha (2-3% savings)
-- Alt Asset access (15%)
-- Concentrated stock
-- Multi-gen planning
-
-**Value Proof**
-- $10M → $200K/yr saved
-- Robos: $50K/yr
-- **4x the value**
-
-<div class="mt-1 p-1 bg-teal-900/40 rounded border border-teal-500/30 text-xs">
-Specialized agents solve high-value HNW problems
+<div class="grid grid-cols-3 gap-4 mt-8 text-xs">
+<div class="p-3 bg-teal-900/20 rounded-lg border border-teal-500/30">
+<div class="font-bold text-sm mb-2 text-teal-400">🎯 HNW Specialization</div>
+Tax Alpha (2-3% annually) • Alt Access • Concentrated Stock • $10M = $200K/yr saved (4x robos)
 </div>
-
+<div class="p-3 bg-purple-900/20 rounded-lg border border-purple-500/30">
+<div class="font-bold text-sm mb-2 text-purple-400">✅ Validated Model</div>
+Arta proved HNWIs pay for AI advisory • We execute better: Explainable + Broker-agnostic
 </div>
-
+<div class="p-3 bg-blue-900/20 rounded-lg border border-blue-500/30">
+<div class="font-bold text-sm mb-2 text-blue-400">🔓 Open Platform</div>
+Not a brokerage • Clients keep accounts • Faster adoption • No custody risk
 </div>
-
-<div class="border-2 border-purple-500 p-2 rounded-lg bg-purple-900/20">
-
-### ✅ Validated Model
-
-<div class="text-xs">
-
-**Arta Finance Proof**
-- Ex-Googlers
-- $90M+ raised
-- Similar agentic arch
-- Targets same HNW segment
-- $250K minimum (we're $500K+)
-
-**Lessons Learned**
-- Model is proven and fundable
-- HNWIs will pay for AI advisory
-- We can execute better:
-  - Explainable AI (not black box)
-  - Broker-agnostic (more trust)
-  - Lower minimums (bigger TAM)
-
-<div class="mt-1 p-1 bg-purple-900/40 rounded border border-purple-500/30 text-xs">
-We are not pioneers — we are fast followers with better execution
-</div>
-
-</div>
-
-</div>
-
-<div class="border-2 border-blue-500 p-2 rounded-lg bg-blue-900/20">
-
-### 🔓 Broker-Agnostic Platform
-
-<div class="text-xs">
-
-**Why This Matters**
-- We are **not a brokerage**
-- Pure AI intelligence layer
-- Clients keep existing accounts
-- Plug into IBKR, Alpaca, Schwab
-- No custody risk, no transfer friction
-
-**The Trust Advantage**
-- "You're not holding my money"
-- "I can leave anytime"
-- "Works with my existing setup"
-- Reduces customer acquisition friction
-
-<div class="mt-1 p-1 bg-blue-900/40 rounded border border-blue-500/30 text-xs">
-Open platform = faster adoption. Arta/Addepar require full migration
-</div>
-
-</div>
-
-</div>
-
 </div>
 
 ---
