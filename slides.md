@@ -18,7 +18,7 @@ transition: slide-left
 # The AI-Powered Digital Family Office
 
 <div class="text-3xl font-light mb-8 leading-relaxed">
-Institutional-Grade Wealth Management<br/>For Everyone
+Institutional-Grade Wealth Management<br/>For the Next Generation
 </div>
 
 <div class="text-xl font-medium text-teal-400">
@@ -42,56 +42,23 @@ US High-Net-Worth Wealth in Motion
 
 ---
 
-# The Largest Market on Earth
+# The $107T "Stranded" Wealth Opportunity
 
-<div class="grid grid-cols-2 gap-12 mt-8">
+<div class="grid grid-cols-3 gap-8 mt-12 max-h-[70vh]">
 
-<div class="flex flex-col justify-center">
-
-### The US Dominance
-
-<div class="space-y-4">
-
-<div class="p-6 bg-blue-900/20 rounded-xl border-2 border-blue-500/40">
-<div class="text-5xl font-bold text-teal-400 mb-2">35%</div>
-<div class="text-base font-medium">of global wealth (US)</div>
+<div class="flex flex-col items-center justify-center p-6 bg-blue-900/20 rounded-xl border-2 border-blue-500/40">
+<div class="text-7xl font-bold text-blue-400 mb-4">39.7%</div>
+<div class="text-lg font-medium text-center leading-relaxed">of world's millionaires<br/>are in the US</div>
 </div>
 
-<div class="p-6 bg-green-900/20 rounded-xl border-2 border-green-500/40">
-<div class="text-5xl font-bold text-green-400 mb-2">39.7%</div>
-<div class="text-base font-medium">of world's millionaires</div>
+<div class="flex flex-col items-center justify-center p-6 bg-teal-900/20 rounded-xl border-2 border-teal-500/40">
+<div class="text-7xl font-bold text-teal-400 mb-4">7.9M</div>
+<div class="text-lg font-medium text-center leading-relaxed">Everyday Millionaires<br/>($1-5M liquid)</div>
 </div>
 
-<div class="p-6 bg-teal-900/20 rounded-xl border-2 border-teal-500/40">
-<div class="text-5xl font-bold text-teal-400 mb-2">7.9M</div>
-<div class="text-base font-medium">HNW Individuals (US)</div>
-</div>
-
-</div>
-
-</div>
-
-<div class="flex flex-col justify-center">
-
-### The EMILLI Opportunity
-
-<div class="text-base space-y-6">
-
-<div class="text-lg font-semibold mb-4">Everyday Millionaires ($1-5M)</div>
-
-<div class="space-y-3">
-<div>💰 <strong>$107T</strong> total wealth</div>
-<div>📈 <strong>4x growth</strong> since 2000</div>
-<div>🎯 Most underserved segment</div>
-<div>🏛️ Need institutional services</div>
-</div>
-
-<div class="mt-8 p-4 bg-orange-900/20 rounded-xl border-2 border-orange-500/40">
-<div class="text-base font-semibold">Opportunity: Largest "stranded" wealth segment</div>
-</div>
-
-</div>
-
+<div class="flex flex-col items-center justify-center p-6 bg-green-900/20 rounded-xl border-2 border-green-500/40">
+<div class="text-7xl font-bold text-green-400 mb-4">$107T</div>
+<div class="text-lg font-medium text-center leading-relaxed">Total Wealth in this<br/>underserved segment</div>
 </div>
 
 </div>
@@ -106,21 +73,21 @@ US High-Net-Worth Wealth in Motion
 
 </div>
 
-<div class="grid grid-cols-2 gap-12">
+<div class="grid grid-cols-2 gap-8 max-h-[75vh]">
 
-<div class="p-8 border-2 border-teal-500 rounded-xl bg-teal-900/20">
+<div class="p-6 border-2 border-teal-500 rounded-xl bg-teal-900/20">
 
-<div class="text-2xl font-semibold mb-6">📊 The Transfer</div>
+<div class="text-2xl font-semibold mb-4">📊 The Transfer</div>
 
-<div class="text-base space-y-6">
+<div class="text-base space-y-4">
 
 <div class="text-center">
 <div class="text-6xl font-bold text-teal-400 mb-3">$124T</div>
 </div>
 
 <div>
-<div class="text-lg font-semibold mb-3">Total Transfer</div>
-<div class="space-y-2 ml-4">
+<div class="text-lg font-semibold mb-2">Total Transfer</div>
+<div class="space-y-1 ml-4">
 <div>• Next 25 years</div>
 <div>• 50% from top 2%</div>
 <div>• Accelerating post-2030</div>
@@ -128,8 +95,8 @@ US High-Net-Worth Wealth in Motion
 </div>
 
 <div>
-<div class="text-lg font-semibold mb-3">Annual Flow</div>
-<div class="space-y-2 ml-4">
+<div class="text-lg font-semibold mb-2">Annual Flow</div>
+<div class="space-y-1 ml-4">
 <div>Gen X: <strong class="text-teal-400">$1.4T/yr</strong></div>
 <div>Millennials: <strong class="text-teal-400">$8B/yr</strong></div>
 </div>
@@ -139,15 +106,15 @@ US High-Net-Worth Wealth in Motion
 
 </div>
 
-<div class="p-8 border-2 border-blue-500 rounded-xl bg-blue-900/20">
+<div class="p-6 border-2 border-blue-500 rounded-xl bg-blue-900/20">
 
-<div class="text-2xl font-semibold mb-6">👥 The New Generation</div>
+<div class="text-2xl font-semibold mb-4">👥 The New Generation</div>
 
-<div class="text-base space-y-6">
+<div class="text-base space-y-4">
 
 <div>
-<div class="text-lg font-semibold mb-3">Active Management</div>
-<div class="space-y-2 ml-4">
+<div class="text-lg font-semibold mb-2">Active Management</div>
+<div class="space-y-1 ml-4">
 <div>• Reject passive models</div>
 <div>• Demand transparency</div>
 <div>• Tech-native, ESG-driven</div>
@@ -155,15 +122,24 @@ US High-Net-Worth Wealth in Motion
 </div>
 
 <div>
-<div class="text-lg font-semibold mb-3">Behavioral Shifts</div>
-<div class="space-y-2 ml-4">
-<div><strong class="text-blue-400">72%</strong> say stocks/bonds insufficient</div>
-<div><strong class="text-blue-400">15%</strong> in alts (vs 9% in 2018)</div>
-<div>Mobile-first, API-enabled</div>
+<div class="text-lg font-semibold mb-2">Behavioral Shifts</div>
+<div class="flex flex-col gap-2">
+<div class="flex items-center gap-2">
+<span class="text-2xl">📈</span>
+<span><strong class="text-blue-400">15%</strong> in alts (vs 9% in 2018)</span>
+</div>
+<div class="flex items-center gap-2">
+<span class="text-2xl">📊</span>
+<span><strong class="text-blue-400">72%</strong> say stocks/bonds insufficient</span>
+</div>
+<div class="flex items-center gap-2">
+<span class="text-2xl">📱</span>
+<span>Mobile-first, API-enabled</span>
+</div>
 </div>
 </div>
 
-<div class="mt-6 p-4 bg-teal-900/30 rounded-lg border border-teal-500/40">
+<div class="mt-4 p-3 bg-teal-900/30 rounded-lg border border-teal-500/40">
 <div class="text-base font-semibold text-teal-400">
 Old: Quarterly advisor<br/>
 New: AI-powered, real-time
@@ -178,29 +154,29 @@ New: AI-powered, real-time
 
 ---
 
-# The "Advisor-Switching" Epidemic
+# HNW Relationships are Broken
 
 <div class="text-center mb-8">
 
-<div class="text-2xl font-semibold">HNW Relationships Are No Longer "Sticky"</div>
+<div class="text-2xl font-semibold">46% of HNW Investors Planning to Switch Advisors</div>
 
 </div>
 
-<div class="grid grid-cols-2 gap-16">
+<div class="grid grid-cols-2 gap-12 max-h-[75vh]">
 
 <div class="flex items-center justify-center">
 
 <div class="text-center">
-<div class="text-9xl font-bold text-orange-400 mb-6">46%</div>
+<div class="text-8xl font-bold text-orange-400 mb-6">46%</div>
 <div class="text-2xl font-semibold">Planning to Switch</div>
 <div class="text-lg mt-3">in the next 1-2 years</div>
 </div>
 
 </div>
 
-<div class="space-y-8">
+<div class="space-y-6">
 
-<div class="text-2xl font-semibold mb-6">📊 The Data</div>
+<div class="text-2xl font-semibold mb-4">📊 The Data</div>
 
 <div class="p-4 border-l-4 border-orange-500 bg-orange-900/20 text-base">
 <strong class="text-lg">39% already switched</strong><br/>
@@ -217,10 +193,12 @@ Switch at 2x the rate
 Retention collapsing
 </div>
 
-<div class="mt-8">
+<div class="mt-6">
 <div class="text-xl font-semibold mb-2">🎯 Why This Matters</div>
 <div class="text-base">Once-in-a-generation window to capture share from incumbents</div>
 </div>
+
+<div class="mt-4 text-sm opacity-60">Source: PwC HNW Investor Survey, 2022</div>
 
 </div>
 
@@ -230,145 +208,71 @@ Retention collapsing
 
 # Why They Are Switching: The HNW "Guidance Gap"
 
-<div class="grid grid-cols-3 gap-8 mt-8">
+<div class="grid grid-cols-3 gap-6 mt-10 max-h-[70vh] overflow-hidden">
 
-<div class="border-2 border-blue-500 p-6 rounded-xl bg-blue-900/20">
+<div class="border-2 border-blue-500 p-4 rounded-xl bg-blue-900/20 flex flex-col">
 
-<div class="text-xl font-semibold mb-6">💻 Digital</div>
-
-<div class="space-y-4 text-base">
-
-<div>
-<div class="font-semibold text-blue-400">Demand:</div>
-<div>Real-time, mobile, 24/7</div>
+<div class="text-center mb-6">
+<div class="text-5xl mb-3">💻</div>
+<div class="text-2xl font-bold text-blue-400">Digital</div>
 </div>
 
-<div>
-<div class="font-semibold">Reality:</div>
+<div class="space-y-6 text-lg flex-1">
+
+<div class="bg-blue-900/30 p-4 rounded-lg">
+<div class="font-bold text-green-400 mb-2">✓ Want</div>
+<div>24/7 Real-time Dashboards</div>
+</div>
+
+<div class="bg-red-900/30 p-4 rounded-lg">
+<div class="font-bold text-red-400 mb-2">✗ Get</div>
 <div>Quarterly PDFs</div>
 </div>
 
-<div class="mt-6 p-3 bg-orange-900/30 rounded-lg border border-orange-500/40">
-<div class="font-semibold">Gap: Stuck in 2010</div>
+</div>
+
+</div>
+
+<div class="border-2 border-green-500 p-4 rounded-xl bg-green-900/20 flex flex-col">
+
+<div class="text-center mb-6">
+<div class="text-5xl mb-3">🏛️</div>
+<div class="text-2xl font-bold text-green-400">Products</div>
+</div>
+
+<div class="space-y-6 text-lg flex-1">
+
+<div class="bg-green-900/30 p-4 rounded-lg">
+<div class="font-bold text-green-400 mb-2">✓ Want</div>
+<div>Access to PE, Credit, RE</div>
+</div>
+
+<div class="bg-red-900/30 p-4 rounded-lg">
+<div class="font-bold text-red-400 mb-2">✗ Get</div>
+<div>Stocks & Bonds Only</div>
 </div>
 
 </div>
 
 </div>
 
-<div class="border-2 border-green-500 p-6 rounded-xl bg-green-900/20">
+<div class="border-2 border-teal-500 p-4 rounded-xl bg-teal-900/20 flex flex-col">
 
-<div class="text-xl font-semibold mb-6">🏛️ Products</div>
-
-<div class="space-y-4 text-base">
-
-<div>
-<div class="font-semibold text-green-400">Want:</div>
-<div>PE, PC, RE, hedge funds</div>
+<div class="text-center mb-6">
+<div class="text-5xl mb-3">⚖️</div>
+<div class="text-2xl font-bold text-teal-400">Needs</div>
 </div>
 
-<div>
-<div class="font-semibold">Get:</div>
-<div>Stocks, bonds only</div>
+<div class="space-y-6 text-lg flex-1">
+
+<div class="bg-teal-900/30 p-4 rounded-lg">
+<div class="font-bold text-green-400 mb-2">✓ Want</div>
+<div>Proactive Tax & Legacy Planning</div>
 </div>
 
-<div class="mt-6 p-3 bg-orange-900/30 rounded-lg border border-orange-500/40">
-<div class="font-semibold">Gap: No alt access</div>
-</div>
-
-</div>
-
-</div>
-
-<div class="border-2 border-teal-500 p-6 rounded-xl bg-teal-900/20">
-
-<div class="text-xl font-semibold mb-6">⚖️ Needs</div>
-
-<div class="space-y-4 text-base">
-
-<div>
-<div class="font-semibold text-teal-400">Want:</div>
-<div>Tax, estate, multi-gen</div>
-</div>
-
-<div>
-<div class="font-semibold">Get:</div>
-<div>Basic allocation</div>
-</div>
-
-<div class="mt-6 p-3 bg-orange-900/30 rounded-lg border border-orange-500/40">
-<div class="font-semibold">Gap: Complexity grew</div>
-</div>
-
-</div>
-
-</div>
-
-</div>
-
----
-
-# Beyond the US: The India Growth Opportunity
-
-<div class="text-xl font-light mb-8 text-center">
-India is the World's Fastest-Growing Wealth Market — But Operationally Impossible to Access
-</div>
-
-<div class="grid grid-cols-2 gap-12">
-
-<div>
-
-### 📈 The India Market Opportunity
-
-<div class="space-y-6">
-
-<div class="p-6 bg-orange-900/20 rounded-xl border-2 border-orange-500/40">
-<div class="text-5xl font-bold text-orange-400 mb-3">7.4%</div>
-<div class="text-base font-medium">Annual GDP growth</div>
-</div>
-
-<div class="p-6 bg-amber-900/20 rounded-xl border-2 border-amber-500/40">
-<div class="text-5xl font-bold text-amber-400 mb-3">326K</div>
-<div class="text-base font-medium">New millionaires/yr</div>
-</div>
-
-<div class="p-6 bg-yellow-900/20 rounded-xl border-2 border-yellow-500/40">
-<div class="text-5xl font-bold text-yellow-400 mb-3">$5.6T</div>
-<div class="text-base font-medium">HNW wealth by 2028</div>
-</div>
-
-</div>
-
-</div>
-
-<div>
-
-### ❌ The Access Problem
-
-<div class="text-xs space-y-1">
-
-<div class="p-2 border-l-4 border-red-500 bg-red-900/20">
-<strong>Complex Red Tape</strong><br/>
-FPI registration burdens
-</div>
-
-<div class="p-2 border-l-4 border-red-500 bg-red-900/20">
-<strong>Crippling Tax</strong><br/>
-Capital Gains, STT, dividend taxes
-</div>
-
-<div class="p-2 border-l-4 border-red-500 bg-red-900/20">
-<strong>Currency Risk</strong><br/>
-INR depreciation exposure
-</div>
-
-<div class="p-2 border-l-4 border-red-500 bg-red-900/20">
-<strong>Repatriation</strong><br/>
-Slow and restrictive
-</div>
-
-<div class="mt-2 p-2 bg-gradient-to-r from-red-900/40 to-orange-900/40 rounded-lg border border-red-500/30 text-xs">
-<strong>Result:</strong> Advisors can't serve India exposure needs
+<div class="bg-red-900/30 p-4 rounded-lg">
+<div class="font-bold text-red-400 mb-2">✗ Get</div>
+<div>Basic Asset Allocation</div>
 </div>
 
 </div>
@@ -421,98 +325,6 @@ Focus: After-Tax Wealth
 
 <div class="text-lg opacity-70 mt-6">
 Primary challenges are no longer just "growth"
-</div>
-
-</div>
-
-</div>
-
----
-
-# The Three Core Failures
-
-<div class="grid grid-cols-3 gap-8 mt-8">
-
-<div class="border-2 border-orange-500 p-6 rounded-xl bg-orange-900/20">
-
-<div class="text-xl font-semibold mb-6">🚨 Complex Needs</div>
-
-<div class="space-y-4 text-base">
-
-<div>
-<div class="font-semibold">Problem:</div>
-<div>Simple allocation, no tax mgmt</div>
-</div>
-
-<div>
-<div class="font-semibold">Cost:</div>
-<div>30-40% unnecessary taxes</div>
-</div>
-
-<div class="mt-4 p-3 bg-orange-900/40 rounded-lg text-lg font-bold text-center">
-$100M → $50M
-</div>
-
-<div class="mt-4 p-3 bg-green-900/30 rounded-lg border border-green-500/40">
-<div class="font-semibold">✅ Tax Alpha Agent</div>
-</div>
-
-</div>
-
-</div>
-
-<div class="border-2 border-amber-500 p-6 rounded-xl bg-amber-900/20">
-
-<div class="text-xl font-semibold mb-6">🔒 No Alt Access</div>
-
-<div class="space-y-4 text-base">
-
-<div>
-<div class="font-semibold">Problem:</div>
-<div>HNWIs demand 15% alts; advisors can't provide</div>
-</div>
-
-<div>
-<div class="font-semibold">Cost:</div>
-<div>PE: 14%+ | PC: 9-12%</div>
-</div>
-
-<div class="mt-4 p-3 bg-amber-900/40 rounded-lg text-lg font-bold text-center">
-Missing 300-500 bps
-</div>
-
-<div class="mt-4 p-3 bg-green-900/30 rounded-lg border border-green-500/40">
-<div class="font-semibold">✅ Alt Asset Agent</div>
-</div>
-
-</div>
-
-</div>
-
-<div class="border-2 border-yellow-500 p-6 rounded-xl bg-yellow-900/20">
-
-<div class="text-xl font-semibold mb-6">📊 Info Overload</div>
-
-<div class="space-y-4 text-base">
-
-<div>
-<div class="font-semibold">Problem:</div>
-<div>100-pg reports, no insights</div>
-</div>
-
-<div>
-<div class="font-semibold">Cost:</div>
-<div>"Data but no answers"</div>
-</div>
-
-<div class="mt-4 p-3 bg-yellow-900/40 rounded-lg text-lg font-bold text-center">
-Missed opportunities
-</div>
-
-<div class="mt-4 p-3 bg-green-900/30 rounded-lg border border-green-500/40">
-<div class="font-semibold">✅ Agent Swarm</div>
-</div>
-
 </div>
 
 </div>
@@ -688,32 +500,32 @@ Complete family office services
 Full-stack agentic AI platform — Live, validated with real-money portfolio
 </div>
 
-<div class="grid grid-cols-2 gap-8">
+<div class="grid grid-cols-2 gap-6 max-h-[75vh]">
 
-<div class="space-y-3">
+<div class="space-y-2">
 <div class="text-base font-semibold text-teal-400">Broker-Agnostic Platform</div>
-<img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded-lg border-2 border-teal-500/40 w-full shadow-lg" />
+<img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded-lg border-2 border-teal-500/40 w-full max-h-[25vh] object-contain shadow-lg" />
 <div class="text-sm">Real-money tracking • Zerodha live • US brokers ready</div>
 </div>
 
-<div class="space-y-3">
+<div class="space-y-2">
 <div class="text-base font-semibold text-green-400">AI Investment Committee</div>
-<img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded-lg border-2 border-green-500/40 w-full shadow-lg" />
+<img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded-lg border-2 border-green-500/40 w-full max-h-[25vh] object-contain shadow-lg" />
 <div class="text-sm">Multi-agent swarm • Live consensus workflow</div>
 </div>
 
-<div class="space-y-3">
+<div class="space-y-2">
 <div class="text-base font-semibold text-blue-400">Advisory & Execution Engine</div>
-<img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded-lg border-2 border-blue-500/40 w-full shadow-lg" />
+<img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded-lg border-2 border-blue-500/40 w-full max-h-[25vh] object-contain shadow-lg" />
 <div class="text-sm">AI-powered actions • 16K+ funds analyzed • One-click execution</div>
 </div>
 
 <div class="flex items-center justify-center">
-<div class="text-center space-y-4 p-6">
+<div class="text-center space-y-3 p-4">
 <div class="text-5xl font-bold bg-gradient-to-r from-teal-400 to-green-400 bg-clip-text text-transparent">100%</div>
 <div class="text-xl font-semibold">Operational Today</div>
 <div class="text-base leading-relaxed">All core systems live and validated with real portfolio data</div>
-<div class="mt-6 pt-4 border-t border-teal-500/20 text-sm">Now scaling to US market</div>
+<div class="mt-4 pt-3 border-t border-teal-500/20 text-sm">Now scaling to US market</div>
 </div>
 </div>
 
@@ -792,118 +604,15 @@ Collective intelligence, 24/7, infinitely scalable
 
 ---
 
-<div class="flex items-center justify-center h-full">
-
-<div class="text-center space-y-5 max-w-3xl px-8">
-
-<div class="text-2xl font-semibold opacity-90">
-To deliver institutional-grade advisory at scale,<br/>
-we didn't build a single AI chatbot
-</div>
-
-<div class="text-3xl font-bold text-teal-400 mt-4">
-We built a Digital Family Office<br/>
-powered by specialized Agent Swarms
-</div>
-
-</div>
-
-</div>
-
----
-
-# Your AI Digital Family Office: The Agent Swarms
-
-<div class="text-lg font-light mb-6 text-center">
-A Committee of Specialized AI Agents, Not a Single AI
-</div>
-
-<div class="text-sm">
-
-```mermaid {theme: 'dark', scale: 0.7}
-graph TB
-    subgraph Orchestrator["🎯 Orchestrator"]
-        ORCH[Delegation]
-    end
-
-    subgraph Portfolio["💼 Portfolio"]
-        PT[Tracker]
-        RM[Risk]
-        RB[Rebalance]
-        TE[Execute]
-    end
-
-    subgraph Strategy["🧠 Strategy"]
-        WB[Buffett]
-        BG[Graham]
-        RD[Dalio]
-        MPT[MPT]
-    end
-
-    subgraph Research["📊 Research"]
-        MS[Scanner]
-        NA[News]
-        ST[Sentiment]
-    end
-
-    subgraph Specialized["⭐ HNW"]
-        TAX[Tax]
-        ALT[Alts]
-        IND[India]
-    end
-
-    ORCH --> Portfolio
-    ORCH --> Strategy
-    ORCH --> Research
-    ORCH --> Specialized
-
-    style Orchestrator fill:#7c3aed
-    style Portfolio fill:#0d9488
-    style Strategy fill:#059669
-    style Research fill:#3b82f6
-    style Specialized fill:#f59e0b
-```
-
-</div>
-
-<div class="text-center text-base p-3 bg-gradient-to-r from-teal-900/30 to-blue-900/30 rounded-lg border-2 border-teal-500/40 mt-6">
-<strong>Multi-Model AI:</strong> GPT-4 • Claude • Gemini
-</div>
-
----
-
-<div class="flex items-center justify-center h-full">
-
-<div class="text-center space-y-6 max-w-4xl px-12">
-
-<div class="text-3xl font-semibold opacity-90">
-Remember the three core failures we identified?
-</div>
-
-<div class="text-4xl font-bold text-orange-400 mt-4">
-Our specialized agents directly solve each one
-</div>
-
-<div class="text-xl opacity-70 mt-6">
-While our core agents are powerful, our true alpha comes from<br/>
-specialized agents that solve the highest-friction HNW problems
-</div>
-
-</div>
-
-</div>
-
----
-
 # Our HNW Moat: The Specialized "Alpha" Agents
 
 <div class="text-lg font-light mb-8 text-center">
 Solving the Three Highest-Friction Problems Traditional Advisors Cannot Scale
 </div>
 
-<div class="grid grid-cols-3 gap-8">
+<div class="grid grid-cols-3 gap-6 max-h-[75vh] overflow-hidden">
 
-<div class="border-2 border-orange-500 p-6 rounded-xl bg-orange-900/20">
+<div class="border-2 border-orange-500 p-4 rounded-xl bg-orange-900/20">
 
 <div class="text-xl font-semibold mb-4">💰 Tax Alpha Agent</div>
 
@@ -921,7 +630,7 @@ Solving the Three Highest-Friction Problems Traditional Advisors Cannot Scale
 
 </div>
 
-<div class="border-2 border-amber-500 p-6 rounded-xl bg-amber-900/20">
+<div class="border-2 border-amber-500 p-4 rounded-xl bg-amber-900/20">
 
 <div class="text-xl font-semibold mb-4">📄 Alt Assets Agent</div>
 
@@ -939,7 +648,7 @@ Solving the Three Highest-Friction Problems Traditional Advisors Cannot Scale
 
 </div>
 
-<div class="border-2 border-yellow-500 p-6 rounded-xl bg-yellow-900/20">
+<div class="border-2 border-yellow-500 p-4 rounded-xl bg-yellow-900/20">
 
 <div class="text-xl font-semibold mb-4">🌏 India Gateway Agent</div>
 
@@ -951,86 +660,6 @@ Solving the Three Highest-Friction Problems Traditional Advisors Cannot Scale
 
 <div class="mt-4 p-3 bg-green-900/30 rounded-lg border border-green-500/40">
 <strong>Solution:</strong> GIFT City eliminates tax/currency risk
-</div>
-
-</div>
-
-</div>
-
-</div>
-
----
-
-# A "Segment of One" for HNW Investors
-
-<div class="grid grid-cols-3 gap-8 mt-8">
-
-<div class="border-2 border-teal-500 p-6 rounded-xl bg-teal-900/20">
-
-<div class="text-xl font-semibold mb-6">🎯 Holistic</div>
-
-<div class="text-base space-y-4">
-
-<div>
-<div class="font-semibold text-teal-400">AI Capabilities</div>
-<div>Unified view, risk mgmt, forecasting</div>
-</div>
-
-<div>
-<div class="font-semibold text-teal-400">HNW Difference</div>
-<div>PE, RE, trusts integrated</div>
-</div>
-
-<div class="mt-6 p-3 bg-teal-900/40 rounded-lg border border-teal-500/40">
-<strong>Value:</strong> Complete picture
-</div>
-
-</div>
-
-</div>
-
-<div class="border-2 border-green-500 p-6 rounded-xl bg-green-900/20">
-
-<div class="text-xl font-semibold mb-6">💰 Tax Alpha</div>
-
-<div class="text-base space-y-4">
-
-<div>
-<div class="font-semibold text-green-400">Optimization</div>
-<div>Daily TLH, wash-sale prevention</div>
-</div>
-
-<div>
-<div class="font-semibold text-green-400">HNW Impact</div>
-<div>2-3% annually<br/>$10M = $200-300K/yr</div>
-</div>
-
-<div class="mt-6 p-3 bg-green-900/40 rounded-lg border border-green-500/40">
-<strong>Value:</strong> Tax > Alpha
-</div>
-
-</div>
-
-</div>
-
-<div class="border-2 border-blue-500 p-6 rounded-xl bg-blue-900/20">
-
-<div class="text-xl font-semibold mb-6">🏦 Alt Access</div>
-
-<div class="text-base space-y-4">
-
-<div>
-<div class="font-semibold text-blue-400">Intelligence</div>
-<div>AI due diligence<br/>100-pg → 1-pg</div>
-</div>
-
-<div>
-<div class="font-semibold text-blue-400">We Unlock</div>
-<div>PE, PC, RE, structured products</div>
-</div>
-
-<div class="mt-6 p-3 bg-blue-900/40 rounded-lg border border-blue-500/40">
-<strong>Value:</strong> 15% drives alpha
 </div>
 
 </div>
