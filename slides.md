@@ -498,36 +498,36 @@ Complete family office services
 
 # Our Solution: A Proven, Live & Integrated Platform
 
-<div class="text-center text-lg font-light mb-8">
+<div class="text-center text-base font-light mb-4">
 Full-stack agentic AI platform — Live, validated with real-money portfolio
 </div>
 
-<div class="grid grid-cols-2 gap-6 max-h-[75vh]">
+<div class="grid grid-cols-2 gap-4 max-h-[72vh] overflow-hidden">
 
-<div class="space-y-2">
-<div class="text-base font-semibold text-teal-400">Broker-Agnostic Platform</div>
-<img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded-lg border-2 border-teal-500/40 w-full max-h-[25vh] object-contain shadow-lg" />
-<div class="text-sm">Real-money tracking • Zerodha live • US brokers ready</div>
+<div class="space-y-1.5">
+<div class="text-sm font-semibold text-teal-400">Broker-Agnostic Platform</div>
+<img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded-lg border-2 border-teal-500/40 w-full max-h-[20vh] object-contain shadow-lg" />
+<div class="text-xs">Real-money tracking • Zerodha live • US brokers ready</div>
 </div>
 
-<div class="space-y-2">
-<div class="text-base font-semibold text-green-400">AI Investment Committee</div>
-<img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded-lg border-2 border-green-500/40 w-full max-h-[25vh] object-contain shadow-lg" />
-<div class="text-sm">Multi-agent swarm • Live consensus workflow</div>
+<div class="space-y-1.5">
+<div class="text-sm font-semibold text-green-400">AI Investment Committee</div>
+<img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded-lg border-2 border-green-500/40 w-full max-h-[20vh] object-contain shadow-lg" />
+<div class="text-xs">Multi-agent swarm • Live consensus workflow</div>
 </div>
 
-<div class="space-y-2">
-<div class="text-base font-semibold text-blue-400">Advisory & Execution Engine</div>
-<img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded-lg border-2 border-blue-500/40 w-full max-h-[25vh] object-contain shadow-lg" />
-<div class="text-sm">AI-powered actions • 16K+ funds analyzed • One-click execution</div>
+<div class="space-y-1.5">
+<div class="text-sm font-semibold text-blue-400">Advisory & Execution Engine</div>
+<img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded-lg border-2 border-blue-500/40 w-full max-h-[20vh] object-contain shadow-lg" />
+<div class="text-xs">AI-powered actions • 16K+ funds analyzed • One-click execution</div>
 </div>
 
 <div class="flex items-center justify-center">
-<div class="text-center space-y-3 p-4">
-<div class="text-5xl font-bold bg-gradient-to-r from-teal-400 to-green-400 bg-clip-text text-transparent">100%</div>
-<div class="text-xl font-semibold">Operational Today</div>
-<div class="text-base leading-relaxed">All core systems live and validated with real portfolio data</div>
-<div class="mt-4 pt-3 border-t border-teal-500/20 text-sm">Now scaling to US market</div>
+<div class="text-center space-y-2 p-3">
+<div class="text-4xl font-bold bg-gradient-to-r from-teal-400 to-green-400 bg-clip-text text-transparent">100%</div>
+<div class="text-lg font-semibold">Operational Today</div>
+<div class="text-sm leading-relaxed">All core systems live and validated with real portfolio data</div>
+<div class="mt-2 pt-2 border-t border-teal-500/20 text-xs">Now scaling to US market</div>
 </div>
 </div>
 
