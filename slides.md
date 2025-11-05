@@ -155,7 +155,7 @@ The AI-Powered Digital Family Office
 
 # Introducing Your AI Digital Family Office
 
-<div class="grid grid-cols-2 gap-8">
+<div class="grid grid-cols-2 gap-8 max-h-[80vh] overflow-hidden">
 
 <div>
 
@@ -167,7 +167,7 @@ A complete family office with an AI Investment Committee available 24/7
 <strong class="text-teal-300">AI Investment Committee</strong>
 
 - Chief Investment Officer
-- Tax Attorney  
+- Tax Attorney
 - Research Analyst
 - Risk Manager
 - Alternative Investment Specialist
@@ -184,11 +184,11 @@ A complete family office with an AI Investment Committee available 24/7
 
 </div>
 
-<div class="border-2 border-teal-500 rounded-xl p-4 bg-black/40">
+<div class="border-2 border-teal-500 rounded-xl p-4 bg-black/40 max-h-[75vh] overflow-y-auto">
 <div class="text-sm text-teal-400 mb-3">Premium Platform Preview - 100% OPERATIONAL TODAY</div>
-<img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded-lg w-full mb-3" />
-<img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded-lg w-full mb-3" />
-<img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded-lg w-full" />
+<img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded-lg w-full mb-3 max-h-[60vh] object-contain" />
+<img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded-lg w-full mb-3 max-h-[30vh] object-contain" />
+<img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded-lg w-full max-h-[30vh] object-contain" />
 </div>
 
 </div>
@@ -320,7 +320,7 @@ The Moat & The Technology
 
 # India: A $5T Market, Locked by Red Tape
 
-<div class="grid grid-cols-2 gap-8">
+<div class="grid grid-cols-2 gap-8 max-h-[75vh] overflow-hidden">
 
 <div>
 
@@ -377,7 +377,7 @@ This slide builds tension showing the massive opportunity that's locked away.
 
 # Our Solution: The GIFT City "AI Gateway"
 
-<div class="grid grid-cols-2 gap-8">
+<div class="grid grid-cols-2 gap-8 max-h-[75vh] overflow-hidden">
 
 <div>
 
@@ -840,7 +840,7 @@ We show specific dollar amounts: $142K, $85K, $1.5M proving measurable impact.
   Proven Technology - Real Portfolio - Production Ready
 </div>
 
-<div class="grid grid-cols-2 gap-8">
+<div class="grid grid-cols-2 gap-8 max-h-[75vh] overflow-hidden">
   <div class="space-y-4">
     <div class="p-4 bg-gradient-to-r from-green-900/40 to-emerald-900/40 rounded-lg border border-green-500/30">
       <div class="text-lg font-semibold text-green-300 mb-3">Live Integration</div>
@@ -876,12 +876,12 @@ We show specific dollar amounts: $142K, $85K, $1.5M proving measurable impact.
 
   <div class="space-y-3">
     <div class="text-sm font-semibold text-teal-300 mb-2">Platform Screenshots - Live System</div>
-    <img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded-lg border border-teal-500/40" alt="Portfolio Dashboard" />
+    <img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded-lg border border-teal-500/40 max-h-[40vh] w-full object-contain" alt="Portfolio Dashboard" />
     <div class="text-xs text-gray-400 text-center">Real-time portfolio tracking with Zerodha integration</div>
 
     <div class="grid grid-cols-2 gap-2">
-      <img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded-lg border border-green-500/40" alt="AI Committee" />
-      <img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded-lg border border-blue-500/40" alt="Execution" />
+      <img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded-lg border border-green-500/40 max-h-[30vh] w-full object-contain" alt="AI Committee" />
+      <img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded-lg border border-blue-500/40 max-h-[30vh] w-full object-contain" alt="Execution" />
     </div>
     <div class="text-xs text-gray-400 text-center">Multi-agent consensus workflow & one-click execution engine</div>
   </div>
