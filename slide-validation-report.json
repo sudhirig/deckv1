@@ -1,15 +1,295 @@
 {
-  "timestamp": "2025-11-05T07:47:22.807Z",
+  "timestamp": "2025-11-05T08:10:06.398Z",
   "stats": {
     "totalSlides": 39,
-    "rawHTMLGrids": 0,
+    "rawHTMLGrids": 20,
     "overflowRisks": 16,
-    "componentUsage": 20,
+    "componentUsage": 0,
     "warnings": 0,
     "errors": 16,
-    "critical": 0
+    "critical": 20
   },
   "issues": [
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 83,
+      "message": "Raw HTML grid-cols-3 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 14,
+        "contentLength": 500
+      },
+      "fix": "Replace with <ThreeColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-3 gap-6 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 158,
+      "message": "Raw HTML grid-cols-2 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 18,
+        "contentLength": 500
+      },
+      "fix": "Replace with <TwoColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 210,
+      "message": "Raw HTML grid-cols-2 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 11,
+        "contentLength": 500
+      },
+      "fix": "Replace with <TwoColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-2 gap-6 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 247,
+      "message": "Raw HTML grid-cols-3 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 5,
+        "contentLength": 500
+      },
+      "fix": "Replace with <ThreeColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-3 gap-4 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 319,
+      "message": "Raw HTML grid-cols-2 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 16,
+        "contentLength": 500
+      },
+      "fix": "Replace with <TwoColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 374,
+      "message": "Raw HTML grid-cols-2 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 19,
+        "contentLength": 500
+      },
+      "fix": "Replace with <TwoColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 435,
+      "message": "Raw HTML grid-cols-2 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 29,
+        "contentLength": 500
+      },
+      "fix": "Replace with <TwoColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 499,
+      "message": "Raw HTML grid-cols-2 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 25,
+        "contentLength": 500
+      },
+      "fix": "Replace with <TwoColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 583,
+      "message": "Raw HTML grid-cols-2 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 28,
+        "contentLength": 500
+      },
+      "fix": "Replace with <TwoColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 754,
+      "message": "Raw HTML grid-cols-3 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 16,
+        "contentLength": 500
+      },
+      "fix": "Replace with <ThreeColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-3 gap-4 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 827,
+      "message": "Raw HTML grid-cols-2 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 30,
+        "contentLength": 500
+      },
+      "fix": "Replace with <TwoColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 899,
+      "message": "Raw HTML grid-cols-2 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 21,
+        "contentLength": 500
+      },
+      "fix": "Replace with <TwoColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-2 gap-3 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 943,
+      "message": "Raw HTML grid-cols-3 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 30,
+        "contentLength": 500
+      },
+      "fix": "Replace with <ThreeColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-3 gap-4 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 1074,
+      "message": "Raw HTML grid-cols-3 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 28,
+        "contentLength": 500
+      },
+      "fix": "Replace with <ThreeColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-3 gap-4 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 1115,
+      "message": "Raw HTML grid-cols-3 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 33,
+        "contentLength": 500
+      },
+      "fix": "Replace with <ThreeColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-3 gap-4 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 1226,
+      "message": "Raw HTML grid-cols-3 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 16,
+        "contentLength": 500
+      },
+      "fix": "Replace with <ThreeColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-3 gap-4 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 1253,
+      "message": "Raw HTML grid-cols-2 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 16,
+        "contentLength": 500
+      },
+      "fix": "Replace with <TwoColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 1336,
+      "message": "Raw HTML grid-cols-3 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 21,
+        "contentLength": 500
+      },
+      "fix": "Replace with <ThreeColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-3 gap-8 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 1355,
+      "message": "Raw HTML grid-cols-2 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 20,
+        "contentLength": 500
+      },
+      "fix": "Replace with <TwoColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-2 gap-6 max-h-[68vh] overflow-hidden\">"
+    },
+    {
+      "type": "RAW_HTML_GRID",
+      "severity": "CRITICAL",
+      "line": 1384,
+      "message": "Raw HTML grid-cols-3 detected",
+      "details": {
+        "hasMaxHeight": true,
+        "maxHeightValue": "68",
+        "estimatedComplexity": 18,
+        "contentLength": 500
+      },
+      "fix": "Replace with <ThreeColumnLayout>",
+      "snippet": "<div class=\"grid grid-cols-3 gap-6 max-h-[68vh] overflow-hidden\">"
+    },
     {
       "type": "OVERFLOW_RISK",
       "severity": "ERROR",
@@ -20,70 +300,53 @@
       "details": {
         "riskScore": 2,
         "risks": [
-          "High div count (17), indicates complex layout"
+          "High div count (18), indicates complex layout"
         ],
-        "divCount": 17,
-        "contentLength": 1655
+        "divCount": 18,
+        "contentLength": 1689
       },
       "fix": "Simplify layout or extract to component"
     },
     {
       "type": "OVERFLOW_RISK",
       "severity": "ERROR",
-      "line": 321,
+      "line": 315,
       "slide": 15,
       "title": "India: A $5T Market, Locked by Red Tape",
       "message": "Potential viewport overflow (risk score: 2)",
       "details": {
         "riskScore": 2,
         "risks": [
-          "High div count (16), indicates complex layout"
+          "High div count (17), indicates complex layout"
         ],
-        "divCount": 16,
-        "contentLength": 1614
+        "divCount": 17,
+        "contentLength": 1648
       },
       "fix": "Simplify layout or extract to component"
     },
     {
       "type": "OVERFLOW_RISK",
       "severity": "ERROR",
-      "line": 378,
+      "line": 370,
       "slide": 16,
       "title": "Our Solution: The GIFT City \"AI Gateway\"",
       "message": "Potential viewport overflow (risk score: 2)",
       "details": {
         "riskScore": 2,
         "risks": [
-          "High div count (19), indicates complex layout"
+          "High div count (20), indicates complex layout"
         ],
-        "divCount": 19,
-        "contentLength": 2050
+        "divCount": 20,
+        "contentLength": 2084
       },
       "fix": "Simplify layout or extract to component"
     },
     {
       "type": "OVERFLOW_RISK",
       "severity": "ERROR",
-      "line": 441,
+      "line": 431,
       "slide": 17,
       "title": "Our AI Agent Makes It Simple",
-      "message": "Potential viewport overflow (risk score: 2)",
-      "details": {
-        "riskScore": 2,
-        "risks": [
-          "High div count (29), indicates complex layout"
-        ],
-        "divCount": 29,
-        "contentLength": 2604
-      },
-      "fix": "Simplify layout or extract to component"
-    },
-    {
-      "type": "OVERFLOW_RISK",
-      "severity": "ERROR",
-      "line": 507,
-      "slide": 18,
-      "title": "Our \"Tax Alpha\" Agent: Daily vs Annual",
       "message": "Potential viewport overflow (risk score: 2)",
       "details": {
         "riskScore": 2,
@@ -91,31 +354,48 @@
           "High div count (30), indicates complex layout"
         ],
         "divCount": 30,
-        "contentLength": 2996
+        "contentLength": 2638
       },
       "fix": "Simplify layout or extract to component"
     },
     {
       "type": "OVERFLOW_RISK",
       "severity": "ERROR",
-      "line": 591,
+      "line": 495,
+      "slide": 18,
+      "title": "Our \"Tax Alpha\" Agent: Daily vs Annual",
+      "message": "Potential viewport overflow (risk score: 2)",
+      "details": {
+        "riskScore": 2,
+        "risks": [
+          "High div count (31), indicates complex layout"
+        ],
+        "divCount": 31,
+        "contentLength": 3032
+      },
+      "fix": "Simplify layout or extract to component"
+    },
+    {
+      "type": "OVERFLOW_RISK",
+      "severity": "ERROR",
+      "line": 579,
       "slide": 19,
       "title": "Our \"Alternative Asset\" Agent: AI Due Diligence",
       "message": "Potential viewport overflow (risk score: 2)",
       "details": {
         "riskScore": 2,
         "risks": [
-          "High div count (46), indicates complex layout"
+          "High div count (47), indicates complex layout"
         ],
-        "divCount": 46,
-        "contentLength": 4063
+        "divCount": 47,
+        "contentLength": 4099
       },
       "fix": "Simplify layout or extract to component"
     },
     {
       "type": "OVERFLOW_RISK",
       "severity": "ERROR",
-      "line": 696,
+      "line": 684,
       "slide": 20,
       "title": "Our \"Brain\": A Swarm of 20+ Specialized Agents",
       "message": "Potential viewport overflow (risk score: 2)",
@@ -132,145 +412,9 @@
     {
       "type": "OVERFLOW_RISK",
       "severity": "ERROR",
-      "line": 758,
+      "line": 746,
       "slide": 23,
       "title": "Real Journeys, Real Alpha",
-      "message": "Potential viewport overflow (risk score: 2)",
-      "details": {
-        "riskScore": 2,
-        "risks": [
-          "High div count (18), indicates complex layout"
-        ],
-        "divCount": 18,
-        "contentLength": 2300
-      },
-      "fix": "Simplify layout or extract to component"
-    },
-    {
-      "type": "OVERFLOW_RISK",
-      "severity": "ERROR",
-      "line": 833,
-      "slide": 24,
-      "title": "This is Not a Concept. Our Core Platform is Live.",
-      "message": "Potential viewport overflow (risk score: 2)",
-      "details": {
-        "riskScore": 2,
-        "risks": [
-          "High div count (31), indicates complex layout"
-        ],
-        "divCount": 31,
-        "contentLength": 3426
-      },
-      "fix": "Simplify layout or extract to component"
-    },
-    {
-      "type": "OVERFLOW_RISK",
-      "severity": "ERROR",
-      "line": 900,
-      "slide": 25,
-      "title": "Why We Win: AI Capability + Global Access",
-      "message": "Potential viewport overflow (risk score: 2)",
-      "details": {
-        "riskScore": 2,
-        "risks": [
-          "High div count (16), indicates complex layout"
-        ],
-        "divCount": 16,
-        "contentLength": 2066
-      },
-      "fix": "Simplify layout or extract to component"
-    },
-    {
-      "type": "OVERFLOW_RISK",
-      "severity": "ERROR",
-      "line": 949,
-      "slide": 26,
-      "title": "Our Unfair Advantages: The Triple Lock",
-      "message": "Potential viewport overflow (risk score: 2)",
-      "details": {
-        "riskScore": 2,
-        "risks": [
-          "High div count (42), indicates complex layout"
-        ],
-        "divCount": 42,
-        "contentLength": 3671
-      },
-      "fix": "Simplify layout or extract to component"
-    },
-    {
-      "type": "OVERFLOW_RISK",
-      "severity": "ERROR",
-      "line": 1084,
-      "slide": 31,
-      "title": "Path to $1B AUM in 36 Months",
-      "message": "Potential viewport overflow (risk score: 2)",
-      "details": {
-        "riskScore": 2,
-        "risks": [
-          "High div count (20), indicates complex layout"
-        ],
-        "divCount": 20,
-        "contentLength": 1483
-      },
-      "fix": "Simplify layout or extract to component"
-    },
-    {
-      "type": "OVERFLOW_RISK",
-      "severity": "ERROR",
-      "line": 1127,
-      "slide": 32,
-      "title": "Built by Experts in AI, Finance, and Global Markets",
-      "message": "Potential viewport overflow (risk score: 2)",
-      "details": {
-        "riskScore": 2,
-        "risks": [
-          "High div count (48), indicates complex layout"
-        ],
-        "divCount": 48,
-        "contentLength": 3590
-      },
-      "fix": "Simplify layout or extract to component"
-    },
-    {
-      "type": "OVERFLOW_RISK",
-      "severity": "ERROR",
-      "line": 1265,
-      "slide": 35,
-      "title": "$5M to Scale Our Proven Platform",
-      "message": "Potential viewport overflow (risk score: 2)",
-      "details": {
-        "riskScore": 2,
-        "risks": [
-          "High div count (21), indicates complex layout"
-        ],
-        "divCount": 21,
-        "contentLength": 2513
-      },
-      "fix": "Simplify layout or extract to component"
-    },
-    {
-      "type": "OVERFLOW_RISK",
-      "severity": "ERROR",
-      "line": 1337,
-      "slide": 37,
-      "title": "Slide 37",
-      "message": "Potential viewport overflow (risk score: 2)",
-      "details": {
-        "riskScore": 2,
-        "risks": [
-          "High div count (21), indicates complex layout"
-        ],
-        "divCount": 21,
-        "contentLength": 1723
-      },
-      "fix": "Simplify layout or extract to component"
-    },
-    {
-      "type": "OVERFLOW_RISK",
-      "severity": "ERROR",
-      "line": 1392,
-      "slide": 39,
-      "title": "Appendix",
       "message": "Potential viewport overflow (risk score: 2)",
       "details": {
         "riskScore": 2,
@@ -278,7 +422,143 @@
           "High div count (19), indicates complex layout"
         ],
         "divCount": 19,
-        "contentLength": 1737
+        "contentLength": 2321
+      },
+      "fix": "Simplify layout or extract to component"
+    },
+    {
+      "type": "OVERFLOW_RISK",
+      "severity": "ERROR",
+      "line": 819,
+      "slide": 24,
+      "title": "This is Not a Concept. Our Core Platform is Live.",
+      "message": "Potential viewport overflow (risk score: 2)",
+      "details": {
+        "riskScore": 2,
+        "risks": [
+          "High div count (32), indicates complex layout"
+        ],
+        "divCount": 32,
+        "contentLength": 3453
+      },
+      "fix": "Simplify layout or extract to component"
+    },
+    {
+      "type": "OVERFLOW_RISK",
+      "severity": "ERROR",
+      "line": 886,
+      "slide": 25,
+      "title": "Why We Win: AI Capability + Global Access",
+      "message": "Potential viewport overflow (risk score: 2)",
+      "details": {
+        "riskScore": 2,
+        "risks": [
+          "High div count (17), indicates complex layout"
+        ],
+        "divCount": 17,
+        "contentLength": 2093
+      },
+      "fix": "Simplify layout or extract to component"
+    },
+    {
+      "type": "OVERFLOW_RISK",
+      "severity": "ERROR",
+      "line": 935,
+      "slide": 26,
+      "title": "Our Unfair Advantages: The Triple Lock",
+      "message": "Potential viewport overflow (risk score: 2)",
+      "details": {
+        "riskScore": 2,
+        "risks": [
+          "High div count (43), indicates complex layout"
+        ],
+        "divCount": 43,
+        "contentLength": 3692
+      },
+      "fix": "Simplify layout or extract to component"
+    },
+    {
+      "type": "OVERFLOW_RISK",
+      "severity": "ERROR",
+      "line": 1068,
+      "slide": 31,
+      "title": "Path to $1B AUM in 36 Months",
+      "message": "Potential viewport overflow (risk score: 2)",
+      "details": {
+        "riskScore": 2,
+        "risks": [
+          "High div count (21), indicates complex layout"
+        ],
+        "divCount": 21,
+        "contentLength": 1506
+      },
+      "fix": "Simplify layout or extract to component"
+    },
+    {
+      "type": "OVERFLOW_RISK",
+      "severity": "ERROR",
+      "line": 1111,
+      "slide": 32,
+      "title": "Built by Experts in AI, Finance, and Global Markets",
+      "message": "Potential viewport overflow (risk score: 2)",
+      "details": {
+        "riskScore": 2,
+        "risks": [
+          "High div count (49), indicates complex layout"
+        ],
+        "divCount": 49,
+        "contentLength": 3613
+      },
+      "fix": "Simplify layout or extract to component"
+    },
+    {
+      "type": "OVERFLOW_RISK",
+      "severity": "ERROR",
+      "line": 1249,
+      "slide": 35,
+      "title": "$5M to Scale Our Proven Platform",
+      "message": "Potential viewport overflow (risk score: 2)",
+      "details": {
+        "riskScore": 2,
+        "risks": [
+          "High div count (22), indicates complex layout"
+        ],
+        "divCount": 22,
+        "contentLength": 2540
+      },
+      "fix": "Simplify layout or extract to component"
+    },
+    {
+      "type": "OVERFLOW_RISK",
+      "severity": "ERROR",
+      "line": 1321,
+      "slide": 37,
+      "title": "Slide 37",
+      "message": "Potential viewport overflow (risk score: 2)",
+      "details": {
+        "riskScore": 2,
+        "risks": [
+          "High div count (23), indicates complex layout"
+        ],
+        "divCount": 23,
+        "contentLength": 1773
+      },
+      "fix": "Simplify layout or extract to component"
+    },
+    {
+      "type": "OVERFLOW_RISK",
+      "severity": "ERROR",
+      "line": 1376,
+      "slide": 39,
+      "title": "Appendix",
+      "message": "Potential viewport overflow (risk score: 2)",
+      "details": {
+        "riskScore": 2,
+        "risks": [
+          "High div count (20), indicates complex layout"
+        ],
+        "divCount": 20,
+        "contentLength": 1760
       },
       "fix": "Simplify layout or extract to component"
     }

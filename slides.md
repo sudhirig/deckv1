@@ -157,7 +157,6 @@ The AI-Powered Digital Family Office
 
 <div class="grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden">
 <div class="space-y-2 text-sm">
-
 **Not Another Robo-Advisor**
 
 <div class="text-xs text-gray-400 mb-2">A complete family office with an AI Investment Committee available 24/7</div>
@@ -318,11 +317,9 @@ The Moat & The Technology
 
 <div class="grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden">
 <div>
-
 **The Old FPI Route**
 
 <div class="space-y-2 mt-2">
-
 <div class="p-2 border-2 border-red-500 rounded-lg bg-red-900/20">
 <strong class="text-red-300 text-sm">Complex Red Tape</strong>
 <div class="text-xs text-gray-400 mt-1">Heavy FPI compliance burdens, multi-month setup</div>
@@ -373,11 +370,9 @@ This slide builds tension showing the massive opportunity that's locked away.
 
 <div class="grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden">
 <div>
-
 **The GIFT City Solution**
 
 <div class="space-y-2 mt-2">
-
 <div class="p-2 border-2 border-green-500 rounded-lg bg-green-900/20">
 <strong class="text-green-300 text-sm">Direct Access via IFSC</strong>
 <div class="text-xs text-gray-400 mt-1">Streamlined setup for foreign investors</div>
