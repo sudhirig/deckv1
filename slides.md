@@ -609,7 +609,7 @@ The visual deal memo makes the value immediately obvious.
 </div>
 <div class="w-full max-w-4xl mx-auto">
   <h3 class="text-lg font-semibold mb-6 text-center text-white">Multi-Agent Investment Intelligence System</h3>
-  <div class="flex flex-col items-center gap-3">
+  <div class="flex flex-col items-center gap-2">
     <div class="w-64 h-16 rounded-lg flex items-center justify-center text-white font-bold text-xl" style="background: linear-gradient(to right, #a855f7, #7c3aed); animation: pulse-slow 3s ease-in-out infinite;">
       AI Platform
     </div>
@@ -619,33 +619,33 @@ The visual deal memo makes the value immediately obvious.
     </div>
     <div class="text-teal-400 text-2xl">↓</div>
     <div class="flex gap-3 justify-center w-full">
-      <div class="flex-1 max-w-[140px] h-12 rounded bg-blue-600/90 flex items-center justify-center text-white font-semibold text-sm">
+      <div class="flex-1 max-w-[140px] h-14 rounded bg-blue-600/90 flex items-center justify-center text-white font-semibold text-sm px-2">
         IB
       </div>
-      <div class="flex-1 max-w-[140px] h-12 rounded bg-blue-600/90 flex items-center justify-center text-white font-semibold text-sm">
+      <div class="flex-1 max-w-[140px] h-14 rounded bg-blue-600/90 flex items-center justify-center text-white font-semibold text-sm px-2">
         Alpaca
       </div>
-      <div class="flex-1 max-w-[140px] h-12 rounded bg-blue-600/90 flex items-center justify-center text-white font-semibold text-sm">
+      <div class="flex-1 max-w-[140px] h-14 rounded bg-blue-600/90 flex items-center justify-center text-white font-semibold text-sm px-2">
         TD
       </div>
-      <div class="flex-1 max-w-[140px] h-12 rounded bg-blue-600/90 flex items-center justify-center text-white font-semibold text-sm">
+      <div class="flex-1 max-w-[140px] h-14 rounded bg-blue-600/90 flex items-center justify-center text-white font-semibold text-sm px-2">
         Schwab
       </div>
     </div>
     <div class="text-teal-400 text-2xl">↓</div>
     <div class="flex gap-3 justify-center w-full">
-      <div class="flex-1 max-w-[180px] h-10 rounded bg-green-700/80 flex items-center justify-center text-white font-medium text-xs">
+      <div class="flex-1 max-w-[180px] h-14 rounded bg-green-700/80 flex items-center justify-center text-white font-medium text-sm px-2">
         Market Data
       </div>
-      <div class="flex-1 max-w-[180px] h-10 rounded bg-green-700/80 flex items-center justify-center text-white font-medium text-xs">
+      <div class="flex-1 max-w-[180px] h-14 rounded bg-green-700/80 flex items-center justify-center text-white font-medium text-sm px-2">
         Tax APIs
       </div>
-      <div class="flex-1 max-w-[180px] h-10 rounded bg-green-700/80 flex items-center justify-center text-white font-medium text-xs">
+      <div class="flex-1 max-w-[180px] h-14 rounded bg-green-700/80 flex items-center justify-center text-white font-medium text-sm px-2">
         Alt Platforms
       </div>
     </div>
   </div>
-  <div class="text-xs mt-6 text-gray-300">
+  <div class="text-xs mt-4 text-gray-300">
     <div class="font-semibold mb-1 text-white">Not a Brokerage</div>
     <div class="space-y-0.5">
       <div>• Pure AI intelligence</div>
@@ -653,7 +653,7 @@ The visual deal memo makes the value immediately obvious.
     </div>
   </div>
 </div>
-<div class="grid grid-cols-4 gap-3 mt-4 text-xs">
+<div class="grid grid-cols-4 gap-3 mt-3 text-xs">
   <div class="p-2 bg-blue-900/20 border border-blue-500/30 rounded">
     <div class="font-semibold text-blue-300 mb-1">Strategist Agents</div>
     <div class="text-gray-400">Buffett, Graham, Lynch philosophies</div>
@@ -671,7 +671,7 @@ The visual deal memo makes the value immediately obvious.
     <div class="text-gray-400">Tax, alternatives, India gateway</div>
   </div>
 </div>
-<div class="mt-3 text-center p-2 bg-gradient-to-r from-gray-800 to-gray-900 rounded-lg border border-gray-600">
+<div class="mt-2 text-center p-2 bg-gradient-to-r from-gray-800 to-gray-900 rounded-lg border border-gray-600">
   <div class="text-sm">
     <span class="text-teal-400 font-semibold">Tech Stack:</span>
     <span class="text-gray-400 ml-2">LangGraph orchestration - Multi-LLM (GPT-4, Claude, Gemini) - Real-time consensus building</span>
