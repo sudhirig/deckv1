@@ -186,11 +186,11 @@ The AI-Powered Digital Family Office
 
 </div>
 
-<div class="border-2 border-teal-500 rounded-xl p-3 bg-black/40 max-h-[72vh] overflow-y-auto">
-<div class="text-xs text-teal-400 mb-2 font-semibold">Premium Platform Preview - 100% OPERATIONAL TODAY</div>
-<img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded-lg w-full mb-2 max-h-[25vh] object-contain" />
-<img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded-lg w-full mb-2 max-h-[18vh] object-contain" />
-<img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded-lg w-full max-h-[18vh] object-contain" />
+<div class="border-2 border-teal-500 rounded-xl p-2 bg-black/40 max-h-[72vh] overflow-y-auto">
+<div class="text-xs text-teal-400 mb-1.5 font-semibold">Premium Platform Preview - 100% OPERATIONAL TODAY</div>
+<img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded w-full mb-1.5 max-h-[20vh] object-contain" />
+<img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded w-full mb-1.5 max-h-[14vh] object-contain" />
+<img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded w-full max-h-[14vh] object-contain" />
 </div>
 
 </div>
@@ -876,14 +876,14 @@ We show specific dollar amounts: $142K, $85K, $1.5M proving measurable impact.
     </div>
   </div>
 
-  <div class="space-y-2 max-h-[72vh] overflow-y-auto">
+  <div class="space-y-1.5 max-h-[72vh] overflow-y-auto">
     <div class="text-xs font-semibold text-teal-300 mb-1">Platform Screenshots - Live System</div>
-    <img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded-lg border border-teal-500/40 max-h-[26vh] w-full object-contain" alt="Portfolio Dashboard" />
+    <img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded border border-teal-500/40 max-h-[22vh] w-full object-contain" alt="Portfolio Dashboard" />
     <div class="text-xs text-gray-400 text-center">Real-time portfolio tracking</div>
 
     <div class="grid grid-cols-2 gap-2">
-      <img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded-lg border border-green-500/40 max-h-[16vh] w-full object-contain" alt="AI Committee" />
-      <img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded-lg border border-blue-500/40 max-h-[16vh] w-full object-contain" alt="Execution" />
+      <img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded border border-green-500/40 max-h-[14vh] w-full object-contain" alt="AI Committee" />
+      <img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded border border-blue-500/40 max-h-[14vh] w-full object-contain" alt="Execution" />
     </div>
     <div class="text-xs text-gray-400 text-center">Multi-agent consensus & execution</div>
   </div>
