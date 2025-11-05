@@ -70,34 +70,32 @@ The study is real, the data is undeniable, and it establishes "Why AI?" immediat
 
 ---
 
-# 46% of HNWIs Are Firing Their Advisors
+# The Wealth Management Market is Switching Now
 
-<div class="flex items-center justify-center h-[60vh]">
-  <div class="text-center space-y-8">
-    <StatCard
-      :value="46"
-      suffix="%"
-      label="Planning to Switch Advisors<br/>in the next 1-2 years"
-      color="orange"
-      :animate="true"
-      class="transform scale-150"
-    />
+<div class="flex flex-col items-center justify-center h-[65vh]">
+  <StatCard
+    :value="46"
+    suffix="%"
+    label="Planning to Switch Advisors<br/>in the next 1-2 years"
+    color="orange"
+    :animate="true"
+    class="mb-12"
+  />
 
-    <div class="grid grid-cols-3 gap-6 mt-12 text-sm">
-      <div class="p-4 border-l-4 border-orange-500 bg-orange-900/20 rounded">
-        <div class="text-2xl font-bold text-orange-400 mb-2">39%</div>
-        <div class="text-gray-300">Already switched or added provider (last 3 years)</div>
-      </div>
+  <div class="grid grid-cols-3 gap-6 max-w-4xl text-sm">
+    <div class="p-4 border-l-4 border-orange-500 bg-orange-900/20 rounded">
+      <div class="text-2xl font-bold text-orange-400 mb-2">39%</div>
+      <div class="text-gray-300">Already switched or added provider (last 3 years)</div>
+    </div>
 
-      <div class="p-4 border-l-4 border-amber-500 bg-amber-900/20 rounded">
-        <div class="text-2xl font-bold text-amber-400 mb-2">2x</div>
-        <div class="text-gray-300">Under 55 switch at twice the rate</div>
-      </div>
+    <div class="p-4 border-l-4 border-amber-500 bg-amber-900/20 rounded">
+      <div class="text-2xl font-bold text-amber-400 mb-2">2x</div>
+      <div class="text-gray-300">Under 55 switch at twice the rate</div>
+    </div>
 
-      <div class="p-4 border-l-4 border-teal-500 bg-teal-900/20 rounded">
-        <div class="text-2xl font-bold text-teal-400 mb-2">NOW</div>
-        <div class="text-gray-300">Once-in-generation window to capture share</div>
-      </div>
+    <div class="p-4 border-l-4 border-teal-500 bg-teal-900/20 rounded">
+      <div class="text-2xl font-bold text-teal-400 mb-2">NOW</div>
+      <div class="text-gray-300">Once-in-generation window to capture share</div>
     </div>
   </div>
 </div>

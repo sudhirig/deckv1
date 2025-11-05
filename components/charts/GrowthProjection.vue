@@ -1,7 +1,6 @@
 <template>
-  <div class="relative w-full h-full p-6">
-    <div class="text-center mb-6">
-      <div class="text-2xl font-bold mb-2">Path to $1B AUM in 36 Months</div>
+  <div class="relative w-full h-full p-4">
+    <div class="text-center mb-4">
       <div class="text-sm text-gray-400">Conservative projections based on Wealthfront/Betterment trajectories</div>
     </div>
 

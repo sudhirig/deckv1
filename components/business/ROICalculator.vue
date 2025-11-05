@@ -1,8 +1,5 @@
 <template>
   <div class="p-6 bg-gradient-to-br from-gray-900 to-gray-800 rounded-xl border-2 border-teal-500/30">
-    <div class="text-2xl font-bold mb-6 text-center">
-      We Create <span class="text-green-400">10x More Value</span> Than We Charge
-    </div>
 
     <!-- Portfolio Size Input -->
     <div class="mb-6">
