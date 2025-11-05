@@ -80,7 +80,7 @@ The study is real, the data is undeniable, and it establishes "Why AI?" immediat
   :animate="true"
 />
 
-<ThreeColumnLayout :gap="6">
+<div class="grid grid-cols-3 gap-6 max-h-[68vh] overflow-hidden">
   <div class="p-4 border-l-4 border-orange-500 bg-orange-900/20 rounded">
     <div class="text-2xl font-bold text-orange-400 mb-2">39%</div>
     <div class="text-gray-300">Already switched or added provider (last 3 years)</div>
@@ -95,7 +95,7 @@ The study is real, the data is undeniable, and it establishes "Why AI?" immediat
     <div class="text-2xl font-bold text-teal-400 mb-2">NOW</div>
     <div class="text-gray-300">Once-in-generation window to capture share</div>
   </div>
-</ThreeColumnLayout>
+</div>
 
 <div class="absolute bottom-4 left-0 right-0 text-center text-xs text-gray-500">
   Source: PwC HNW Investor Survey, 2022 | $107T in US HNW wealth + $124T wealth transfer in motion
@@ -155,7 +155,7 @@ The AI-Powered Digital Family Office
 
 # Introducing Your AI Digital Family Office
 
-<TwoColumnLayout>
+<div class="grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden">
 <div class="space-y-2 text-sm">
 
 **Not Another Robo-Advisor**
@@ -191,7 +191,7 @@ The AI-Powered Digital Family Office
 <img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded w-full mb-1 max-h-[10vh] object-contain" />
 <img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded w-full max-h-[10vh] object-contain" />
 </div>
-</TwoColumnLayout>
+</div>
 
 
 <!--
@@ -207,7 +207,7 @@ The dashboard mockups with real Zerodha integration prove this isn't vaporware.
   How Agentic AI Changes Everything
 </div>
 
-<TwoColumnLayout :gap="6">
+<div class="grid grid-cols-2 gap-6 max-h-[68vh] overflow-hidden">
 <div>
   <div class="text-xl font-semibold mb-3 text-red-300">The Old Model</div>
   <FlowDiagram type="old" />
@@ -223,7 +223,7 @@ The dashboard mockups with real Zerodha integration prove this isn't vaporware.
     <strong>AI Agent Swarm:</strong> 24/7 availability, specialized expertise, continuous monitoring, data-driven decisions
   </div>
 </div>
-</TwoColumnLayout>
+</div>
 
 <div class="mt-3 text-center p-3 bg-gradient-to-r from-teal-900/40 to-blue-900/40 rounded-lg border border-teal-500/30">
   <div class="text-base font-semibold text-teal-300">
@@ -244,7 +244,7 @@ It establishes our technical superiority over simple chatbots like ChatGPT.
   Each agent directly answers one pain point from Slide 4
 </div>
 
-<ThreeColumnLayout :gap="4">
+<div class="grid grid-cols-3 gap-4 max-h-[68vh] overflow-hidden">
 <AgentCard
   icon="💰"
   title="Tax Alpha Agent"
@@ -280,7 +280,7 @@ It establishes our technical superiority over simple chatbots like ChatGPT.
     <strong>Unique:</strong> Only AI platform with automated GIFT City access.
   </div>
 </AgentCard>
-</ThreeColumnLayout>
+</div>
 
 <div class="mt-3 text-center p-3 bg-gradient-to-r from-purple-900/40 to-pink-900/40 rounded-lg border border-purple-500/30">
   <div class="text-base font-semibold text-purple-300">
@@ -316,7 +316,7 @@ The Moat & The Technology
 
 # India: A $5T Market, Locked by Red Tape
 
-<TwoColumnLayout>
+<div class="grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden">
 <div>
 
 **The Old FPI Route**
@@ -360,7 +360,7 @@ The barriers are too high. Traditional advisors say "too complex."
 </div>
 </div>
 </div>
-</TwoColumnLayout>
+</div>
 
 <!--
 KEY MESSAGE: We position India as our "Phase 1 Global Gateway."
@@ -371,7 +371,7 @@ This slide builds tension showing the massive opportunity that's locked away.
 
 # Our Solution: The GIFT City "AI Gateway"
 
-<TwoColumnLayout>
+<div class="grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden">
 <div>
 
 **The GIFT City Solution**
@@ -414,7 +414,7 @@ NSE IFSC Volume Up 400% YoY
 <div class="text-xs text-gray-400">Market validation of GIFT City route</div>
 </div>
 </div>
-</TwoColumnLayout>
+</div>
 
 <div class="absolute bottom-4 left-0 right-0 text-center">
 <div class="inline-block px-6 py-2 bg-gradient-to-r from-yellow-900/40 to-orange-900/40 rounded-lg border border-yellow-500/30">
@@ -432,7 +432,7 @@ Add validation from JPMorgan (+300bps) and market traction (400% volume growth).
 
 # Our AI Agent Makes It Simple
 
-<TwoColumnLayout>
+<div class="grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden">
 <div class="p-2 border-2 border-teal-500 rounded bg-black/40">
   <div class="text-sm font-semibold text-teal-300 mb-2">The AI Experience</div>
 
@@ -485,7 +485,7 @@ Add validation from JPMorgan (+300bps) and market traction (400% volume growth).
     </div>
   </div>
 </div>
-</TwoColumnLayout>
+</div>
 
 <!--
 KEY MESSAGE: This proves the AI is the enabler. It's not just a new market route.
@@ -496,7 +496,7 @@ It's an AI-powered product that makes complexity simple.
 
 # Our "Tax Alpha" Agent: Daily vs Annual
 
-<TwoColumnLayout>
+<div class="grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden">
   <div class="space-y-4">
     <div class="text-xl font-bold text-orange-300">What Others Can't Do</div>
 
@@ -564,7 +564,7 @@ It's an AI-powered product that makes complexity simple.
       </div>
     </div>
   </div>
-</TwoColumnLayout>
+</div>
 
 <div class="absolute bottom-4 left-0 right-0 text-center text-xs text-gray-500">
   Based on JPMorgan research on tax-loss harvesting frequency and alpha generation
@@ -580,7 +580,7 @@ This is a tangible, high-value AI feature.
 
 # Our "Alternative Asset" Agent: AI Due Diligence
 
-<TwoColumnLayout>
+<div class="grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden">
   <div class="space-y-4">
     <div class="text-xl font-bold text-purple-300">Unlocking Private Markets</div>
 
@@ -667,7 +667,7 @@ This is a tangible, high-value AI feature.
       Generated from 127-page offering memorandum in 5 minutes
     </div>
   </div>
-</TwoColumnLayout>
+</div>
 
 <div class="absolute bottom-4 left-0 right-0 text-center">
   <div class="inline-block px-6 py-2 bg-purple-900/30 rounded-lg border border-purple-500/30">
@@ -751,7 +751,7 @@ Validation & Traction
   Three HNW personas showing measurable outcomes
 </div>
 
-<ThreeColumnLayout :gap="4">
+<div class="grid grid-cols-3 gap-4 max-h-[68vh] overflow-hidden">
 <PersonaJourneyCard
   emoji="😟"
   title="Pain"
@@ -805,7 +805,7 @@ Validation & Traction
     </div>
   </div>
 </PersonaJourneyCard>
-</ThreeColumnLayout>
+</div>
 
 <div class="mt-4 text-center text-xs text-gray-500">
   Two additional personas (Chris - Inheritor, Sal - Tax Optimizer) available in appendix with similar quantified outcomes
@@ -824,7 +824,7 @@ We show specific dollar amounts: $142K, $85K, $1.5M proving measurable impact.
   Proven Technology - Real Portfolio - Production Ready
 </div>
 
-<TwoColumnLayout :gap="4">
+<div class="grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden">
   <div class="space-y-3">
     <div class="p-3 bg-gradient-to-r from-green-900/40 to-emerald-900/40 rounded-lg border border-green-500/30">
       <div class="text-base font-semibold text-green-300 mb-2">Live Integration</div>
@@ -869,7 +869,7 @@ We show specific dollar amounts: $142K, $85K, $1.5M proving measurable impact.
     </div>
     <div class="text-xs text-gray-400 text-center">Multi-agent consensus & execution</div>
   </div>
-</TwoColumnLayout>
+</div>
 
 <div class="absolute bottom-4 left-0 right-0 text-center">
   <div class="inline-block px-6 py-3 bg-green-500/20 border-2 border-green-500 rounded-lg">
@@ -896,7 +896,7 @@ Real screenshots, real broker integration, real money being managed.
   y-label="Domestic Only → Global Gateway (India Access)"
 />
 
-<TwoColumnLayout :gap="3">
+<div class="grid grid-cols-2 gap-3 max-h-[68vh] overflow-hidden">
   <div class="space-y-3">
     <div class="p-3 border-2 border-red-400 bg-red-900/40 rounded-lg">
       <div class="font-bold text-base text-red-200 mb-2">Bottom-Left: Robo-Advisors</div>
@@ -920,7 +920,7 @@ Real screenshots, real broker integration, real money being managed.
       <div class="text-green-100 text-xs">Explainable AI + Broker-Agnostic + Exclusive GIFT City Gateway</div>
     </div>
   </div>
-</TwoColumnLayout>
+</div>
 
 <div class="mt-3 text-center p-2 bg-gradient-to-r from-teal-900/40 to-blue-900/40 rounded-lg border border-teal-500/30">
   <span class="text-teal-300 font-semibold">Arta proved AI wealth works at $90M valuation.</span>
@@ -940,7 +940,7 @@ Arta Finance validates the model. We win with additional differentiation.
   Three defensive moats protecting our competitive position
 </div>
 
-<ThreeColumnLayout :gap="4">
+<div class="grid grid-cols-3 gap-4 max-h-[68vh] overflow-hidden">
 <div class="p-4 rounded-xl border-2 border-blue-500 bg-gradient-to-br from-blue-900/40 to-blue-800/20">
   <div class="text-3xl mb-3 text-center">🔒</div>
   <div class="text-lg font-bold text-blue-300 text-center mb-3">Technical Moat</div>
@@ -1006,7 +1006,7 @@ Arta Finance validates the model. We win with additional differentiation.
     </div>
   </div>
 </div>
-</ThreeColumnLayout>
+</div>
 
 <div class="mt-4 text-center p-3 bg-gradient-to-r from-purple-900/40 to-pink-900/40 rounded-lg border border-purple-500/30">
   <div class="text-base font-semibold text-purple-300">
@@ -1071,7 +1071,7 @@ User can adjust slider to see their own scenario.
 
 <GrowthProjection />
 
-<ThreeColumnLayout :gap="4">
+<div class="grid grid-cols-3 gap-4 max-h-[68vh] overflow-hidden">
   <div class="p-3 bg-teal-900/20 border border-teal-500/30 rounded-lg">
     <div class="text-teal-300 font-semibold mb-2">Unit Economics</div>
     <div class="space-y-1 text-xs text-gray-400">
@@ -1100,7 +1100,7 @@ User can adjust slider to see their own scenario.
       <div>Higher ARPU, better retention</div>
     </div>
   </div>
-</ThreeColumnLayout>
+</div>
 
 <!--
 KEY MESSAGE: Hockey stick growth with milestone markers.
@@ -1112,7 +1112,7 @@ Benchmark against Wealthfront showing our HNW advantage.
 
 # Built by Experts in AI, Finance, and Global Markets
 
-<ThreeColumnLayout :gap="4">
+<div class="grid grid-cols-3 gap-4 max-h-[68vh] overflow-hidden">
   <div class="p-4 border-2 border-teal-500 rounded-xl bg-teal-900/20">
     <div class="text-lg font-semibold text-teal-300 mb-3">Leadership</div>
 
@@ -1188,7 +1188,7 @@ Benchmark against Wealthfront showing our HNW advantage.
       </div>
     </div>
   </div>
-</ThreeColumnLayout>
+</div>
 
 <div class="mt-6 p-4 bg-gradient-to-r from-teal-900/40 to-purple-900/40 rounded-lg border border-teal-500/30">
   <div class="text-center text-sm">
@@ -1223,7 +1223,7 @@ class: text-center
     18-month runway to product-market fit & Series A readiness
   </div>
 
-  <ThreeColumnLayout :gap="4">
+  <div class="grid grid-cols-3 gap-4 max-h-[68vh] overflow-hidden">
     <div class="p-3 bg-teal-900/20 rounded-lg border border-teal-500/30">
       <div class="text-xl font-bold text-teal-400 mb-1">500</div>
       <div class="text-sm text-gray-400">HNW Beta Users</div>
@@ -1238,7 +1238,7 @@ class: text-center
       <div class="text-xl font-bold text-blue-400 mb-1">Q1 2025</div>
       <div class="text-sm text-gray-400">US Launch</div>
     </div>
-  </ThreeColumnLayout>
+  </div>
 </div>
 
 <!--
@@ -1250,7 +1250,7 @@ Clear ask with specific milestones unlocked by funding.
 
 # $5M to Scale Our Proven Platform
 
-<TwoColumnLayout :gap="4">
+<div class="grid grid-cols-2 gap-4 max-h-[68vh] overflow-hidden">
   <div>
     <div class="text-xl font-semibold text-teal-300 mb-4">Capital Allocation</div>
 
@@ -1308,7 +1308,7 @@ Clear ask with specific milestones unlocked by funding.
       </div>
     </div>
   </div>
-</TwoColumnLayout>
+</div>
 
 <!--
 KEY MESSAGE: Clear capital allocation with specific deliverables.
@@ -1333,7 +1333,7 @@ class: text-center
 
   <div class="h-1 w-48 bg-gradient-to-r from-teal-500 to-green-500 mx-auto"></div>
 
-  <ThreeColumnLayout :gap="8">
+  <div class="grid grid-cols-3 gap-8 max-h-[68vh] overflow-hidden">
     <div>
       <div class="text-teal-400 font-semibold mb-2">Built on</div>
       <div class="text-gray-300">GIFT City Infrastructure</div>
@@ -1348,11 +1348,11 @@ class: text-center
       <div class="text-teal-400 font-semibold mb-2">Launching</div>
       <div class="text-gray-300">Q1 2025</div>
     </div>
-  </ThreeColumnLayout>
+  </div>
 
   <div class="mt-12 p-6 bg-gradient-to-r from-teal-900/40 to-blue-900/40 rounded-xl border-2 border-teal-500/50">
     <div class="text-xl font-semibold text-teal-300 mb-4">Get in Touch</div>
-    <TwoColumnLayout :gap="6">
+    <div class="grid grid-cols-2 gap-6 max-h-[68vh] overflow-hidden">
       <div>
         <div class="text-gray-400 mb-2">Email</div>
         <div class="text-white font-semibold">info@vora-ventures.com</div>
@@ -1361,7 +1361,7 @@ class: text-center
         <div class="text-gray-400 mb-2">Schedule Demo</div>
         <div class="text-white font-semibold">[Calendar Link]</div>
       </div>
-    </TwoColumnLayout>
+    </div>
   </div>
 </div>
 
@@ -1381,7 +1381,7 @@ class: text-center
 Additional Details & Technical Deep-Dives
 </div>
 
-<ThreeColumnLayout :gap="6">
+<div class="grid grid-cols-3 gap-6 max-h-[68vh] overflow-hidden">
   <div class="p-4 bg-blue-900/20 rounded-lg border border-blue-500/30">
     <div class="font-semibold text-blue-300 mb-2">Additional Personas</div>
     <div class="text-gray-400 text-xs">Chris (Inheritor), Sal (Tax Optimizer)</div>
@@ -1411,7 +1411,7 @@ Additional Details & Technical Deep-Dives
     <div class="font-semibold text-pink-300 mb-2">Go-to-Market</div>
     <div class="text-gray-400 text-xs">Channel strategy, partnerships</div>
   </div>
-</ThreeColumnLayout>
+</div>
 
 <!--
 This appendix slide serves as navigation to backup slides for deep-dive Q&A.
