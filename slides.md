@@ -607,54 +607,50 @@ The visual deal memo makes the value immediately obvious.
 <div class="text-center text-sm text-gray-400 mb-4">
   The Full Agentic Architecture Powering Your Wealth Management
 </div>
-<div class="w-full">
-  <h3 class="text-lg font-semibold mb-4 text-center">Multi-Agent Investment Intelligence System</h3>
-  <svg class="w-full h-80 mx-auto" viewBox="0 0 400 300" preserveAspectRatio="xMidYMid meet">
+<div class="w-full max-w-4xl mx-auto">
+  <h3 class="text-lg font-semibold mb-6 text-center text-white">Multi-Agent Investment Intelligence System</h3>
+  <svg class="w-full mx-auto" viewBox="0 0 500 320" preserveAspectRatio="xMidYMid meet" style="max-height: 60vh;">
     <defs>
-      <linearGradient id="aiGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <linearGradient id="aiGrad" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" style="stop-color:#a855f7;stop-opacity:1" />
         <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
       </linearGradient>
-      <linearGradient id="apiGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <linearGradient id="apiGrad" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" style="stop-color:#14b8a6;stop-opacity:1" />
         <stop offset="100%" style="stop-color:#0d9488;stop-opacity:1" />
       </linearGradient>
     </defs>
-    <rect x="150" y="20" width="100" height="40" rx="5" fill="url(#aiGradient)" style="animation: pulse-slow 3s ease-in-out infinite;" />
-    <text x="200" y="45" font-size="12" fill="white" text-anchor="middle" font-weight="bold">AI Platform</text>
-    <rect x="150" y="100" width="100" height="40" rx="5" fill="url(#apiGradient)" />
-    <text x="200" y="125" font-size="12" fill="white" text-anchor="middle" font-weight="bold">API Layer</text>
-    <line x1="200" y1="60" x2="200" y2="100" stroke="#22c55e" stroke-width="2" />
-    <polygon points="200,100 195,90 205,90" fill="#22c55e" />
-    <g>
-      <rect x="30" y="180" width="70" height="30" rx="3" fill="#3b82f6" opacity="0.8" />
-      <text x="65" y="200" font-size="10" fill="white" text-anchor="middle">IB</text>
-      <rect x="110" y="180" width="70" height="30" rx="3" fill="#3b82f6" opacity="0.8" />
-      <text x="145" y="200" font-size="10" fill="white" text-anchor="middle">Alpaca</text>
-      <rect x="190" y="180" width="70" height="30" rx="3" fill="#3b82f6" opacity="0.8" />
-      <text x="225" y="200" font-size="10" fill="white" text-anchor="middle">TD</text>
-      <rect x="270" y="180" width="70" height="30" rx="3" fill="#3b82f6" opacity="0.8" />
-      <text x="305" y="200" font-size="10" fill="white" text-anchor="middle">Schwab</text>
-    </g>
-    <line x1="65" y1="140" x2="65" y2="180" stroke="#0d9488" stroke-width="1.5" opacity="0.6" />
-    <line x1="145" y1="140" x2="145" y2="180" stroke="#0d9488" stroke-width="1.5" opacity="0.6" />
-    <line x1="225" y1="140" x2="225" y2="180" stroke="#0d9488" stroke-width="1.5" opacity="0.6" />
-    <line x1="305" y1="140" x2="305" y2="180" stroke="#0d9488" stroke-width="1.5" opacity="0.6" />
-    <g>
-      <rect x="30" y="240" width="100" height="25" rx="3" fill="#059669" opacity="0.7" />
-      <text x="80" y="257" font-size="9" fill="white" text-anchor="middle">Market Data</text>
-      <rect x="150" y="240" width="100" height="25" rx="3" fill="#059669" opacity="0.7" />
-      <text x="200" y="257" font-size="9" fill="white" text-anchor="middle">Tax APIs</text>
-      <rect x="270" y="240" width="100" height="25" rx="3" fill="#059669" opacity="0.7" />
-      <text x="320" y="257" font-size="9" fill="white" text-anchor="middle">Alt Platforms</text>
-    </g>
-    <line x1="80" y1="140" x2="80" y2="240" stroke="#0d9488" stroke-width="1.5" opacity="0.6" />
-    <line x1="200" y1="140" x2="200" y2="240" stroke="#0d9488" stroke-width="1.5" opacity="0.6" />
-    <line x1="320" y1="140" x2="320" y2="240" stroke="#0d9488" stroke-width="1.5" opacity="0.6" />
+    <rect x="175" y="30" width="150" height="50" rx="8" fill="url(#aiGrad)" style="animation: pulse-slow 3s ease-in-out infinite;" />
+    <text x="250" y="62" font-size="16" fill="white" text-anchor="middle" font-weight="bold">AI Platform</text>
+    <rect x="175" y="120" width="150" height="50" rx="8" fill="url(#apiGrad)" />
+    <text x="250" y="152" font-size="16" fill="white" text-anchor="middle" font-weight="bold">API Layer</text>
+    <line x1="250" y1="80" x2="250" y2="120" stroke="#22c55e" stroke-width="3" />
+    <polygon points="250,120 243,108 257,108" fill="#22c55e" />
+    <rect x="20" y="210" width="90" height="40" rx="4" fill="#3b82f6" opacity="0.9" />
+    <text x="65" y="235" font-size="13" fill="white" text-anchor="middle" font-weight="600">IB</text>
+    <rect x="130" y="210" width="90" height="40" rx="4" fill="#3b82f6" opacity="0.9" />
+    <text x="175" y="235" font-size="13" fill="white" text-anchor="middle" font-weight="600">Alpaca</text>
+    <rect x="240" y="210" width="90" height="40" rx="4" fill="#3b82f6" opacity="0.9" />
+    <text x="285" y="235" font-size="13" fill="white" text-anchor="middle" font-weight="600">TD</text>
+    <rect x="350" y="210" width="90" height="40" rx="4" fill="#3b82f6" opacity="0.9" />
+    <text x="395" y="235" font-size="13" fill="white" text-anchor="middle" font-weight="600">Schwab</text>
+    <line x1="65" y1="170" x2="65" y2="210" stroke="#0d9488" stroke-width="2" opacity="0.7" />
+    <line x1="175" y1="170" x2="175" y2="210" stroke="#0d9488" stroke-width="2" opacity="0.7" />
+    <line x1="285" y1="170" x2="285" y2="210" stroke="#0d9488" stroke-width="2" opacity="0.7" />
+    <line x1="395" y1="170" x2="395" y2="210" stroke="#0d9488" stroke-width="2" opacity="0.7" />
+    <rect x="30" y="280" width="120" height="32" rx="4" fill="#059669" opacity="0.8" />
+    <text x="90" y="301" font-size="11" fill="white" text-anchor="middle" font-weight="500">Market Data</text>
+    <rect x="170" y="280" width="120" height="32" rx="4" fill="#059669" opacity="0.8" />
+    <text x="230" y="301" font-size="11" fill="white" text-anchor="middle" font-weight="500">Tax APIs</text>
+    <rect x="310" y="280" width="120" height="32" rx="4" fill="#059669" opacity="0.8" />
+    <text x="370" y="301" font-size="11" fill="white" text-anchor="middle" font-weight="500">Alt Platforms</text>
+    <line x1="90" y1="170" x2="90" y2="280" stroke="#0d9488" stroke-width="2" opacity="0.6" />
+    <line x1="230" y1="170" x2="230" y2="280" stroke="#0d9488" stroke-width="2" opacity="0.6" />
+    <line x1="370" y1="170" x2="370" y2="280" stroke="#0d9488" stroke-width="2" opacity="0.6" />
   </svg>
-  <div class="text-xs mt-4">
-    <div class="font-semibold mb-2">Not a Brokerage</div>
-    <div class="space-y-1">
+  <div class="text-xs mt-6 text-gray-300">
+    <div class="font-semibold mb-1 text-white">Not a Brokerage</div>
+    <div class="space-y-0.5">
       <div>• Pure AI intelligence</div>
       <div>• Broker-agnostic</div>
     </div>
