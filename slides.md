@@ -320,47 +320,52 @@ The Moat & The Technology
 
 # India: A $5T Market, Locked by Red Tape
 
-<div class="grid grid-cols-2 gap-8 h-[70vh]">
-  <div class="space-y-4">
-    <div class="text-2xl font-bold text-red-300 mb-4">The Old FPI Route</div>
+<div class="grid grid-cols-2 gap-8">
 
-    <div class="space-y-3">
-      <div class="p-4 border-2 border-red-500 rounded-lg bg-red-900/20">
-        <div class="font-semibold text-red-300 mb-2">Complex Red Tape</div>
-        <div class="text-sm text-gray-400">Heavy FPI compliance burdens, multi-month setup</div>
-      </div>
+<div>
 
-      <div class="p-4 border-2 border-red-500 rounded-lg bg-red-900/20">
-        <div class="font-semibold text-red-300 mb-2">Crippling Tax</div>
-        <div class="text-sm text-gray-400">Capital Gains Tax + STT drag performance</div>
-      </div>
+**The Old FPI Route**
 
-      <div class="p-4 border-2 border-red-500 rounded-lg bg-red-900/20">
-        <div class="font-semibold text-red-300 mb-2">Currency Risk</div>
-        <div class="text-sm text-gray-400">INR depreciation erodes returns</div>
-      </div>
+<div class="space-y-3 mt-4">
 
-      <div class="p-4 border-2 border-red-500 rounded-lg bg-red-900/20">
-        <div class="font-semibold text-red-300 mb-2">Repatriation Nightmare</div>
-        <div class="text-sm text-gray-400">Slow, restrictive capital movement</div>
-      </div>
-    </div>
-  </div>
+<div class="p-4 border-2 border-red-500 rounded-lg bg-red-900/20">
+<strong class="text-red-300">Complex Red Tape</strong>
+<div class="text-sm text-gray-400 mt-1">Heavy FPI compliance burdens, multi-month setup</div>
+</div>
 
-  <div class="flex items-center justify-center">
-    <div class="text-center space-y-6">
-      <div class="text-6xl mb-4">🔒</div>
-      <div class="text-3xl font-bold text-gray-300">
-        15% of HNW portfolios<br/>want India exposure
-      </div>
-      <div class="text-5xl font-bold text-red-400">
-        Only 3% have it
-      </div>
-      <div class="text-lg text-gray-400 mt-4">
-        The barriers are too high.<br/>Traditional advisors say "too complex."
-      </div>
-    </div>
-  </div>
+<div class="p-4 border-2 border-red-500 rounded-lg bg-red-900/20">
+<strong class="text-red-300">Crippling Tax</strong>
+<div class="text-sm text-gray-400 mt-1">Capital Gains Tax + STT drag performance</div>
+</div>
+
+<div class="p-4 border-2 border-red-500 rounded-lg bg-red-900/20">
+<strong class="text-red-300">Currency Risk</strong>
+<div class="text-sm text-gray-400 mt-1">INR depreciation erodes returns</div>
+</div>
+
+<div class="p-4 border-2 border-red-500 rounded-lg bg-red-900/20">
+<strong class="text-red-300">Repatriation Nightmare</strong>
+<div class="text-sm text-gray-400 mt-1">Slow, restrictive capital movement</div>
+</div>
+
+</div>
+</div>
+
+<div class="flex items-center justify-center">
+<div class="text-center space-y-4">
+<div class="text-6xl mb-4">🔒</div>
+<div class="text-2xl font-bold text-gray-300">
+15% of HNW portfolios want India exposure
+</div>
+<div class="text-5xl font-bold text-red-400 my-4">
+Only 3% have it
+</div>
+<div class="text-base text-gray-400">
+The barriers are too high. Traditional advisors say "too complex."
+</div>
+</div>
+</div>
+
 </div>
 
 <!--
@@ -372,53 +377,58 @@ This slide builds tension showing the massive opportunity that's locked away.
 
 # Our Solution: The GIFT City "AI Gateway"
 
-<div class="grid grid-cols-2 gap-8 h-[70vh]">
-  <div class="space-y-4">
-    <div class="text-2xl font-bold text-green-300 mb-4">The GIFT City Solution</div>
+<div class="grid grid-cols-2 gap-8">
 
-    <div class="space-y-3">
-      <div class="p-4 border-2 border-green-500 rounded-lg bg-green-900/20">
-        <div class="font-semibold text-green-300 mb-2">Direct Access via IFSC</div>
-        <div class="text-sm text-gray-400">Streamlined setup for foreign investors</div>
-      </div>
+<div>
 
-      <div class="p-4 border-2 border-green-500 rounded-lg bg-green-900/20">
-        <div class="font-semibold text-green-300 mb-2">0% Capital Gains Tax</div>
-        <div class="text-sm text-gray-400">No CGT, no STT - keep all your gains</div>
-      </div>
+**The GIFT City Solution**
 
-      <div class="p-4 border-2 border-green-500 rounded-lg bg-green-900/20">
-        <div class="font-semibold text-green-300 mb-2">100% USD-Denominated</div>
-        <div class="text-sm text-gray-400">Hard currency, zero currency risk</div>
-      </div>
+<div class="space-y-3 mt-4">
 
-      <div class="p-4 border-2 border-green-500 rounded-lg bg-green-900/20">
-        <div class="font-semibold text-green-300 mb-2">Unrestricted Repatriation</div>
-        <div class="text-sm text-gray-400">Free fund movement, instant access</div>
-      </div>
-    </div>
-  </div>
+<div class="p-4 border-2 border-green-500 rounded-lg bg-green-900/20">
+<strong class="text-green-300">Direct Access via IFSC</strong>
+<div class="text-sm text-gray-400 mt-1">Streamlined setup for foreign investors</div>
+</div>
 
-  <div class="flex items-center justify-center">
-    <div class="text-center space-y-6">
-      <div class="text-6xl mb-4">🔓</div>
-      <div class="text-3xl font-bold text-green-300">
-        Drives +300bps<br/>in returns
-      </div>
-      <div class="text-base text-gray-400">(JPMorgan Research)</div>
-      <div class="text-3xl font-bold text-teal-400 mt-6">
-        NSE IFSC Volume<br/>Up 400% YoY
-      </div>
-      <div class="text-base text-gray-400">Market validation of GIFT City route</div>
-    </div>
-  </div>
+<div class="p-4 border-2 border-green-500 rounded-lg bg-green-900/20">
+<strong class="text-green-300">0% Capital Gains Tax</strong>
+<div class="text-sm text-gray-400 mt-1">No CGT, no STT - keep all your gains</div>
+</div>
+
+<div class="p-4 border-2 border-green-500 rounded-lg bg-green-900/20">
+<strong class="text-green-300">USD-Based Trading</strong>
+<div class="text-sm text-gray-400 mt-1">Eliminate currency risk entirely</div>
+</div>
+
+<div class="p-4 border-2 border-green-500 rounded-lg bg-green-900/20">
+<strong class="text-green-300">Free Capital Movement</strong>
+<div class="text-sm text-gray-400 mt-1">Instant repatriation, no restrictions</div>
+</div>
+
+</div>
+</div>
+
+<div class="flex items-center justify-center">
+<div class="text-center space-y-4">
+<div class="text-6xl mb-4">🔓</div>
+<div class="text-3xl font-bold text-green-300">
++300bps in returns
+</div>
+<div class="text-sm text-gray-400">(JPMorgan Research)</div>
+<div class="text-2xl font-bold text-teal-400 mt-4">
+NSE IFSC Volume Up 400% YoY
+</div>
+<div class="text-sm text-gray-400">Market validation of GIFT City route</div>
+</div>
+</div>
+
 </div>
 
 <div class="absolute bottom-4 left-0 right-0 text-center">
-  <div class="inline-block px-6 py-3 bg-gradient-to-r from-yellow-900/40 to-orange-900/40 rounded-lg border border-yellow-500/30">
-    <span class="text-lg font-semibold text-yellow-300">GIFT City (IFSC)</span>
-    <span class="text-gray-300 ml-2">eliminates traditional friction points</span>
-  </div>
+<div class="inline-block px-6 py-2 bg-gradient-to-r from-yellow-900/40 to-orange-900/40 rounded-lg border border-yellow-500/30">
+<span class="text-base font-semibold text-yellow-300">EXCLUSIVE:</span>
+<span class="text-gray-300 ml-2">One of only 3 platforms with this capability</span>
+</div>
 </div>
 
 <!--
