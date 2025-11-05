@@ -604,20 +604,20 @@ The visual deal memo makes the value immediately obvious.
 ---
 
 # Our "Brain": A Swarm of 20+ Specialized Agents
-<div class="text-center text-sm text-gray-400 mb-4">
+<div class="text-center text-sm text-gray-400 mb-2">
   The Full Agentic Architecture Powering Your Wealth Management
 </div>
 <div class="w-full max-w-4xl mx-auto">
-  <h3 class="text-lg font-semibold mb-6 text-center text-white">Multi-Agent Investment Intelligence System</h3>
+  <h3 class="text-base font-semibold mb-3 text-center text-white">Multi-Agent Investment Intelligence System</h3>
   <div class="flex flex-col items-center gap-2">
-    <div class="w-64 h-16 rounded-lg flex items-center justify-center text-white font-bold text-xl" style="background: linear-gradient(to right, #a855f7, #7c3aed); animation: pulse-slow 3s ease-in-out infinite;">
+    <div class="w-64 h-14 rounded-lg flex items-center justify-center text-white font-bold text-xl" style="background: linear-gradient(to right, #a855f7, #7c3aed); animation: pulse-slow 3s ease-in-out infinite;">
       AI Platform
     </div>
-    <div class="text-green-400 text-2xl">↓</div>
-    <div class="w-64 h-16 rounded-lg flex items-center justify-center text-white font-bold text-xl" style="background: linear-gradient(to right, #14b8a6, #0d9488);">
+    <div class="text-green-400 text-xl">↓</div>
+    <div class="w-64 h-14 rounded-lg flex items-center justify-center text-white font-bold text-xl" style="background: linear-gradient(to right, #14b8a6, #0d9488);">
       API Layer
     </div>
-    <div class="text-teal-400 text-2xl">↓</div>
+    <div class="text-teal-400 text-xl">↓</div>
     <div class="flex gap-3 justify-center w-full">
       <div class="flex-1 max-w-[140px] h-14 rounded bg-blue-600/90 flex items-center justify-center text-white font-semibold text-sm px-2">
         IB
@@ -632,7 +632,7 @@ The visual deal memo makes the value immediately obvious.
         Schwab
       </div>
     </div>
-    <div class="text-teal-400 text-2xl">↓</div>
+    <div class="text-teal-400 text-xl">↓</div>
     <div class="flex gap-3 justify-center w-full">
       <div class="flex-1 max-w-[180px] h-14 rounded bg-green-700/80 flex items-center justify-center text-white font-medium text-sm px-2">
         Market Data
@@ -645,7 +645,7 @@ The visual deal memo makes the value immediately obvious.
       </div>
     </div>
   </div>
-  <div class="text-xs mt-4 text-gray-300">
+  <div class="text-xs mt-3 text-gray-300">
     <div class="font-semibold mb-1 text-white">Not a Brokerage</div>
     <div class="space-y-0.5">
       <div>• Pure AI intelligence</div>
