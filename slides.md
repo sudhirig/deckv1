@@ -205,32 +205,32 @@ The dashboard mockups with real Zerodha integration prove this isn't vaporware.
 
 # Not a Chatbot. An AI Investment Committee.
 
-<div class="text-center text-lg text-gray-400 mb-8">
+<div class="text-center text-base text-gray-400 mb-4">
   How Agentic AI Changes Everything
 </div>
 
-<TwoColumnLayout :gap="8">
+<TwoColumnLayout :gap="6">
 
 <div>
-  <div class="text-2xl font-semibold mb-4 text-red-300">The Old Model</div>
+  <div class="text-xl font-semibold mb-3 text-red-300">The Old Model</div>
   <FlowDiagram type="old" />
-  <div class="mt-4 p-3 bg-red-900/20 border border-red-500/30 rounded text-sm text-gray-300">
+  <div class="mt-2 p-2 bg-red-900/20 border border-red-500/30 rounded text-sm text-gray-300">
     <strong>Single Advisor Bottleneck:</strong> Quarterly meetings, limited time, generalist approach, human biases
   </div>
 </div>
 
 <div>
-  <div class="text-2xl font-semibold mb-4 text-green-300">Our Model</div>
+  <div class="text-xl font-semibold mb-3 text-green-300">Our Model</div>
   <FlowDiagram type="new" />
-  <div class="mt-4 p-3 bg-green-900/20 border border-green-500/30 rounded text-sm text-gray-300">
+  <div class="mt-2 p-2 bg-green-900/20 border border-green-500/30 rounded text-sm text-gray-300">
     <strong>AI Agent Swarm:</strong> 24/7 availability, specialized expertise, continuous monitoring, data-driven decisions
   </div>
 </div>
 
 </TwoColumnLayout>
 
-<div class="mt-6 text-center p-4 bg-gradient-to-r from-teal-900/40 to-blue-900/40 rounded-lg border border-teal-500/30">
-  <div class="text-lg font-semibold text-teal-300">
+<div class="mt-3 text-center p-3 bg-gradient-to-r from-teal-900/40 to-blue-900/40 rounded-lg border border-teal-500/30">
+  <div class="text-base font-semibold text-teal-300">
     5 Specialized Agents Working Together vs 1 Generalist Working Alone
   </div>
 </div>
@@ -1087,8 +1087,8 @@ User can adjust slider to see their own scenario.
 
 <GrowthProjection />
 
-<div class="grid grid-cols-3 gap-6 mt-6 text-sm">
-  <div class="p-4 bg-teal-900/20 border border-teal-500/30 rounded-lg">
+<div class="grid grid-cols-3 gap-4 mt-3 text-sm">
+  <div class="p-3 bg-teal-900/20 border border-teal-500/30 rounded-lg">
     <div class="text-teal-300 font-semibold mb-2">Unit Economics</div>
     <div class="space-y-1 text-xs text-gray-400">
       <div>CAC: $3,500 (blended)</div>
@@ -1098,7 +1098,7 @@ User can adjust slider to see their own scenario.
     </div>
   </div>
 
-  <div class="p-4 bg-green-900/20 border border-green-500/30 rounded-lg">
+  <div class="p-3 bg-green-900/20 border border-green-500/30 rounded-lg">
     <div class="text-green-300 font-semibold mb-2">Margins</div>
     <div class="space-y-1 text-xs text-gray-400">
       <div>Gross Margin: <strong class="text-green-400">93%</strong></div>
@@ -1108,7 +1108,7 @@ User can adjust slider to see their own scenario.
     </div>
   </div>
 
-  <div class="p-4 bg-blue-900/20 border border-blue-500/30 rounded-lg">
+  <div class="p-3 bg-blue-900/20 border border-blue-500/30 rounded-lg">
     <div class="text-blue-300 font-semibold mb-2">Benchmark</div>
     <div class="space-y-1 text-xs text-gray-400">
       <div>Wealthfront: $1B in 2.5 years</div>

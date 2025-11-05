@@ -1,10 +1,10 @@
 <template>
-  <div class="relative w-full h-full p-4">
-    <div class="text-center mb-4">
-      <div class="text-sm text-gray-400">Conservative projections based on Wealthfront/Betterment trajectories</div>
+  <div class="relative w-full h-full p-2">
+    <div class="text-center mb-2">
+      <div class="text-xs text-gray-400">Conservative projections based on Wealthfront/Betterment trajectories</div>
     </div>
 
-    <svg viewBox="0 0 800 400" class="w-full">
+    <svg viewBox="0 0 800 350" class="w-full">
       <!-- Grid lines -->
       <line
         v-for="i in 5"
@@ -145,17 +145,17 @@
     </svg>
 
     <!-- Legend -->
-    <div class="mt-6 flex justify-center gap-8 text-xs">
-      <div class="flex items-center gap-2">
-        <div class="w-3 h-3 rounded-full bg-teal-500"></div>
+    <div class="mt-3 flex justify-center gap-4 text-xs">
+      <div class="flex items-center gap-1">
+        <div class="w-2 h-2 rounded-full bg-teal-500"></div>
         <span class="text-gray-400">Year 1: $200M AUM, $1M Revenue</span>
       </div>
-      <div class="flex items-center gap-2">
-        <div class="w-3 h-3 rounded-full bg-blue-500"></div>
+      <div class="flex items-center gap-1">
+        <div class="w-2 h-2 rounded-full bg-blue-500"></div>
         <span class="text-gray-400">Year 2: $960M AUM, $4.8M Revenue</span>
       </div>
-      <div class="flex items-center gap-2">
-        <div class="w-3 h-3 rounded-full bg-green-500"></div>
+      <div class="flex items-center gap-1">
+        <div class="w-2 h-2 rounded-full bg-green-500"></div>
         <span class="text-gray-400">Year 3: $2.5B AUM, $12.5M Revenue</span>
       </div>
     </div>
