@@ -155,40 +155,42 @@ The AI-Powered Digital Family Office
 
 # Introducing Your AI Digital Family Office
 
-<div class="grid grid-cols-2 gap-8 max-h-[70vh] overflow-hidden">
+<div class="grid grid-cols-2 gap-6 max-h-[72vh] overflow-hidden">
 
-<div>
+<div class="space-y-3 text-sm">
 
 **Not Another Robo-Advisor**
 
-A complete family office with an AI Investment Committee available 24/7
+<div class="text-xs text-gray-400 mb-3">A complete family office with an AI Investment Committee available 24/7</div>
 
-<div class="mt-4 p-4 bg-teal-900/30 border border-teal-500/50 rounded-lg">
-<strong class="text-teal-300">AI Investment Committee</strong>
-
-- Chief Investment Officer
-- Tax Attorney
-- Research Analyst
-- Risk Manager
-- Alternative Investment Specialist
+<div class="p-3 bg-teal-900/30 border border-teal-500/50 rounded-lg">
+<strong class="text-teal-300 text-sm">AI Investment Committee</strong>
+<div class="text-xs mt-2 space-y-0.5">
+<div>• Chief Investment Officer</div>
+<div>• Tax Attorney</div>
+<div>• Research Analyst</div>
+<div>• Risk Manager</div>
+<div>• Alternative Investment Specialist</div>
+</div>
 </div>
 
-<div class="mt-3 p-4 bg-purple-900/30 border border-purple-500/50 rounded-lg">
-<strong class="text-purple-300">Always Working For You</strong>
-
-- Real-time analysis
-- Proactive recommendations
-- Instant execution
-- Continuous learning
+<div class="p-3 bg-purple-900/30 border border-purple-500/50 rounded-lg">
+<strong class="text-purple-300 text-sm">Always Working For You</strong>
+<div class="text-xs mt-2 space-y-0.5">
+<div>• Real-time analysis</div>
+<div>• Proactive recommendations</div>
+<div>• Instant execution</div>
+<div>• Continuous learning</div>
+</div>
 </div>
 
 </div>
 
-<div class="border-2 border-teal-500 rounded-xl p-4 bg-black/40 max-h-[70vh] overflow-y-auto">
-<div class="text-sm text-teal-400 mb-3">Premium Platform Preview - 100% OPERATIONAL TODAY</div>
-<img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded-lg w-full mb-3 max-h-[35vh] object-contain" />
-<img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded-lg w-full mb-3 max-h-[20vh] object-contain" />
-<img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded-lg w-full max-h-[20vh] object-contain" />
+<div class="border-2 border-teal-500 rounded-xl p-3 bg-black/40 max-h-[72vh] overflow-y-auto">
+<div class="text-xs text-teal-400 mb-2 font-semibold">Premium Platform Preview - 100% OPERATIONAL TODAY</div>
+<img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded-lg w-full mb-2 max-h-[25vh] object-contain" />
+<img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded-lg w-full mb-2 max-h-[18vh] object-contain" />
+<img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded-lg w-full max-h-[18vh] object-contain" />
 </div>
 
 </div>
@@ -874,16 +876,16 @@ We show specific dollar amounts: $142K, $85K, $1.5M proving measurable impact.
     </div>
   </div>
 
-  <div class="space-y-3 max-h-[70vh] overflow-y-auto">
-    <div class="text-sm font-semibold text-teal-300 mb-2">Platform Screenshots - Live System</div>
-    <img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded-lg border border-teal-500/40 max-h-[30vh] w-full object-contain" alt="Portfolio Dashboard" />
-    <div class="text-xs text-gray-400 text-center">Real-time portfolio tracking with Zerodha integration</div>
+  <div class="space-y-2 max-h-[72vh] overflow-y-auto">
+    <div class="text-xs font-semibold text-teal-300 mb-1">Platform Screenshots - Live System</div>
+    <img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded-lg border border-teal-500/40 max-h-[26vh] w-full object-contain" alt="Portfolio Dashboard" />
+    <div class="text-xs text-gray-400 text-center">Real-time portfolio tracking</div>
 
     <div class="grid grid-cols-2 gap-2">
-      <img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded-lg border border-green-500/40 max-h-[18vh] w-full object-contain" alt="AI Committee" />
-      <img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded-lg border border-blue-500/40 max-h-[18vh] w-full object-contain" alt="Execution" />
+      <img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded-lg border border-green-500/40 max-h-[16vh] w-full object-contain" alt="AI Committee" />
+      <img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded-lg border border-blue-500/40 max-h-[16vh] w-full object-contain" alt="Execution" />
     </div>
-    <div class="text-xs text-gray-400 text-center">Multi-agent consensus workflow & one-click execution engine</div>
+    <div class="text-xs text-gray-400 text-center">Multi-agent consensus & execution</div>
   </div>
 </div>
 
