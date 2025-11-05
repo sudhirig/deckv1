@@ -68,10 +68,10 @@ const hoveredCompany = ref<string | null>(null)
       <line x1="50" y1="0" x2="50" y2="100" stroke="#4b5563" stroke-width="0.3" />
       <line x1="0" y1="50" x2="100" y2="50" stroke="#4b5563" stroke-width="0.3" />
 
-      <text x="52" y="25" font-size="3" fill="#22c55e" opacity="0.6">{{ quadrantLabels[0] }}</text>
-      <text x="52" y="75" font-size="3" fill="#f97316" opacity="0.6">{{ quadrantLabels[1] }}</text>
-      <text x="2" y="75" font-size="3" fill="#ef4444" opacity="0.6">{{ quadrantLabels[2] }}</text>
-      <text x="2" y="25" font-size="3" fill="#3b82f6" opacity="0.6">{{ quadrantLabels[3] }}</text>
+      <text x="75" y="20" font-size="2.5" fill="#22c55e" opacity="0.7" font-weight="600" text-anchor="middle">AI-Powered HNW</text>
+      <text x="75" y="85" font-size="2.5" fill="#f97316" opacity="0.7" font-weight="600" text-anchor="middle">Legacy HNW Plat</text>
+      <text x="25" y="85" font-size="2.5" fill="#ef4444" opacity="0.7" font-weight="600" text-anchor="middle">Robo-Advisors</text>
+      <text x="25" y="20" font-size="2.5" fill="#3b82f6" opacity="0.7" font-weight="600" text-anchor="middle">Future Potential</text>
 
       <g v-for="company in companies" :key="company.name">
         <circle
@@ -96,12 +96,12 @@ const hoveredCompany = ref<string | null>(null)
         </circle>
         <text
           :x="company.x"
-          :y="100 - company.y - 3"
-          font-size="2.5"
+          :y="100 - company.y - 3.5"
+          font-size="2"
           :fill="company.color"
-          :font-weight="company.highlight ? 'bold' : 'normal'"
+          :font-weight="company.highlight ? 'bold' : '500'"
           text-anchor="middle"
-          :opacity="hoveredCompany === company.name ? 1 : 0.9"
+          :opacity="hoveredCompany === company.name ? 1 : 0.85"
           class="transition-all duration-300"
         >
           {{ company.name }}
