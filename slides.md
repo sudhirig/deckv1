@@ -501,7 +501,7 @@ It's an AI-powered product that makes complexity simple.
         <div class="space-y-1 text-gray-400 ml-3">
           <div>- Wealthfront/Betterment: <strong>Monthly</strong> TLH</div>
           <div>- Most RIAs: <strong>Yearly</strong> TLH</div>
-          - Miss 80% of opportunities
+          <div>- Miss 80% of opportunities</div>
         </div>
       </div>
 
@@ -509,7 +509,7 @@ It's an AI-powered product that makes complexity simple.
         <div class="font-semibold text-green-300 mb-2">Our Daily TLH</div>
         <div class="space-y-1 text-gray-400">
           <div>- Scans <strong>every market day</strong></div>
-          - Wash-sale-aware trades
+          <div>- Wash-sale-aware trades</div>
           <div>- <strong>2-4x more savings</strong></div>
         </div>
       </div>
@@ -517,9 +517,9 @@ It's an AI-powered product that makes complexity simple.
       <div>
         <div class="font-semibold text-gray-300 mb-2">Smart Offsetting Strategy</div>
         <div class="space-y-1 text-gray-400 ml-3">
-          - Short-term gains (37% tax) first
-          - Then long-term gains (20%)
-          - Maximizes tax alpha per trade
+          <div>- Short-term gains (37% tax) first</div>
+          <div>- Then long-term gains (20%)</div>
+          <div>- Maximizes tax alpha per trade</div>
         </div>
       </div>
     </div>
@@ -1264,30 +1264,30 @@ Clear ask with specific milestones unlocked by funding.
     <div class="p-3 border-l-4 border-blue-500 bg-blue-900/20 rounded">
       <div class="font-semibold text-blue-300 mb-1 text-sm">40% - AI Agent Development</div>
       <div class="text-gray-400 space-y-1 text-xs">
-        - Equity Agent for concentrated stock
-        - Tax Alpha expansion (estate, trust)
-        - Alternative Asset database growth
-        - Agent orchestration refinement
+        <div>- Equity Agent for concentrated stock</div>
+        <div>- Tax Alpha expansion (estate, trust)</div>
+        <div>- Alternative Asset database growth</div>
+        <div>- Agent orchestration refinement</div>
       </div>
     </div>
 
     <div class="p-3 border-l-4 border-teal-500 bg-teal-900/20 rounded">
       <div class="font-semibold text-teal-300 mb-1 text-sm">30% - GIFT City & US Integration</div>
       <div class="text-gray-400 space-y-1 text-xs">
-        - GIFT City infrastructure & compliance
-        - IBKR TWS API integration
-        - Alpaca Markets API launch
-        - Multi-currency support
+        <div>- GIFT City infrastructure & compliance</div>
+        <div>- IBKR TWS API integration</div>
+        <div>- Alpaca Markets API launch</div>
+        <div>- Multi-currency support</div>
       </div>
     </div>
 
     <div class="p-3 border-l-4 border-purple-500 bg-purple-900/20 rounded">
       <div class="font-semibold text-purple-300 mb-1 text-sm">30% - US Market Entry & Growth</div>
       <div class="text-gray-400 space-y-1 text-xs">
-        - US entity formation & SEC RIA filing
-        - HNW customer acquisition (digital + partnerships)
-        - Sales team (2 AEs + 1 SDR)
-        - Strategic CPA/RIA partnerships
+        <div>- US entity formation & SEC RIA filing</div>
+        <div>- HNW customer acquisition (digital + partnerships)</div>
+        <div>- Sales team (2 AEs + 1 SDR)</div>
+        <div>- Strategic CPA/RIA partnerships</div>
       </div>
     </div>
 
