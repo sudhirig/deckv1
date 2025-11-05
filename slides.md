@@ -156,7 +156,6 @@ The AI-Powered Digital Family Office
 # Introducing Your AI Digital Family Office
 
 <TwoColumnLayout>
-
 <div class="space-y-2 text-sm">
 
 **Not Another Robo-Advisor**
@@ -192,7 +191,6 @@ The AI-Powered Digital Family Office
 <img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded w-full mb-1 max-h-[10vh] object-contain" />
 <img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded w-full max-h-[10vh] object-contain" />
 </div>
-
 </TwoColumnLayout>
 
 
@@ -210,7 +208,6 @@ The dashboard mockups with real Zerodha integration prove this isn't vaporware.
 </div>
 
 <TwoColumnLayout :gap="6">
-
 <div>
   <div class="text-xl font-semibold mb-3 text-red-300">The Old Model</div>
   <FlowDiagram type="old" />
@@ -226,7 +223,6 @@ The dashboard mockups with real Zerodha integration prove this isn't vaporware.
     <strong>AI Agent Swarm:</strong> 24/7 availability, specialized expertise, continuous monitoring, data-driven decisions
   </div>
 </div>
-
 </TwoColumnLayout>
 
 <div class="mt-3 text-center p-3 bg-gradient-to-r from-teal-900/40 to-blue-900/40 rounded-lg border border-teal-500/30">
@@ -249,7 +245,6 @@ It establishes our technical superiority over simple chatbots like ChatGPT.
 </div>
 
 <ThreeColumnLayout :gap="4">
-
 <AgentCard
   icon="💰"
   title="Tax Alpha Agent"
@@ -285,7 +280,6 @@ It establishes our technical superiority over simple chatbots like ChatGPT.
     <strong>Unique:</strong> Only AI platform with automated GIFT City access.
   </div>
 </AgentCard>
-
 </ThreeColumnLayout>
 
 <div class="mt-3 text-center p-3 bg-gradient-to-r from-purple-900/40 to-pink-900/40 rounded-lg border border-purple-500/30">
@@ -323,7 +317,6 @@ The Moat & The Technology
 # India: A $5T Market, Locked by Red Tape
 
 <TwoColumnLayout>
-
 <div>
 
 **The Old FPI Route**
@@ -367,7 +360,6 @@ The barriers are too high. Traditional advisors say "too complex."
 </div>
 </div>
 </div>
-
 </TwoColumnLayout>
 
 <!--
@@ -380,7 +372,6 @@ This slide builds tension showing the massive opportunity that's locked away.
 # Our Solution: The GIFT City "AI Gateway"
 
 <TwoColumnLayout>
-
 <div>
 
 **The GIFT City Solution**
@@ -423,7 +414,6 @@ NSE IFSC Volume Up 400% YoY
 <div class="text-xs text-gray-400">Market validation of GIFT City route</div>
 </div>
 </div>
-
 </TwoColumnLayout>
 
 <div class="absolute bottom-4 left-0 right-0 text-center">
@@ -443,7 +433,6 @@ Add validation from JPMorgan (+300bps) and market traction (400% volume growth).
 # Our AI Agent Makes It Simple
 
 <TwoColumnLayout>
-
 <div class="p-2 border-2 border-teal-500 rounded bg-black/40">
   <div class="text-sm font-semibold text-teal-300 mb-2">The AI Experience</div>
 
@@ -496,7 +485,6 @@ Add validation from JPMorgan (+300bps) and market traction (400% volume growth).
     </div>
   </div>
 </div>
-
 </TwoColumnLayout>
 
 <!--
@@ -764,7 +752,6 @@ Validation & Traction
 </div>
 
 <ThreeColumnLayout :gap="4">
-
 <PersonaJourneyCard
   emoji="😟"
   title="Pain"
@@ -818,7 +805,6 @@ Validation & Traction
     </div>
   </div>
 </PersonaJourneyCard>
-
 </ThreeColumnLayout>
 
 <div class="mt-4 text-center text-xs text-gray-500">
@@ -955,7 +941,6 @@ Arta Finance validates the model. We win with additional differentiation.
 </div>
 
 <ThreeColumnLayout :gap="4">
-
 <div class="p-4 rounded-xl border-2 border-blue-500 bg-gradient-to-br from-blue-900/40 to-blue-800/20">
   <div class="text-3xl mb-3 text-center">🔒</div>
   <div class="text-lg font-bold text-blue-300 text-center mb-3">Technical Moat</div>
@@ -1021,7 +1006,6 @@ Arta Finance validates the model. We win with additional differentiation.
     </div>
   </div>
 </div>
-
 </ThreeColumnLayout>
 
 <div class="mt-4 text-center p-3 bg-gradient-to-r from-purple-900/40 to-pink-900/40 rounded-lg border border-purple-500/30">
