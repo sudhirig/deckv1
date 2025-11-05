@@ -155,9 +155,9 @@ The AI-Powered Digital Family Office
 
 # Introducing Your AI Digital Family Office
 
-<div class="grid grid-cols-2 gap-6 max-h-[72vh] overflow-hidden">
+<div class="grid grid-cols-2 gap-6 max-h-[70vh] overflow-hidden">
 
-<div class="space-y-3 text-sm">
+<div class="space-y-2.5 text-sm">
 
 **Not Another Robo-Advisor**
 
@@ -186,11 +186,11 @@ The AI-Powered Digital Family Office
 
 </div>
 
-<div class="border-2 border-teal-500 rounded-xl p-2 bg-black/40 max-h-[72vh] overflow-y-auto">
-<div class="text-xs text-teal-400 mb-1.5 font-semibold">Premium Platform Preview - 100% OPERATIONAL TODAY</div>
-<img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded w-full mb-1.5 max-h-[20vh] object-contain" />
-<img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded w-full mb-1.5 max-h-[14vh] object-contain" />
-<img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded w-full max-h-[14vh] object-contain" />
+<div class="border-2 border-teal-500 rounded-xl p-2 bg-black/40 max-h-[70vh] overflow-y-auto">
+<div class="text-xs text-teal-400 mb-1 font-semibold">Premium Platform Preview - 100% OPERATIONAL TODAY</div>
+<img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded w-full mb-1 max-h-[18vh] object-contain" />
+<img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded w-full mb-1 max-h-[12vh] object-contain" />
+<img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded w-full max-h-[12vh] object-contain" />
 </div>
 
 </div>
