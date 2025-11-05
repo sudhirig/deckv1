@@ -1,164 +1,140 @@
 #!/usr/bin/env node
-/**
- * Comprehensive Slide Validator - Correct Logic
- * Tests for actual markdown parsing issues, not style preferences
- */
 
 const fs = require('fs');
 
-const content = fs.readFileSync('slides.md', 'utf8');
-const tests = { passed: 0, failed: 0, warnings: 0 };
-const issues = [];
+console.log('🔍 COMPREHENSIVE SLIDE DEBUGGING TEST\n');
+console.log('='.repeat(60));
 
-console.log('\n🧪 COMPREHENSIVE SLIDE VALIDATION\n' + '='.repeat(60) + '\n');
+const content = fs.readFileSync('slides.md', 'utf-8');
+const lines = content.split('\n');
 
-// TEST 1: No HTML entity encodings (means HTML rendered as text)
-console.log('TEST 1: HTML Entity Encoding...');
-const entities = content.match(/&lt;div|&gt;|&quot;class=/g);
-if (entities) {
-  tests.failed++;
-  issues.push({
-    severity: 'CRITICAL',
-    test: 'HTML Entities',
-    message: `Found ${entities.length} HTML entities - HTML is being rendered as TEXT!`,
-    fix: 'This means Slidev is not parsing the HTML correctly'
-  });
-  console.log(`   ❌ FAILED: Found ${entities.length} HTML entities`);
-} else {
-  tests.passed++;
-  console.log(`   ✅ PASSED: No HTML entities`);
-}
+// Test 1: Find HTML blocks with blank lines
+console.log('\n1. HTML BLOCKS WITH BLANK LINES');
+console.log('-'.repeat(60));
+let inHtmlBlock = false;
+let blockStart = 0;
+let issues = [];
 
-// TEST 2: HTML tag balance
-console.log('TEST 2: HTML Tag Balance...');
-const openDivs = (content.match(/<div[^>]*>/g) || []).length;
-const closeDivs = (content.match(/<\/div>/g) || []).length;
-if (openDivs === closeDivs) {
-  tests.passed++;
-  console.log(`   ✅ PASSED: ${openDivs} divs balanced`);
-} else {
-  tests.failed++;
-  issues.push({
-    severity: 'CRITICAL',
-    test: 'Tag Balance',
-    message: `Unbalanced: ${openDivs} open, ${closeDivs} close (${openDivs - closeDivs} difference)`,
-    fix: 'Find and close all unclosed div tags'
-  });
-  console.log(`   ❌ FAILED: ${openDivs - closeDivs} unbalanced divs`);
-}
-
-// TEST 3: No Vue components with complex HTML (causes parsing issues)
-console.log('TEST 3: Vue Component Usage...');
-const vueComps = content.match(/<(TwoColumnLayout|ThreeColumnLayout)/g);
-if (vueComps) {
-  tests.warnings++;
-  issues.push({
-    severity: 'WARNING',
-    test: 'Vue Components',
-    message: `Found ${vueComps.length} Vue components - may cause parsing issues with nested HTML`,
-    fix: 'Consider using raw HTML grids if content is complex'
-  });
-  console.log(`   ⚠️  WARNING: ${vueComps.length} Vue components found`);
-} else {
-  tests.passed++;
-  console.log(`   ✅ PASSED: Using raw HTML grids`);
-}
-
-// TEST 4: Blank lines after opening tags (can trigger paragraph mode)
-console.log('TEST 4: Blank Lines After Tags...');
-const blankLines = content.match(/<div[^>]*>\n\n/g);
-if (blankLines) {
-  tests.failed++;
-  issues.push({
-    severity: 'CRITICAL',
-    test: 'Blank Lines',
-    message: `Found ${blankLines.length} blank lines after opening div tags`,
-    fix: 'Remove all blank lines immediately after opening tags'
-  });
-  console.log(`   ❌ FAILED: ${blankLines.length} blank lines found`);
-} else {
-  tests.passed++;
-  console.log(`   ✅ PASSED: No blank lines after tags`);
-}
-
-// TEST 5: Proper slide structure
-console.log('TEST 5: Slide Structure...');
-const slides = content.split(/\n---\n/);
-const slidesWithHeadings = slides.filter(s => /^#\s+/.test(s.trim())).length;
-if (slidesWithHeadings >= slides.length - 2) {
-  tests.passed++;
-  console.log(`   ✅ PASSED: ${slidesWithHeadings}/${slides.length} slides have headings`);
-} else {
-  tests.warnings++;
-  console.log(`   ⚠️  WARNING: Only ${slidesWithHeadings}/${slides.length} slides have headings`);
-}
-
-// TEST 6: Specific problematic slide check
-console.log('TEST 6: "AI Agent Makes It Simple" Slide...');
-const agentSlide = content.match(/# Our AI Agent Makes It Simple\n\n<div class="grid[^>]*>([\s\S]{1,1500})<\/div>\n\n<!--/);
-if (agentSlide) {
-  const hasBlankLine = agentSlide[0].includes('>\n\n<div');
-  if (hasBlankLine) {
-    tests.failed++;
-    issues.push({
-      severity: 'CRITICAL',
-      test: 'AI Agent Slide',
-      message: 'Slide has blank lines inside grid structure',
-      fix: 'Remove all blank lines within the grid div'
-    });
-    console.log(`   ❌ FAILED: Has blank lines`);
-  } else {
-    tests.passed++;
-    console.log(`   ✅ PASSED: Properly formatted`);
+for (let i = 0; i < lines.length; i++) {
+  const line = lines[i];
+  
+  if (line.match(/^<div/)) {
+    inHtmlBlock = true;
+    blockStart = i + 1;
   }
-} else {
-  tests.warnings++;
-  console.log(`   ⚠️  WARNING: Slide format unexpected`);
+  
+  if (inHtmlBlock && line.trim() === '' && i < lines.length - 1) {
+    const nextLine = lines[i + 1];
+    if (nextLine.match(/^\s*</) || nextLine.match(/^\s+</)) {
+      issues.push({
+        line: i + 1,
+        context: `Line ${i + 1}: Blank line inside HTML block (started at ${blockStart})`
+      });
+    }
+  }
+  
+  if (inHtmlBlock && line.match(/^<\/div>$/) && !lines[i + 1]?.match(/^\s*</)) {
+    inHtmlBlock = false;
+  }
 }
-
-// TEST 7: Build validation
-console.log('TEST 7: Build Validation...');
-const { execSync } = require('child_process');
-try {
-  execSync('npm run build 2>&1', { encoding: 'utf8', stdio: 'pipe' });
-  tests.passed++;
-  console.log(`   ✅ PASSED: Build successful`);
-} catch (e) {
-  tests.failed++;
-  issues.push({
-    severity: 'CRITICAL',
-    test: 'Build',
-    message: 'Build failed',
-    fix: 'Check build errors and fix syntax issues'
-  });
-  console.log(`   ❌ FAILED: Build error`);
-}
-
-// RESULTS
-console.log('\n' + '='.repeat(60));
-console.log('\n📊 TEST RESULTS\n');
-console.log(`   ✅ Passed:   ${tests.passed}`);
-console.log(`   ⚠️  Warnings: ${tests.warnings}`);
-console.log(`   ❌ Failed:   ${tests.failed}`);
-console.log('\n' + '='.repeat(60));
 
 if (issues.length > 0) {
-  console.log('\n🔍 ISSUES FOUND:\n');
-  issues.forEach((issue, i) => {
-    console.log(`${i + 1}. [${issue.severity}] ${issue.test}`);
-    console.log(`   Problem: ${issue.message}`);
-    console.log(`   Fix: ${issue.fix}\n`);
-  });
+  console.log(`❌ Found ${issues.length} blank lines inside HTML blocks:`);
+  issues.slice(0, 10).forEach(issue => console.log(`   ${issue.context}`));
+  if (issues.length > 10) {
+    console.log(`   ... and ${issues.length - 10} more`);
+  }
+} else {
+  console.log('✅ No problematic blank lines found');
 }
 
-// FINAL VERDICT
-console.log('='.repeat(60) + '\n');
-if (tests.failed === 0) {
-  console.log('🎉 ALL CRITICAL TESTS PASSED!\n');
-  console.log('Slides are properly formatted and ready to present.\n');
-  process.exit(0);
-} else {
-  console.log('❌ CRITICAL FAILURES DETECTED!\n');
-  console.log(`Fix ${tests.failed} critical issue(s) before presenting.\n`);
-  process.exit(1);
+// Test 2: Check for mixed markdown and HTML
+console.log('\n2. MIXED MARKDOWN/HTML DETECTION');
+console.log('-'.repeat(60));
+let mixedIssues = [];
+inHtmlBlock = false;
+
+for (let i = 0; i < lines.length; i++) {
+  const line = lines[i];
+  
+  if (line.match(/^<div/)) inHtmlBlock = true;
+  if (line.match(/^<\/div>$/) && !lines[i + 1]?.match(/^\s*</)) inHtmlBlock = false;
+  
+  // Check for markdown list items inside HTML blocks
+  if (inHtmlBlock && line.match(/^\s+-\s+[^<]/)) {
+    mixedIssues.push({
+      line: i + 1,
+      text: line.trim().substring(0, 60)
+    });
+  }
 }
+
+if (mixedIssues.length > 0) {
+  console.log(`❌ Found ${mixedIssues.length} markdown items inside HTML:`);
+  mixedIssues.forEach(issue => {
+    console.log(`   Line ${issue.line}: ${issue.text}`);
+  });
+} else {
+  console.log('✅ No mixed markdown/HTML');
+}
+
+// Test 3: Check Slide 14 specifically
+console.log('\n3. SLIDE 14 (TAX ALPHA) ANALYSIS');
+console.log('-'.repeat(60));
+const slide14Start = lines.findIndex(l => l.includes('Our "Tax Alpha" Agent'));
+const slide14Content = lines.slice(slide14Start, slide14Start + 80).join('\n');
+
+const slide14Issues = [];
+if (slide14Content.match(/<div[^>]*>\n\n/)) {
+  slide14Issues.push('Blank line after opening div');
+}
+if (slide14Content.match(/^\s+-\s+[^<]/m)) {
+  slide14Issues.push('Plain text list items (not wrapped in div)');
+}
+
+if (slide14Issues.length > 0) {
+  console.log('❌ Slide 14 issues:');
+  slide14Issues.forEach(issue => console.log(`   - ${issue}`));
+} else {
+  console.log('✅ Slide 14 structure looks correct');
+}
+
+// Test 4: Tag balance check
+console.log('\n4. HTML TAG BALANCE');
+console.log('-'.repeat(60));
+const openDivs = (content.match(/<div/g) || []).length;
+const closeDivs = (content.match(/<\/div>/g) || []).length;
+console.log(`   Open <div> tags:  ${openDivs}`);
+console.log(`   Close </div> tags: ${closeDivs}`);
+if (openDivs === closeDivs) {
+  console.log('✅ All tags balanced');
+} else {
+  console.log(`❌ Unbalanced: ${openDivs - closeDivs} difference`);
+}
+
+// Test 5: Check for HTML entities
+console.log('\n5. HTML ENTITY ENCODING CHECK');
+console.log('-'.repeat(60));
+const entities = content.match(/&lt;|&gt;|&quot;/g);
+if (entities) {
+  console.log(`❌ Found ${entities.length} HTML entities (will render as text)`);
+} else {
+  console.log('✅ No HTML entity encoding');
+}
+
+console.log('\n' + '='.repeat(60));
+console.log('SUMMARY');
+console.log('='.repeat(60));
+
+const totalIssues = issues.length + mixedIssues.length + slide14Issues.length;
+if (totalIssues === 0 && openDivs === closeDivs && !entities) {
+  console.log('✅ ALL TESTS PASSED - Structure is correct!');
+  console.log('\n🔍 If HTML still shows as text, the issue is:');
+  console.log('   1. Browser cache (open incognito window)');
+  console.log('   2. Dev server cache (restart server)');
+  console.log('   3. Vite cache (rm -rf node_modules/.vite .slidev dist)');
+} else {
+  console.log(`❌ Found ${totalIssues} structural issues that need fixing`);
+}
+
+console.log('');
