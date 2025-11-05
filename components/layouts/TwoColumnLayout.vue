@@ -17,7 +17,7 @@ const gridClasses = {
 </script>
 
 <template>
-  <div class="grid max-h-[75vh] overflow-hidden" :class="[gridClasses[splitRatio], `gap-${gap}`]">
+  <div class="grid max-h-[68vh] overflow-hidden" :class="[gridClasses[splitRatio], `gap-${gap}`]">
     <slot></slot>
   </div>
 </template>

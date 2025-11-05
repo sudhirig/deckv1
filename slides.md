@@ -442,66 +442,62 @@ Add validation from JPMorgan (+300bps) and market traction (400% volume growth).
 
 # Our AI Agent Makes It Simple
 
-<div class="grid grid-cols-2 gap-3 h-full max-h-[65vh]">
-  <div class="p-2 border-2 border-teal-500 rounded bg-black/40 overflow-hidden">
-    <div class="text-sm font-semibold text-teal-300 mb-2">The AI Experience</div>
+<TwoColumnLayout>
 
-    <div class="space-y-1.5 text-[10px] font-mono leading-tight">
-      <div class="p-1.5 bg-gray-800 rounded">
-        <div class="text-blue-400">User:</div>
-        <div class="text-gray-300">"I want 5% India exposure but worried about tax and currency. What's best?"</div>
+<div class="p-2 border-2 border-teal-500 rounded bg-black/40">
+  <div class="text-sm font-semibold text-teal-300 mb-2">The AI Experience</div>
+
+  <div class="space-y-1.5 text-xs font-mono">
+    <div class="p-1.5 bg-gray-800 rounded text-xs">
+      <div class="text-blue-400">User:</div>
+      <div class="text-gray-300">"I want 5% India exposure but worried about tax and currency. What's best?"</div>
+    </div>
+
+    <div class="p-1.5 bg-teal-900/30 rounded border border-teal-500/30 text-xs">
+      <div class="text-teal-400 mb-1">AI Gateway Agent:</div>
+      <div class="text-gray-300 mb-1">
+        "Use GIFT City gateway - USD-denominated Indian equity funds with 0% Indian capital gains tax."
       </div>
 
-      <div class="p-1.5 bg-teal-900/30 rounded border border-teal-500/30">
-        <div class="text-teal-400 mb-1">AI Gateway Agent:</div>
-        <div class="text-gray-300 mb-1.5">
-          "Use GIFT City gateway - USD-denominated Indian equity funds with 0% Indian capital gains tax and no currency risk."
+      <div class="border-t border-teal-500/30 pt-1 mt-1">
+        <div class="font-semibold text-teal-300">Recommendation</div>
+        <div class="mt-1">
+          <div><strong>Action:</strong> 5% to Indian Equities</div>
+          <div><strong>Vehicle:</strong> ABC India Flexi Cap (USD)</div>
+          <div><strong>Route:</strong> GIFT City (NSE IX)</div>
+          <div><strong>Tax:</strong> 0% | <strong>Repatriation:</strong> Unrestricted</div>
         </div>
-
-        <div class="border-t border-teal-500/30 pt-1.5 mt-1.5">
-          <div class="font-semibold text-teal-300 mb-0.5">Recommendation</div>
-          <div class="space-y-0.5">
-            <div><strong>Action:</strong> 5% to Indian Equities</div>
-            <div><strong>Vehicle:</strong> ABC India Flexi Cap (USD)</div>
-            <div><strong>Route:</strong> GIFT City (NSE IX)</div>
-            <div><strong>Tax:</strong> 0% | <strong>Repatriation:</strong> Unrestricted</div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="space-y-1.5 overflow-hidden">
-    <div class="text-sm font-semibold text-blue-300 mb-1.5">What This Agent Does</div>
-
-    <div class="p-1.5 border-l-4 border-blue-500 bg-blue-900/20 rounded">
-      <div class="font-semibold text-blue-300 mb-0.5 text-xs">Automated Compliance</div>
-      <div class="text-[10px] text-gray-400">
-        Manages cross-border AML/KYC checks, regulatory filings, documentation
-      </div>
-    </div>
-
-    <div class="p-1.5 border-l-4 border-green-500 bg-green-900/20 rounded">
-      <div class="font-semibold text-green-300 mb-0.5 text-xs">Tax & Route Optimization</div>
-      <div class="text-[10px] text-gray-400">
-        Analyzes FPI vs GIFT City for best after-tax path based on your situation
-      </div>
-    </div>
-
-    <div class="p-1.5 border-l-4 border-purple-500 bg-purple-900/20 rounded">
-      <div class="font-semibold text-purple-300 mb-0.5 text-xs">Seamless Execution</div>
-      <div class="text-[10px] text-gray-400">
-        End-to-end investment, monitoring, rebalancing, and repatriation
-      </div>
-    </div>
-
-    <div class="mt-2 p-1.5 bg-gradient-to-r from-orange-900/40 to-yellow-900/40 rounded border border-orange-500/30">
-      <div class="text-center font-semibold text-orange-300 text-xs">
-        Competitive Advantage: Only AI platform with automated GIFT City access
       </div>
     </div>
   </div>
 </div>
+
+<div class="space-y-1.5">
+  <div class="text-sm font-semibold text-blue-300 mb-1">What This Agent Does</div>
+
+  <div class="p-1.5 border-l-4 border-blue-500 bg-blue-900/20 rounded">
+    <div class="font-semibold text-blue-300 text-xs">Automated Compliance</div>
+    <div class="text-xs text-gray-400">Manages cross-border AML/KYC checks, regulatory filings</div>
+  </div>
+
+  <div class="p-1.5 border-l-4 border-green-500 bg-green-900/20 rounded">
+    <div class="font-semibold text-green-300 text-xs">Tax & Route Optimization</div>
+    <div class="text-xs text-gray-400">Analyzes FPI vs GIFT City for best after-tax path</div>
+  </div>
+
+  <div class="p-1.5 border-l-4 border-purple-500 bg-purple-900/20 rounded">
+    <div class="font-semibold text-purple-300 text-xs">Seamless Execution</div>
+    <div class="text-xs text-gray-400">End-to-end investment, monitoring, rebalancing</div>
+  </div>
+
+  <div class="mt-2 p-1.5 bg-gradient-to-r from-orange-900/40 to-yellow-900/40 rounded border border-orange-500/30">
+    <div class="text-center font-semibold text-orange-300 text-xs">
+      Only AI platform with automated GIFT City access
+    </div>
+  </div>
+</div>
+
+</TwoColumnLayout>
 
 <!--
 KEY MESSAGE: This proves the AI is the enabler. It's not just a new market route.
