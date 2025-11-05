@@ -322,30 +322,30 @@ The Moat & The Technology
 
 # India: A $5T Market, Locked by Red Tape
 
-<div class="grid grid-cols-2 gap-8 max-h-[75vh] overflow-hidden">
+<div class="grid grid-cols-2 gap-6 max-h-[75vh] overflow-hidden">
 
 <div>
 
 **The Old FPI Route**
 
-<div class="space-y-3 mt-4">
+<div class="space-y-2 mt-3">
 
-<div class="p-4 border-2 border-red-500 rounded-lg bg-red-900/20">
+<div class="p-3 border-2 border-red-500 rounded-lg bg-red-900/20">
 <strong class="text-red-300">Complex Red Tape</strong>
 <div class="text-sm text-gray-400 mt-1">Heavy FPI compliance burdens, multi-month setup</div>
 </div>
 
-<div class="p-4 border-2 border-red-500 rounded-lg bg-red-900/20">
+<div class="p-3 border-2 border-red-500 rounded-lg bg-red-900/20">
 <strong class="text-red-300">Crippling Tax</strong>
 <div class="text-sm text-gray-400 mt-1">Capital Gains Tax + STT drag performance</div>
 </div>
 
-<div class="p-4 border-2 border-red-500 rounded-lg bg-red-900/20">
+<div class="p-3 border-2 border-red-500 rounded-lg bg-red-900/20">
 <strong class="text-red-300">Currency Risk</strong>
 <div class="text-sm text-gray-400 mt-1">INR depreciation erodes returns</div>
 </div>
 
-<div class="p-4 border-2 border-red-500 rounded-lg bg-red-900/20">
+<div class="p-3 border-2 border-red-500 rounded-lg bg-red-900/20">
 <strong class="text-red-300">Repatriation Nightmare</strong>
 <div class="text-sm text-gray-400 mt-1">Slow, restrictive capital movement</div>
 </div>
@@ -379,30 +379,30 @@ This slide builds tension showing the massive opportunity that's locked away.
 
 # Our Solution: The GIFT City "AI Gateway"
 
-<div class="grid grid-cols-2 gap-8 max-h-[75vh] overflow-hidden">
+<div class="grid grid-cols-2 gap-6 max-h-[75vh] overflow-hidden">
 
 <div>
 
 **The GIFT City Solution**
 
-<div class="space-y-3 mt-4">
+<div class="space-y-2 mt-3">
 
-<div class="p-4 border-2 border-green-500 rounded-lg bg-green-900/20">
+<div class="p-3 border-2 border-green-500 rounded-lg bg-green-900/20">
 <strong class="text-green-300">Direct Access via IFSC</strong>
 <div class="text-sm text-gray-400 mt-1">Streamlined setup for foreign investors</div>
 </div>
 
-<div class="p-4 border-2 border-green-500 rounded-lg bg-green-900/20">
+<div class="p-3 border-2 border-green-500 rounded-lg bg-green-900/20">
 <strong class="text-green-300">0% Capital Gains Tax</strong>
 <div class="text-sm text-gray-400 mt-1">No CGT, no STT - keep all your gains</div>
 </div>
 
-<div class="p-4 border-2 border-green-500 rounded-lg bg-green-900/20">
+<div class="p-3 border-2 border-green-500 rounded-lg bg-green-900/20">
 <strong class="text-green-300">USD-Based Trading</strong>
 <div class="text-sm text-gray-400 mt-1">Eliminate currency risk entirely</div>
 </div>
 
-<div class="p-4 border-2 border-green-500 rounded-lg bg-green-900/20">
+<div class="p-3 border-2 border-green-500 rounded-lg bg-green-900/20">
 <strong class="text-green-300">Free Capital Movement</strong>
 <div class="text-sm text-gray-400 mt-1">Instant repatriation, no restrictions</div>
 </div>
@@ -442,24 +442,24 @@ Add validation from JPMorgan (+300bps) and market traction (400% volume growth).
 
 # Our AI Agent Makes It Simple
 
-<div class="grid grid-cols-2 gap-8 h-[70vh] overflow-hidden">
-  <div class="p-6 border-2 border-teal-500 rounded-xl bg-black/40">
-    <div class="text-xl font-semibold text-teal-300 mb-4">The AI Experience</div>
+<div class="grid grid-cols-2 gap-6 max-h-[72vh] overflow-hidden">
+  <div class="p-4 border-2 border-teal-500 rounded-xl bg-black/40">
+    <div class="text-lg font-semibold text-teal-300 mb-3">The AI Experience</div>
 
-    <div class="space-y-4 text-sm font-mono">
-      <div class="p-3 bg-gray-800 rounded">
-        <div class="text-blue-400 mb-1">User:</div>
-        <div class="text-gray-300">"I want 5% India exposure but worried about tax and currency. What's best?"</div>
+    <div class="space-y-3 text-sm font-mono">
+      <div class="p-2 bg-gray-800 rounded">
+        <div class="text-blue-400 mb-1 text-xs">User:</div>
+        <div class="text-gray-300 text-xs">"I want 5% India exposure but worried about tax and currency. What's best?"</div>
       </div>
 
-      <div class="p-3 bg-teal-900/30 rounded border border-teal-500/30">
-        <div class="text-teal-400 mb-2">AI Gateway Agent:</div>
-        <div class="text-gray-300 mb-3">
+      <div class="p-2 bg-teal-900/30 rounded border border-teal-500/30">
+        <div class="text-teal-400 mb-2 text-xs">AI Gateway Agent:</div>
+        <div class="text-gray-300 mb-2 text-xs">
           "Use GIFT City gateway - USD-denominated Indian equity funds with 0% Indian capital gains tax and no currency risk."
         </div>
 
-        <div class="border-t border-teal-500/30 pt-3 mt-3">
-          <div class="font-semibold text-teal-300 mb-2">Recommendation</div>
+        <div class="border-t border-teal-500/30 pt-2 mt-2">
+          <div class="font-semibold text-teal-300 mb-1 text-xs">Recommendation</div>
           <div class="space-y-1 text-xs">
             <div><strong>Action:</strong> 5% to Indian Equities</div>
             <div><strong>Vehicle:</strong> ABC India Flexi Cap (USD)</div>
@@ -471,32 +471,32 @@ Add validation from JPMorgan (+300bps) and market traction (400% volume growth).
     </div>
   </div>
 
-  <div class="space-y-4">
-    <div class="text-xl font-semibold text-blue-300 mb-4">What This Agent Does</div>
+  <div class="space-y-3">
+    <div class="text-lg font-semibold text-blue-300 mb-3">What This Agent Does</div>
 
-    <div class="p-4 border-l-4 border-blue-500 bg-blue-900/20 rounded">
-      <div class="font-semibold text-blue-300 mb-2">Automated Compliance</div>
-      <div class="text-sm text-gray-400">
+    <div class="p-3 border-l-4 border-blue-500 bg-blue-900/20 rounded">
+      <div class="font-semibold text-blue-300 mb-1 text-sm">Automated Compliance</div>
+      <div class="text-xs text-gray-400">
         Manages cross-border AML/KYC checks, regulatory filings, documentation
       </div>
     </div>
 
-    <div class="p-4 border-l-4 border-green-500 bg-green-900/20 rounded">
-      <div class="font-semibold text-green-300 mb-2">Tax & Route Optimization</div>
-      <div class="text-sm text-gray-400">
+    <div class="p-3 border-l-4 border-green-500 bg-green-900/20 rounded">
+      <div class="font-semibold text-green-300 mb-1 text-sm">Tax & Route Optimization</div>
+      <div class="text-xs text-gray-400">
         Analyzes FPI vs GIFT City for best after-tax path based on your situation
       </div>
     </div>
 
-    <div class="p-4 border-l-4 border-purple-500 bg-purple-900/20 rounded">
-      <div class="font-semibold text-purple-300 mb-2">Seamless Execution</div>
-      <div class="text-sm text-gray-400">
+    <div class="p-3 border-l-4 border-purple-500 bg-purple-900/20 rounded">
+      <div class="font-semibold text-purple-300 mb-1 text-sm">Seamless Execution</div>
+      <div class="text-xs text-gray-400">
         End-to-end investment, monitoring, rebalancing, and repatriation
       </div>
     </div>
 
-    <div class="mt-6 p-4 bg-gradient-to-r from-orange-900/40 to-yellow-900/40 rounded-lg border border-orange-500/30">
-      <div class="text-center font-semibold text-orange-300">
+    <div class="mt-4 p-3 bg-gradient-to-r from-orange-900/40 to-yellow-900/40 rounded-lg border border-orange-500/30">
+      <div class="text-center font-semibold text-orange-300 text-sm">
         Competitive Advantage: Only AI platform with automated GIFT City access
       </div>
     </div>
@@ -512,11 +512,11 @@ It's an AI-powered product that makes complexity simple.
 
 # Our "Tax Alpha" Agent: Daily vs Annual
 
-<div class="grid grid-cols-2 gap-8 h-[70vh] overflow-hidden">
-  <div class="space-y-6">
-    <div class="text-2xl font-bold text-orange-300">What Others Can't Do</div>
+<div class="grid grid-cols-2 gap-6 max-h-[72vh] overflow-hidden">
+  <div class="space-y-4">
+    <div class="text-xl font-bold text-orange-300">What Others Can't Do</div>
 
-    <div class="space-y-4 text-sm">
+    <div class="space-y-3 text-sm">
       <div>
         <div class="font-semibold text-gray-300 mb-2">The Problem</div>
         <div class="space-y-1 text-gray-400 ml-3">
@@ -547,34 +547,34 @@ It's an AI-powered product that makes complexity simple.
   </div>
 
   <div class="flex flex-col justify-center">
-    <div class="text-2xl font-bold text-green-300 mb-6">The Impact</div>
+    <div class="text-xl font-bold text-green-300 mb-4">The Impact</div>
 
-    <div class="p-6 bg-gradient-to-br from-green-900/40 to-emerald-900/40 rounded-xl border-2 border-green-500/30">
-      <div class="text-center mb-6">
-        <div class="text-4xl font-bold text-green-400 mb-2">+1.8%</div>
+    <div class="p-4 bg-gradient-to-br from-green-900/40 to-emerald-900/40 rounded-xl border-2 border-green-500/30">
+      <div class="text-center mb-4">
+        <div class="text-3xl font-bold text-green-400 mb-2">+1.8%</div>
         <div class="text-sm text-gray-400">Additional Annual Return</div>
       </div>
 
-      <div class="space-y-3 text-sm">
-        <div class="flex justify-between items-center p-3 bg-red-900/30 rounded">
+      <div class="space-y-2 text-sm">
+        <div class="flex justify-between items-center p-2 bg-red-900/30 rounded">
           <span class="text-gray-300">Yearly TLH (Traditional)</span>
           <span class="text-red-400 font-semibold">+7.0%</span>
         </div>
 
-        <div class="flex justify-between items-center p-3 bg-green-900/30 rounded">
+        <div class="flex justify-between items-center p-2 bg-green-900/30 rounded">
           <span class="text-gray-300">Daily TLH (Our AI)</span>
           <span class="text-green-400 font-semibold">+8.8%</span>
         </div>
       </div>
 
-      <div class="mt-6 pt-4 border-t border-green-500/30 text-center">
-        <div class="text-lg font-semibold text-green-300 mb-1">
+      <div class="mt-4 pt-3 border-t border-green-500/30 text-center">
+        <div class="text-base font-semibold text-green-300 mb-1">
           On $10M Portfolio
         </div>
-        <div class="text-3xl font-bold text-green-400">
+        <div class="text-2xl font-bold text-green-400">
           $180K/year
         </div>
-        <div class="text-xs text-gray-400 mt-2">
+        <div class="text-xs text-gray-400 mt-1">
           Additional tax savings vs traditional yearly harvesting
         </div>
       </div>
@@ -596,19 +596,19 @@ This is a tangible, high-value AI feature.
 
 # Our "Alternative Asset" Agent: AI Due Diligence
 
-<div class="grid grid-cols-2 gap-8 h-[70vh] overflow-hidden">
-  <div class="space-y-6">
-    <div class="text-2xl font-bold text-purple-300">Unlocking Private Markets</div>
+<div class="grid grid-cols-2 gap-6 max-h-[72vh] overflow-hidden">
+  <div class="space-y-4">
+    <div class="text-xl font-bold text-purple-300">Unlocking Private Markets</div>
 
-    <div class="text-lg font-semibold text-gray-300 mb-2">The Problem</div>
-    <div class="p-4 bg-red-900/20 border border-red-500/30 rounded-lg text-sm text-gray-400">
+    <div class="text-base font-semibold text-gray-300 mb-2">The Problem</div>
+    <div class="p-3 bg-red-900/20 border border-red-500/30 rounded-lg text-sm text-gray-400">
       80% of alternative investment data is trapped in 100-page PDFs.
       Traditional due diligence requires expensive analyst teams.
     </div>
 
-    <div class="text-lg font-semibold text-gray-300 mb-2">Our AI Solution</div>
+    <div class="text-base font-semibold text-gray-300 mb-2">Our AI Solution</div>
     <div class="space-y-2 text-sm">
-      <div class="p-3 bg-purple-900/30 rounded flex items-start gap-3">
+      <div class="p-2 bg-purple-900/30 rounded flex items-start gap-2">
         <div class="text-2xl">📄</div>
         <div>
           <div class="font-semibold text-purple-300">Reads & Synthesizes</div>
@@ -616,7 +616,7 @@ This is a tangible, high-value AI feature.
         </div>
       </div>
 
-      <div class="p-3 bg-purple-900/30 rounded flex items-start gap-3">
+      <div class="p-2 bg-purple-900/30 rounded flex items-start gap-2">
         <div class="text-2xl">📊</div>
         <div>
           <div class="font-semibold text-purple-300">Generates 1-Page Memos</div>
@@ -624,7 +624,7 @@ This is a tangible, high-value AI feature.
         </div>
       </div>
 
-      <div class="p-3 bg-purple-900/30 rounded flex items-start gap-3">
+      <div class="p-2 bg-purple-900/30 rounded flex items-start gap-2">
         <div class="text-2xl">📈</div>
         <div>
           <div class="font-semibold text-purple-300">Tracks Performance</div>
@@ -633,17 +633,17 @@ This is a tangible, high-value AI feature.
       </div>
     </div>
 
-    <div class="p-4 bg-gradient-to-r from-purple-900/40 to-pink-900/40 rounded-lg border border-purple-500/30">
-      <div class="font-semibold text-purple-300 text-center">
+    <div class="p-3 bg-gradient-to-r from-purple-900/40 to-pink-900/40 rounded-lg border border-purple-500/30">
+      <div class="font-semibold text-purple-300 text-center text-sm">
         Result: Institutional DD without the analyst team cost
       </div>
     </div>
   </div>
 
-  <div class="p-6 border-2 border-purple-500 rounded-xl bg-black/40">
-    <div class="text-lg font-semibold text-purple-300 mb-4">AI Deal Memo Example</div>
+  <div class="p-4 border-2 border-purple-500 rounded-xl bg-black/40">
+    <div class="text-base font-semibold text-purple-300 mb-3">AI Deal Memo Example</div>
 
-    <div class="font-mono text-xs space-y-3">
+    <div class="font-mono text-xs space-y-2">
       <div class="border-b border-purple-500/30 pb-2">
         <div class="text-xl font-bold text-purple-300">Acme Private Credit Fund IV</div>
       </div>
@@ -673,13 +673,13 @@ This is a tangible, high-value AI feature.
         </div>
       </div>
 
-      <div class="p-3 bg-green-900/30 border border-green-500/30 rounded">
+      <div class="p-2 bg-green-900/30 border border-green-500/30 rounded">
         <div class="text-green-400 font-bold mb-1">✅ SUITABLE</div>
         <div class="text-gray-400">Fits 15% alternative target allocation</div>
       </div>
     </div>
 
-    <div class="mt-4 text-xs text-gray-500 text-center">
+    <div class="mt-3 text-xs text-gray-500 text-center">
       Generated from 127-page offering memorandum in 5 minutes
     </div>
   </div>
