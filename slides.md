@@ -155,17 +155,17 @@ The AI-Powered Digital Family Office
 
 # Introducing Your AI Digital Family Office
 
-<div class="grid grid-cols-2 gap-6 max-h-[70vh] overflow-hidden">
+<TwoColumnLayout>
 
-<div class="space-y-2.5 text-sm">
+<div class="space-y-2 text-sm">
 
 **Not Another Robo-Advisor**
 
-<div class="text-xs text-gray-400 mb-3">A complete family office with an AI Investment Committee available 24/7</div>
+<div class="text-xs text-gray-400 mb-2">A complete family office with an AI Investment Committee available 24/7</div>
 
-<div class="p-3 bg-teal-900/30 border border-teal-500/50 rounded-lg">
+<div class="p-2 bg-teal-900/30 border border-teal-500/50 rounded-lg">
 <strong class="text-teal-300 text-sm">AI Investment Committee</strong>
-<div class="text-xs mt-2 space-y-0.5">
+<div class="text-xs mt-1 space-y-0.5">
 <div>• Chief Investment Officer</div>
 <div>• Tax Attorney</div>
 <div>• Research Analyst</div>
@@ -174,9 +174,9 @@ The AI-Powered Digital Family Office
 </div>
 </div>
 
-<div class="p-3 bg-purple-900/30 border border-purple-500/50 rounded-lg">
+<div class="p-2 bg-purple-900/30 border border-purple-500/50 rounded-lg">
 <strong class="text-purple-300 text-sm">Always Working For You</strong>
-<div class="text-xs mt-2 space-y-0.5">
+<div class="text-xs mt-1 space-y-0.5">
 <div>• Real-time analysis</div>
 <div>• Proactive recommendations</div>
 <div>• Instant execution</div>
@@ -186,14 +186,14 @@ The AI-Powered Digital Family Office
 
 </div>
 
-<div class="border-2 border-teal-500 rounded-xl p-2 bg-black/40 max-h-[70vh] overflow-y-auto">
+<div class="border-2 border-teal-500 rounded-xl p-2 bg-black/40 overflow-hidden">
 <div class="text-xs text-teal-400 mb-1 font-semibold">Premium Platform Preview - 100% OPERATIONAL TODAY</div>
-<img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded w-full mb-1 max-h-[18vh] object-contain" />
-<img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded w-full mb-1 max-h-[12vh] object-contain" />
-<img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded w-full max-h-[12vh] object-contain" />
+<img src="/Screenshot 2025-11-04 at 19.24.38.png" class="rounded w-full mb-1 max-h-[16vh] object-contain" />
+<img src="/Screenshot 2025-11-04 at 19.31.26.png" class="rounded w-full mb-1 max-h-[10vh] object-contain" />
+<img src="/Screenshot 2025-11-04 at 19.31.57.png" class="rounded w-full max-h-[10vh] object-contain" />
 </div>
 
-</div>
+</TwoColumnLayout>
 
 
 <!--
@@ -322,53 +322,53 @@ The Moat & The Technology
 
 # India: A $5T Market, Locked by Red Tape
 
-<div class="grid grid-cols-2 gap-6 max-h-[75vh] overflow-hidden">
+<TwoColumnLayout>
 
 <div>
 
 **The Old FPI Route**
 
-<div class="space-y-2 mt-3">
+<div class="space-y-2 mt-2">
 
-<div class="p-3 border-2 border-red-500 rounded-lg bg-red-900/20">
-<strong class="text-red-300">Complex Red Tape</strong>
-<div class="text-sm text-gray-400 mt-1">Heavy FPI compliance burdens, multi-month setup</div>
+<div class="p-2 border-2 border-red-500 rounded-lg bg-red-900/20">
+<strong class="text-red-300 text-sm">Complex Red Tape</strong>
+<div class="text-xs text-gray-400 mt-1">Heavy FPI compliance burdens, multi-month setup</div>
 </div>
 
-<div class="p-3 border-2 border-red-500 rounded-lg bg-red-900/20">
-<strong class="text-red-300">Crippling Tax</strong>
-<div class="text-sm text-gray-400 mt-1">Capital Gains Tax + STT drag performance</div>
+<div class="p-2 border-2 border-red-500 rounded-lg bg-red-900/20">
+<strong class="text-red-300 text-sm">Crippling Tax</strong>
+<div class="text-xs text-gray-400 mt-1">Capital Gains Tax + STT drag performance</div>
 </div>
 
-<div class="p-3 border-2 border-red-500 rounded-lg bg-red-900/20">
-<strong class="text-red-300">Currency Risk</strong>
-<div class="text-sm text-gray-400 mt-1">INR depreciation erodes returns</div>
+<div class="p-2 border-2 border-red-500 rounded-lg bg-red-900/20">
+<strong class="text-red-300 text-sm">Currency Risk</strong>
+<div class="text-xs text-gray-400 mt-1">INR depreciation erodes returns</div>
 </div>
 
-<div class="p-3 border-2 border-red-500 rounded-lg bg-red-900/20">
-<strong class="text-red-300">Repatriation Nightmare</strong>
-<div class="text-sm text-gray-400 mt-1">Slow, restrictive capital movement</div>
+<div class="p-2 border-2 border-red-500 rounded-lg bg-red-900/20">
+<strong class="text-red-300 text-sm">Repatriation Nightmare</strong>
+<div class="text-xs text-gray-400 mt-1">Slow, restrictive capital movement</div>
 </div>
 
 </div>
 </div>
 
 <div class="flex items-center justify-center">
-<div class="text-center space-y-4 max-w-2xl">
-<div class="text-6xl mb-4">🔒</div>
-<div class="text-2xl font-bold text-gray-300">
+<div class="text-center space-y-3">
+<div class="text-5xl mb-3">🔒</div>
+<div class="text-xl font-bold text-gray-300">
 15% of HNW portfolios want India exposure
 </div>
-<div class="text-5xl font-bold text-red-400 my-4">
+<div class="text-4xl font-bold text-red-400 my-3">
 Only 3% have it
 </div>
-<div class="text-base text-gray-400">
+<div class="text-sm text-gray-400">
 The barriers are too high. Traditional advisors say "too complex."
 </div>
 </div>
 </div>
 
-</div>
+</TwoColumnLayout>
 
 <!--
 KEY MESSAGE: We position India as our "Phase 1 Global Gateway."
@@ -379,52 +379,52 @@ This slide builds tension showing the massive opportunity that's locked away.
 
 # Our Solution: The GIFT City "AI Gateway"
 
-<div class="grid grid-cols-2 gap-6 max-h-[75vh] overflow-hidden">
+<TwoColumnLayout>
 
 <div>
 
 **The GIFT City Solution**
 
-<div class="space-y-2 mt-3">
+<div class="space-y-2 mt-2">
 
-<div class="p-3 border-2 border-green-500 rounded-lg bg-green-900/20">
-<strong class="text-green-300">Direct Access via IFSC</strong>
-<div class="text-sm text-gray-400 mt-1">Streamlined setup for foreign investors</div>
+<div class="p-2 border-2 border-green-500 rounded-lg bg-green-900/20">
+<strong class="text-green-300 text-sm">Direct Access via IFSC</strong>
+<div class="text-xs text-gray-400 mt-1">Streamlined setup for foreign investors</div>
 </div>
 
-<div class="p-3 border-2 border-green-500 rounded-lg bg-green-900/20">
-<strong class="text-green-300">0% Capital Gains Tax</strong>
-<div class="text-sm text-gray-400 mt-1">No CGT, no STT - keep all your gains</div>
+<div class="p-2 border-2 border-green-500 rounded-lg bg-green-900/20">
+<strong class="text-green-300 text-sm">0% Capital Gains Tax</strong>
+<div class="text-xs text-gray-400 mt-1">No CGT, no STT - keep all your gains</div>
 </div>
 
-<div class="p-3 border-2 border-green-500 rounded-lg bg-green-900/20">
-<strong class="text-green-300">USD-Based Trading</strong>
-<div class="text-sm text-gray-400 mt-1">Eliminate currency risk entirely</div>
+<div class="p-2 border-2 border-green-500 rounded-lg bg-green-900/20">
+<strong class="text-green-300 text-sm">USD-Based Trading</strong>
+<div class="text-xs text-gray-400 mt-1">Eliminate currency risk entirely</div>
 </div>
 
-<div class="p-3 border-2 border-green-500 rounded-lg bg-green-900/20">
-<strong class="text-green-300">Free Capital Movement</strong>
-<div class="text-sm text-gray-400 mt-1">Instant repatriation, no restrictions</div>
+<div class="p-2 border-2 border-green-500 rounded-lg bg-green-900/20">
+<strong class="text-green-300 text-sm">Free Capital Movement</strong>
+<div class="text-xs text-gray-400 mt-1">Instant repatriation, no restrictions</div>
 </div>
 
 </div>
 </div>
 
 <div class="flex items-center justify-center">
-<div class="text-center space-y-4 max-w-2xl">
-<div class="text-6xl mb-4">🔓</div>
-<div class="text-3xl font-bold text-green-300">
+<div class="text-center space-y-3">
+<div class="text-5xl mb-3">🔓</div>
+<div class="text-2xl font-bold text-green-300">
 +300bps in returns
 </div>
 <div class="text-sm text-gray-400">(JPMorgan Research)</div>
-<div class="text-2xl font-bold text-teal-400 mt-4">
+<div class="text-xl font-bold text-teal-400 mt-3">
 NSE IFSC Volume Up 400% YoY
 </div>
-<div class="text-sm text-gray-400">Market validation of GIFT City route</div>
+<div class="text-xs text-gray-400">Market validation of GIFT City route</div>
 </div>
 </div>
 
-</div>
+</TwoColumnLayout>
 
 <div class="absolute bottom-4 left-0 right-0 text-center">
 <div class="inline-block px-6 py-2 bg-gradient-to-r from-yellow-900/40 to-orange-900/40 rounded-lg border border-yellow-500/30">
@@ -508,7 +508,7 @@ It's an AI-powered product that makes complexity simple.
 
 # Our "Tax Alpha" Agent: Daily vs Annual
 
-<div class="grid grid-cols-2 gap-6 max-h-[72vh] overflow-hidden">
+<TwoColumnLayout>
   <div class="space-y-4">
     <div class="text-xl font-bold text-orange-300">What Others Can't Do</div>
 
@@ -576,7 +576,7 @@ It's an AI-powered product that makes complexity simple.
       </div>
     </div>
   </div>
-</div>
+</TwoColumnLayout>
 
 <div class="absolute bottom-4 left-0 right-0 text-center text-xs text-gray-500">
   Based on JPMorgan research on tax-loss harvesting frequency and alpha generation
@@ -592,7 +592,7 @@ This is a tangible, high-value AI feature.
 
 # Our "Alternative Asset" Agent: AI Due Diligence
 
-<div class="grid grid-cols-2 gap-6 max-h-[72vh] overflow-hidden">
+<TwoColumnLayout>
   <div class="space-y-4">
     <div class="text-xl font-bold text-purple-300">Unlocking Private Markets</div>
 
@@ -679,7 +679,7 @@ This is a tangible, high-value AI feature.
       Generated from 127-page offering memorandum in 5 minutes
     </div>
   </div>
-</div>
+</TwoColumnLayout>
 
 <div class="absolute bottom-4 left-0 right-0 text-center">
   <div class="inline-block px-6 py-2 bg-purple-900/30 rounded-lg border border-purple-500/30">
@@ -834,11 +834,11 @@ We show specific dollar amounts: $142K, $85K, $1.5M proving measurable impact.
 
 # This is Not a Concept. Our Core Platform is Live.
 
-<div class="text-center text-xl text-teal-300 mb-8">
+<div class="text-center text-xl text-teal-300 mb-6">
   Proven Technology - Real Portfolio - Production Ready
 </div>
 
-<div class="grid grid-cols-2 gap-4 max-h-[70vh] overflow-hidden">
+<TwoColumnLayout :gap="4">
   <div class="space-y-3">
     <div class="p-3 bg-gradient-to-r from-green-900/40 to-emerald-900/40 rounded-lg border border-green-500/30">
       <div class="text-base font-semibold text-green-300 mb-2">Live Integration</div>
@@ -883,7 +883,7 @@ We show specific dollar amounts: $142K, $85K, $1.5M proving measurable impact.
     </div>
     <div class="text-xs text-gray-400 text-center">Multi-agent consensus & execution</div>
   </div>
-</div>
+</TwoColumnLayout>
 
 <div class="absolute bottom-4 left-0 right-0 text-center">
   <div class="inline-block px-6 py-3 bg-green-500/20 border-2 border-green-500 rounded-lg">
@@ -1262,7 +1262,7 @@ Clear ask with specific milestones unlocked by funding.
 
 # $5M to Scale Our Proven Platform
 
-<div class="grid grid-cols-2 gap-4 max-h-[70vh] overflow-hidden">
+<TwoColumnLayout :gap="4">
   <div>
     <div class="text-xl font-semibold text-teal-300 mb-4">Capital Allocation</div>
 
@@ -1320,7 +1320,7 @@ Clear ask with specific milestones unlocked by funding.
       </div>
     </div>
   </div>
-</div>
+</TwoColumnLayout>
 
 <!--
 KEY MESSAGE: Clear capital allocation with specific deliverables.
