@@ -112,7 +112,7 @@ This creates urgency and shows a once-in-a-generation opportunity.
 
 <div class="mb-6 text-center">
   <div class="text-2xl font-semibold text-gray-300">
-    The "Alpha Gap" — What HNWIs Want vs What They Get
+    The "Alpha Gap" - What HNWIs Want vs What They Get
   </div>
 </div>
 
@@ -352,7 +352,7 @@ The Moat & The Technology
 </div>
 
 <div class="flex items-center justify-center">
-<div class="text-center space-y-4">
+<div class="text-center space-y-4 max-w-2xl">
 <div class="text-6xl mb-4">🔒</div>
 <div class="text-2xl font-bold text-gray-300">
 15% of HNW portfolios want India exposure
@@ -409,7 +409,7 @@ This slide builds tension showing the massive opportunity that's locked away.
 </div>
 
 <div class="flex items-center justify-center">
-<div class="text-center space-y-4">
+<div class="text-center space-y-4 max-w-2xl">
 <div class="text-6xl mb-4">🔓</div>
 <div class="text-3xl font-bold text-green-300">
 +300bps in returns
@@ -440,7 +440,7 @@ Add validation from JPMorgan (+300bps) and market traction (400% volume growth).
 
 # Our AI Agent Makes It Simple
 
-<div class="grid grid-cols-2 gap-8 h-[70vh]">
+<div class="grid grid-cols-2 gap-8 h-[70vh] overflow-hidden">
   <div class="p-6 border-2 border-teal-500 rounded-xl bg-black/40">
     <div class="text-xl font-semibold text-teal-300 mb-4">The AI Experience</div>
 
@@ -510,7 +510,7 @@ It's an AI-powered product that makes complexity simple.
 
 # Our "Tax Alpha" Agent: Daily vs Annual
 
-<div class="grid grid-cols-2 gap-8 h-[70vh]">
+<div class="grid grid-cols-2 gap-8 h-[70vh] overflow-hidden">
   <div class="space-y-6">
     <div class="text-2xl font-bold text-orange-300">What Others Can't Do</div>
 
@@ -594,7 +594,7 @@ This is a tangible, high-value AI feature.
 
 # Our "Alternative Asset" Agent: AI Due Diligence
 
-<div class="grid grid-cols-2 gap-8 h-[70vh]">
+<div class="grid grid-cols-2 gap-8 h-[70vh] overflow-hidden">
   <div class="space-y-6">
     <div class="text-2xl font-bold text-purple-300">Unlocking Private Markets</div>
 
@@ -775,7 +775,7 @@ Validation & Traction
   metric="$5M"
   metric-label="in company stock"
   description="Concentrated position risk, wants to diversify into alternatives"
-  quote="Need expert help executing properly — stuck with generic advice"
+  quote="Need expert help executing properly - stuck with generic advice"
 />
 
 <PersonaJourneyCard
@@ -915,17 +915,17 @@ Real screenshots, real broker integration, real money being managed.
 <div class="grid grid-cols-2 gap-4 mt-6 text-sm">
   <div class="p-4 border-2 border-red-400 bg-red-900/40 rounded-lg">
     <div class="font-bold text-base text-red-200 mb-2">Bottom-Left: Robo-Advisors</div>
-    <div class="text-red-100 text-xs">Wealthfront, Betterment — Commoditized mass market, low tech, no global access</div>
+    <div class="text-red-100 text-xs">Wealthfront, Betterment - Commoditized mass market, low tech, no global access</div>
   </div>
 
   <div class="p-4 border-2 border-orange-400 bg-orange-900/40 rounded-lg">
     <div class="font-bold text-base text-orange-200 mb-2">Bottom-Right: Legacy Platforms</div>
-    <div class="text-orange-100 text-xs">Addepar, Black Diamond — High AUM but no AI, outdated tech, domestic only</div>
+    <div class="text-orange-100 text-xs">Addepar, Black Diamond - High AUM but no AI, outdated tech, domestic only</div>
   </div>
 
   <div class="p-4 border-2 border-blue-400 bg-blue-900/40 rounded-lg">
     <div class="font-bold text-base text-blue-200 mb-2">Top-Right: Arta Finance (Validator)</div>
-    <div class="text-blue-100 text-xs">$90M raised — Validates the agentic AI wealth model, but domestic only</div>
+    <div class="text-blue-100 text-xs">$90M raised - Validates the agentic AI wealth model, but domestic only</div>
   </div>
 
   <div class="p-4 border-2 border-green-400 bg-green-900/40 rounded-lg">
@@ -1005,7 +1005,7 @@ Arta Finance validates the model. We win with additional differentiation.
   <div class="space-y-3 text-sm">
     <div class="p-3 bg-teal-900/30 rounded">
       <div class="font-semibold text-teal-200 mb-1">Zero Custody Risk</div>
-      <div class="text-gray-400 text-xs">Broker-agnostic model — we never hold client assets</div>
+      <div class="text-gray-400 text-xs">Broker-agnostic model - we never hold client assets</div>
     </div>
 
     <div class="p-3 bg-teal-900/30 rounded">
@@ -1264,7 +1264,7 @@ Clear ask with specific milestones unlocked by funding.
 
 # $5M to Scale Our Proven Platform
 
-<div class="grid grid-cols-2 gap-8 h-[70vh]">
+<div class="grid grid-cols-2 gap-8 h-[70vh] overflow-hidden">
   <div>
     <div class="text-2xl font-semibold text-teal-300 mb-6">Capital Allocation</div>
 
@@ -1281,7 +1281,7 @@ Clear ask with specific milestones unlocked by funding.
 
   <div class="space-y-4 text-sm">
     <div class="p-4 border-l-4 border-blue-500 bg-blue-900/20 rounded">
-      <div class="font-semibold text-blue-300 mb-2">40% — AI Agent Development</div>
+      <div class="font-semibold text-blue-300 mb-2">40% - AI Agent Development</div>
       <div class="text-gray-400 space-y-1 text-xs">
         - Equity Agent for concentrated stock
         - Tax Alpha expansion (estate, trust)
@@ -1291,7 +1291,7 @@ Clear ask with specific milestones unlocked by funding.
     </div>
 
     <div class="p-4 border-l-4 border-teal-500 bg-teal-900/20 rounded">
-      <div class="font-semibold text-teal-300 mb-2">30% — GIFT City & US Integration</div>
+      <div class="font-semibold text-teal-300 mb-2">30% - GIFT City & US Integration</div>
       <div class="text-gray-400 space-y-1 text-xs">
         - GIFT City infrastructure & compliance
         - IBKR TWS API integration
@@ -1301,7 +1301,7 @@ Clear ask with specific milestones unlocked by funding.
     </div>
 
     <div class="p-4 border-l-4 border-purple-500 bg-purple-900/20 rounded">
-      <div class="font-semibold text-purple-300 mb-2">30% — US Market Entry & Growth</div>
+      <div class="font-semibold text-purple-300 mb-2">30% - US Market Entry & Growth</div>
       <div class="text-gray-400 space-y-1 text-xs">
         - US entity formation & SEC RIA filing
         - HNW customer acquisition (digital + partnerships)
