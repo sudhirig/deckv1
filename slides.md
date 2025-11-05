@@ -442,25 +442,25 @@ Add validation from JPMorgan (+300bps) and market traction (400% volume growth).
 
 # Our AI Agent Makes It Simple
 
-<div class="grid grid-cols-2 gap-6 max-h-[72vh] overflow-hidden">
-  <div class="p-4 border-2 border-teal-500 rounded-xl bg-black/40">
-    <div class="text-lg font-semibold text-teal-300 mb-3">The AI Experience</div>
+<div class="grid grid-cols-2 gap-4 max-h-[70vh] overflow-hidden">
+  <div class="p-3 border-2 border-teal-500 rounded-lg bg-black/40">
+    <div class="text-base font-semibold text-teal-300 mb-2">The AI Experience</div>
 
-    <div class="space-y-3 text-sm font-mono">
+    <div class="space-y-2 text-xs font-mono">
       <div class="p-2 bg-gray-800 rounded">
-        <div class="text-blue-400 mb-1 text-xs">User:</div>
-        <div class="text-gray-300 text-xs">"I want 5% India exposure but worried about tax and currency. What's best?"</div>
+        <div class="text-blue-400 mb-1">User:</div>
+        <div class="text-gray-300">"I want 5% India exposure but worried about tax and currency. What's best?"</div>
       </div>
 
       <div class="p-2 bg-teal-900/30 rounded border border-teal-500/30">
-        <div class="text-teal-400 mb-2 text-xs">AI Gateway Agent:</div>
-        <div class="text-gray-300 mb-2 text-xs">
+        <div class="text-teal-400 mb-1">AI Gateway Agent:</div>
+        <div class="text-gray-300 mb-2">
           "Use GIFT City gateway - USD-denominated Indian equity funds with 0% Indian capital gains tax and no currency risk."
         </div>
 
         <div class="border-t border-teal-500/30 pt-2 mt-2">
-          <div class="font-semibold text-teal-300 mb-1 text-xs">Recommendation</div>
-          <div class="space-y-1 text-xs">
+          <div class="font-semibold text-teal-300 mb-1">Recommendation</div>
+          <div class="space-y-0.5">
             <div><strong>Action:</strong> 5% to Indian Equities</div>
             <div><strong>Vehicle:</strong> ABC India Flexi Cap (USD)</div>
             <div><strong>Route:</strong> GIFT City (NSE IX)</div>
@@ -471,31 +471,31 @@ Add validation from JPMorgan (+300bps) and market traction (400% volume growth).
     </div>
   </div>
 
-  <div class="space-y-3">
-    <div class="text-lg font-semibold text-blue-300 mb-3">What This Agent Does</div>
+  <div class="space-y-2">
+    <div class="text-base font-semibold text-blue-300 mb-2">What This Agent Does</div>
 
-    <div class="p-3 border-l-4 border-blue-500 bg-blue-900/20 rounded">
+    <div class="p-2 border-l-4 border-blue-500 bg-blue-900/20 rounded">
       <div class="font-semibold text-blue-300 mb-1 text-sm">Automated Compliance</div>
       <div class="text-xs text-gray-400">
         Manages cross-border AML/KYC checks, regulatory filings, documentation
       </div>
     </div>
 
-    <div class="p-3 border-l-4 border-green-500 bg-green-900/20 rounded">
+    <div class="p-2 border-l-4 border-green-500 bg-green-900/20 rounded">
       <div class="font-semibold text-green-300 mb-1 text-sm">Tax & Route Optimization</div>
       <div class="text-xs text-gray-400">
         Analyzes FPI vs GIFT City for best after-tax path based on your situation
       </div>
     </div>
 
-    <div class="p-3 border-l-4 border-purple-500 bg-purple-900/20 rounded">
+    <div class="p-2 border-l-4 border-purple-500 bg-purple-900/20 rounded">
       <div class="font-semibold text-purple-300 mb-1 text-sm">Seamless Execution</div>
       <div class="text-xs text-gray-400">
         End-to-end investment, monitoring, rebalancing, and repatriation
       </div>
     </div>
 
-    <div class="mt-4 p-3 bg-gradient-to-r from-orange-900/40 to-yellow-900/40 rounded-lg border border-orange-500/30">
+    <div class="mt-3 p-2 bg-gradient-to-r from-orange-900/40 to-yellow-900/40 rounded-lg border border-orange-500/30">
       <div class="text-center font-semibold text-orange-300 text-sm">
         Competitive Advantage: Only AI platform with automated GIFT City access
       </div>
@@ -701,35 +701,35 @@ The visual deal memo makes the value immediately obvious.
 
 # Our "Brain": A Swarm of 20+ Specialized Agents
 
-<div class="text-center text-base text-gray-400 mb-6">
+<div class="text-center text-sm text-gray-400 mb-4">
   The Full Agentic Architecture Powering Your Wealth Management
 </div>
 
 <ArchitectureDiagram title="Multi-Agent Investment Intelligence System" />
 
-<div class="grid grid-cols-4 gap-4 mt-6 text-xs">
-  <div class="p-3 bg-blue-900/20 border border-blue-500/30 rounded">
+<div class="grid grid-cols-4 gap-3 mt-4 text-xs">
+  <div class="p-2 bg-blue-900/20 border border-blue-500/30 rounded">
     <div class="font-semibold text-blue-300 mb-1">Strategist Agents</div>
     <div class="text-gray-400">Buffett, Graham, Lynch philosophies</div>
   </div>
 
-  <div class="p-3 bg-green-900/20 border border-green-500/30 rounded">
+  <div class="p-2 bg-green-900/20 border border-green-500/30 rounded">
     <div class="font-semibold text-green-300 mb-1">Analyst Agents</div>
     <div class="text-gray-400">News, sentiment, technical analysis</div>
   </div>
 
-  <div class="p-3 bg-purple-900/20 border border-purple-500/30 rounded">
+  <div class="p-2 bg-purple-900/20 border border-purple-500/30 rounded">
     <div class="font-semibold text-purple-300 mb-1">Portfolio Agents</div>
     <div class="text-gray-400">Risk, rebalancing, execution</div>
   </div>
 
-  <div class="p-3 bg-teal-900/20 border border-teal-500/30 rounded">
+  <div class="p-2 bg-teal-900/20 border border-teal-500/30 rounded">
     <div class="font-semibold text-teal-300 mb-1">Specialized Agents</div>
     <div class="text-gray-400">Tax, alternatives, India gateway</div>
   </div>
 </div>
 
-<div class="mt-4 text-center p-3 bg-gradient-to-r from-gray-800 to-gray-900 rounded-lg border border-gray-600">
+<div class="mt-3 text-center p-2 bg-gradient-to-r from-gray-800 to-gray-900 rounded-lg border border-gray-600">
   <div class="text-sm">
     <span class="text-teal-400 font-semibold">Tech Stack:</span>
     <span class="text-gray-400 ml-2">LangGraph orchestration - Multi-LLM (GPT-4, Claude, Gemini) - Real-time consensus building</span>
@@ -763,11 +763,11 @@ Validation & Traction
 
 # Real Journeys, Real Alpha
 
-<div class="text-center text-base text-gray-400 mb-8">
+<div class="text-center text-sm text-gray-400 mb-4">
   Three HNW personas showing measurable outcomes
 </div>
 
-<ThreeColumnLayout :gap="6">
+<ThreeColumnLayout :gap="4">
 
 <PersonaJourneyCard
   emoji="😟"
@@ -825,7 +825,7 @@ Validation & Traction
 
 </ThreeColumnLayout>
 
-<div class="mt-6 text-center text-xs text-gray-500">
+<div class="mt-4 text-center text-xs text-gray-500">
   Two additional personas (Chris - Inheritor, Sal - Tax Optimizer) available in appendix with similar quantified outcomes
 </div>
 
@@ -905,7 +905,7 @@ Real screenshots, real broker integration, real money being managed.
 
 # Why We Win: AI Capability + Global Access
 
-<div class="text-center text-base text-gray-400 mb-6">
+<div class="text-center text-sm text-gray-400 mb-4">
   The Competitive Landscape (US Wealth Tech)
 </div>
 
@@ -914,29 +914,29 @@ Real screenshots, real broker integration, real money being managed.
   y-label="Domestic Only → Global Gateway (India Access)"
 />
 
-<div class="grid grid-cols-2 gap-4 mt-6 text-sm">
-  <div class="p-4 border-2 border-red-400 bg-red-900/40 rounded-lg">
+<div class="grid grid-cols-2 gap-3 mt-4 text-sm">
+  <div class="p-3 border-2 border-red-400 bg-red-900/40 rounded-lg">
     <div class="font-bold text-base text-red-200 mb-2">Bottom-Left: Robo-Advisors</div>
     <div class="text-red-100 text-xs">Wealthfront, Betterment - Commoditized mass market, low tech, no global access</div>
   </div>
 
-  <div class="p-4 border-2 border-orange-400 bg-orange-900/40 rounded-lg">
+  <div class="p-3 border-2 border-orange-400 bg-orange-900/40 rounded-lg">
     <div class="font-bold text-base text-orange-200 mb-2">Bottom-Right: Legacy Platforms</div>
     <div class="text-orange-100 text-xs">Addepar, Black Diamond - High AUM but no AI, outdated tech, domestic only</div>
   </div>
 
-  <div class="p-4 border-2 border-blue-400 bg-blue-900/40 rounded-lg">
+  <div class="p-3 border-2 border-blue-400 bg-blue-900/40 rounded-lg">
     <div class="font-bold text-base text-blue-200 mb-2">Top-Right: Arta Finance (Validator)</div>
     <div class="text-blue-100 text-xs">$90M raised - Validates the agentic AI wealth model, but domestic only</div>
   </div>
 
-  <div class="p-4 border-2 border-green-400 bg-green-900/40 rounded-lg">
+  <div class="p-3 border-2 border-green-400 bg-green-900/40 rounded-lg">
     <div class="font-bold text-base text-green-200 mb-2">Top-Right: Our Platform (Winner)</div>
     <div class="text-green-100 text-xs">Explainable AI + Broker-Agnostic + Exclusive GIFT City Gateway</div>
   </div>
 </div>
 
-<div class="mt-4 text-center p-3 bg-gradient-to-r from-teal-900/40 to-blue-900/40 rounded-lg border border-teal-500/30">
+<div class="mt-3 text-center p-2 bg-gradient-to-r from-teal-900/40 to-blue-900/40 rounded-lg border border-teal-500/30">
   <span class="text-teal-300 font-semibold">Arta proved AI wealth works at $90M valuation.</span>
   <span class="text-gray-300 ml-2">We add explainable AI + global access moat.</span>
 </div>
@@ -950,72 +950,72 @@ Arta Finance validates the model. We win with additional differentiation.
 
 # Our Unfair Advantages: The Triple Lock
 
-<div class="text-center text-base text-gray-400 mb-8">
+<div class="text-center text-sm text-gray-400 mb-4">
   Three defensive moats protecting our competitive position
 </div>
 
-<ThreeColumnLayout :gap="6">
+<ThreeColumnLayout :gap="4">
 
-<div class="p-6 rounded-xl border-2 border-blue-500 bg-gradient-to-br from-blue-900/40 to-blue-800/20">
-  <div class="text-4xl mb-4 text-center">🔒</div>
-  <div class="text-xl font-bold text-blue-300 text-center mb-4">Technical Moat</div>
+<div class="p-4 rounded-xl border-2 border-blue-500 bg-gradient-to-br from-blue-900/40 to-blue-800/20">
+  <div class="text-3xl mb-3 text-center">🔒</div>
+  <div class="text-lg font-bold text-blue-300 text-center mb-3">Technical Moat</div>
 
-  <div class="space-y-3 text-sm">
-    <div class="p-3 bg-blue-900/30 rounded">
+  <div class="space-y-2 text-sm">
+    <div class="p-2 bg-blue-900/30 rounded">
       <div class="font-semibold text-blue-200 mb-1">2-Year Head Start</div>
       <div class="text-gray-400 text-xs">Proprietary agentic AI architecture with 20+ specialized agents</div>
     </div>
 
-    <div class="p-3 bg-blue-900/30 rounded">
+    <div class="p-2 bg-blue-900/30 rounded">
       <div class="font-semibold text-blue-200 mb-1">Time to Replicate</div>
       <div class="text-gray-400 text-xs">24-30 months for competitors to build equivalent multi-agent system</div>
     </div>
 
-    <div class="p-3 bg-blue-900/30 rounded">
+    <div class="p-2 bg-blue-900/30 rounded">
       <div class="font-semibold text-blue-200 mb-1">Patents Pending</div>
       <div class="text-gray-400 text-xs">Core orchestration and consensus algorithms</div>
     </div>
   </div>
 </div>
 
-<div class="p-6 rounded-xl border-2 border-green-500 bg-gradient-to-br from-green-900/40 to-green-800/20">
-  <div class="text-4xl mb-4 text-center">⚖️</div>
-  <div class="text-xl font-bold text-green-300 text-center mb-4">Regulatory Moat</div>
+<div class="p-4 rounded-xl border-2 border-green-500 bg-gradient-to-br from-green-900/40 to-green-800/20">
+  <div class="text-3xl mb-3 text-center">⚖️</div>
+  <div class="text-lg font-bold text-green-300 text-center mb-3">Regulatory Moat</div>
 
-  <div class="space-y-3 text-sm">
-    <div class="p-3 bg-green-900/30 rounded">
+  <div class="space-y-2 text-sm">
+    <div class="p-2 bg-green-900/30 rounded">
       <div class="font-semibold text-green-200 mb-1">18-Month Barrier</div>
       <div class="text-gray-400 text-xs">GIFT City IFSCA license + integration with NSE IX infrastructure</div>
     </div>
 
-    <div class="p-3 bg-green-900/30 rounded">
+    <div class="p-2 bg-green-900/30 rounded">
       <div class="font-semibold text-green-200 mb-1">Exclusive Relationships</div>
       <div class="text-gray-400 text-xs">Early partnerships with GIFT City entities and broker relationships</div>
     </div>
 
-    <div class="p-3 bg-green-900/30 rounded">
+    <div class="p-2 bg-green-900/30 rounded">
       <div class="font-semibold text-green-200 mb-1">Capital Intensive</div>
       <div class="text-gray-400 text-xs">$2-3M+ required for compliance, licensing, and integration</div>
     </div>
   </div>
 </div>
 
-<div class="p-6 rounded-xl border-2 border-teal-500 bg-gradient-to-br from-teal-900/40 to-teal-800/20">
-  <div class="text-4xl mb-4 text-center">🛡️</div>
-  <div class="text-xl font-bold text-teal-300 text-center mb-4">Trust Moat</div>
+<div class="p-4 rounded-xl border-2 border-teal-500 bg-gradient-to-br from-teal-900/40 to-teal-800/20">
+  <div class="text-3xl mb-3 text-center">🛡️</div>
+  <div class="text-lg font-bold text-teal-300 text-center mb-3">Trust Moat</div>
 
-  <div class="space-y-3 text-sm">
-    <div class="p-3 bg-teal-900/30 rounded">
+  <div class="space-y-2 text-sm">
+    <div class="p-2 bg-teal-900/30 rounded">
       <div class="font-semibold text-teal-200 mb-1">Zero Custody Risk</div>
       <div class="text-gray-400 text-xs">Broker-agnostic model - we never hold client assets</div>
     </div>
 
-    <div class="p-3 bg-teal-900/30 rounded">
+    <div class="p-2 bg-teal-900/30 rounded">
       <div class="font-semibold text-teal-200 mb-1">Faster Adoption</div>
       <div class="text-gray-400 text-xs">No asset transfer required, works with existing brokerage accounts</div>
     </div>
 
-    <div class="p-3 bg-teal-900/30 rounded">
+    <div class="p-2 bg-teal-900/30 rounded">
       <div class="font-semibold text-teal-200 mb-1">Incumbent Can't Pivot</div>
       <div class="text-gray-400 text-xs">Traditional brokers locked into custody revenue model</div>
     </div>
@@ -1024,8 +1024,8 @@ Arta Finance validates the model. We win with additional differentiation.
 
 </ThreeColumnLayout>
 
-<div class="mt-6 text-center p-4 bg-gradient-to-r from-purple-900/40 to-pink-900/40 rounded-lg border border-purple-500/30">
-  <div class="text-lg font-semibold text-purple-300">
+<div class="mt-4 text-center p-3 bg-gradient-to-r from-purple-900/40 to-pink-900/40 rounded-lg border border-purple-500/30">
+  <div class="text-base font-semibold text-purple-300">
     Combined moat width: 36+ months for any competitor to match our full capabilities
   </div>
 </div>
