@@ -442,24 +442,24 @@ Add validation from JPMorgan (+300bps) and market traction (400% volume growth).
 
 # Our AI Agent Makes It Simple
 
-<div class="grid grid-cols-2 gap-4 max-h-[70vh] overflow-hidden">
-  <div class="p-3 border-2 border-teal-500 rounded-lg bg-black/40">
-    <div class="text-base font-semibold text-teal-300 mb-2">The AI Experience</div>
+<div class="grid grid-cols-2 gap-3 h-full max-h-[65vh]">
+  <div class="p-2 border-2 border-teal-500 rounded bg-black/40 overflow-hidden">
+    <div class="text-sm font-semibold text-teal-300 mb-2">The AI Experience</div>
 
-    <div class="space-y-2 text-xs font-mono">
-      <div class="p-2 bg-gray-800 rounded">
-        <div class="text-blue-400 mb-1">User:</div>
+    <div class="space-y-1.5 text-[10px] font-mono leading-tight">
+      <div class="p-1.5 bg-gray-800 rounded">
+        <div class="text-blue-400">User:</div>
         <div class="text-gray-300">"I want 5% India exposure but worried about tax and currency. What's best?"</div>
       </div>
 
-      <div class="p-2 bg-teal-900/30 rounded border border-teal-500/30">
+      <div class="p-1.5 bg-teal-900/30 rounded border border-teal-500/30">
         <div class="text-teal-400 mb-1">AI Gateway Agent:</div>
-        <div class="text-gray-300 mb-2">
+        <div class="text-gray-300 mb-1.5">
           "Use GIFT City gateway - USD-denominated Indian equity funds with 0% Indian capital gains tax and no currency risk."
         </div>
 
-        <div class="border-t border-teal-500/30 pt-2 mt-2">
-          <div class="font-semibold text-teal-300 mb-1">Recommendation</div>
+        <div class="border-t border-teal-500/30 pt-1.5 mt-1.5">
+          <div class="font-semibold text-teal-300 mb-0.5">Recommendation</div>
           <div class="space-y-0.5">
             <div><strong>Action:</strong> 5% to Indian Equities</div>
             <div><strong>Vehicle:</strong> ABC India Flexi Cap (USD)</div>
@@ -471,32 +471,32 @@ Add validation from JPMorgan (+300bps) and market traction (400% volume growth).
     </div>
   </div>
 
-  <div class="space-y-2">
-    <div class="text-base font-semibold text-blue-300 mb-2">What This Agent Does</div>
+  <div class="space-y-1.5 overflow-hidden">
+    <div class="text-sm font-semibold text-blue-300 mb-1.5">What This Agent Does</div>
 
-    <div class="p-2 border-l-4 border-blue-500 bg-blue-900/20 rounded">
-      <div class="font-semibold text-blue-300 mb-1 text-sm">Automated Compliance</div>
-      <div class="text-xs text-gray-400">
+    <div class="p-1.5 border-l-4 border-blue-500 bg-blue-900/20 rounded">
+      <div class="font-semibold text-blue-300 mb-0.5 text-xs">Automated Compliance</div>
+      <div class="text-[10px] text-gray-400">
         Manages cross-border AML/KYC checks, regulatory filings, documentation
       </div>
     </div>
 
-    <div class="p-2 border-l-4 border-green-500 bg-green-900/20 rounded">
-      <div class="font-semibold text-green-300 mb-1 text-sm">Tax & Route Optimization</div>
-      <div class="text-xs text-gray-400">
+    <div class="p-1.5 border-l-4 border-green-500 bg-green-900/20 rounded">
+      <div class="font-semibold text-green-300 mb-0.5 text-xs">Tax & Route Optimization</div>
+      <div class="text-[10px] text-gray-400">
         Analyzes FPI vs GIFT City for best after-tax path based on your situation
       </div>
     </div>
 
-    <div class="p-2 border-l-4 border-purple-500 bg-purple-900/20 rounded">
-      <div class="font-semibold text-purple-300 mb-1 text-sm">Seamless Execution</div>
-      <div class="text-xs text-gray-400">
+    <div class="p-1.5 border-l-4 border-purple-500 bg-purple-900/20 rounded">
+      <div class="font-semibold text-purple-300 mb-0.5 text-xs">Seamless Execution</div>
+      <div class="text-[10px] text-gray-400">
         End-to-end investment, monitoring, rebalancing, and repatriation
       </div>
     </div>
 
-    <div class="mt-3 p-2 bg-gradient-to-r from-orange-900/40 to-yellow-900/40 rounded-lg border border-orange-500/30">
-      <div class="text-center font-semibold text-orange-300 text-sm">
+    <div class="mt-2 p-1.5 bg-gradient-to-r from-orange-900/40 to-yellow-900/40 rounded border border-orange-500/30">
+      <div class="text-center font-semibold text-orange-300 text-xs">
         Competitive Advantage: Only AI platform with automated GIFT City access
       </div>
     </div>
@@ -842,10 +842,10 @@ We show specific dollar amounts: $142K, $85K, $1.5M proving measurable impact.
   Proven Technology - Real Portfolio - Production Ready
 </div>
 
-<div class="grid grid-cols-2 gap-8 max-h-[75vh] overflow-hidden">
-  <div class="space-y-4">
-    <div class="p-4 bg-gradient-to-r from-green-900/40 to-emerald-900/40 rounded-lg border border-green-500/30">
-      <div class="text-lg font-semibold text-green-300 mb-3">Live Integration</div>
+<div class="grid grid-cols-2 gap-4 max-h-[70vh] overflow-hidden">
+  <div class="space-y-3">
+    <div class="p-3 bg-gradient-to-r from-green-900/40 to-emerald-900/40 rounded-lg border border-green-500/30">
+      <div class="text-base font-semibold text-green-300 mb-2">Live Integration</div>
       <div class="space-y-2 text-sm text-gray-300">
         <div>✓ Zerodha Kite API (India's largest broker)</div>
         <div>✓ Real-money test portfolio actively managed</div>
@@ -854,8 +854,8 @@ We show specific dollar amounts: $142K, $85K, $1.5M proving measurable impact.
       </div>
     </div>
 
-    <div class="p-4 bg-gradient-to-r from-blue-900/40 to-cyan-900/40 rounded-lg border border-blue-500/30">
-      <div class="text-lg font-semibold text-blue-300 mb-3">Production Stack</div>
+    <div class="p-3 bg-gradient-to-r from-blue-900/40 to-cyan-900/40 rounded-lg border border-blue-500/30">
+      <div class="text-base font-semibold text-blue-300 mb-2">Production Stack</div>
       <div class="grid grid-cols-2 gap-2 text-xs">
         <div class="p-2 bg-blue-900/30 rounded">React 18 + TypeScript</div>
         <div class="p-2 bg-blue-900/30 rounded">Node.js + Express</div>
@@ -866,8 +866,8 @@ We show specific dollar amounts: $142K, $85K, $1.5M proving measurable impact.
       </div>
     </div>
 
-    <div class="p-4 bg-gradient-to-r from-purple-900/40 to-pink-900/40 rounded-lg border border-purple-500/30">
-      <div class="text-lg font-semibold text-purple-300 mb-3">US Market Ready</div>
+    <div class="p-3 bg-gradient-to-r from-purple-900/40 to-pink-900/40 rounded-lg border border-purple-500/30">
+      <div class="text-base font-semibold text-purple-300 mb-2">US Market Ready</div>
       <div class="space-y-2 text-sm text-gray-300">
         <div>→ Q1 2025: IBKR integration (sandbox testing)</div>
         <div>→ Q2 2025: Alpaca launch (commission-free)</div>
@@ -1239,19 +1239,19 @@ class: text-center
     18-month runway to product-market fit & Series A readiness
   </div>
 
-  <div class="grid grid-cols-3 gap-6 text-base max-w-4xl mx-auto mt-8">
-    <div class="p-4 bg-teal-900/20 rounded-lg border border-teal-500/30">
-      <div class="text-2xl font-bold text-teal-400 mb-2">500</div>
+  <div class="grid grid-cols-3 gap-4 text-base max-w-4xl mx-auto mt-6">
+    <div class="p-3 bg-teal-900/20 rounded-lg border border-teal-500/30">
+      <div class="text-xl font-bold text-teal-400 mb-1">500</div>
       <div class="text-sm text-gray-400">HNW Beta Users</div>
     </div>
 
-    <div class="p-4 bg-green-900/20 rounded-lg border border-green-500/30">
-      <div class="text-2xl font-bold text-green-400 mb-2">$50M</div>
+    <div class="p-3 bg-green-900/20 rounded-lg border border-green-500/30">
+      <div class="text-xl font-bold text-green-400 mb-1">$50M</div>
       <div class="text-sm text-gray-400">AUM Target</div>
     </div>
 
-    <div class="p-4 bg-blue-900/20 rounded-lg border border-blue-500/30">
-      <div class="text-2xl font-bold text-blue-400 mb-2">Q1 2025</div>
+    <div class="p-3 bg-blue-900/20 rounded-lg border border-blue-500/30">
+      <div class="text-xl font-bold text-blue-400 mb-1">Q1 2025</div>
       <div class="text-sm text-gray-400">US Launch</div>
     </div>
   </div>
@@ -1266,13 +1266,13 @@ Clear ask with specific milestones unlocked by funding.
 
 # $5M to Scale Our Proven Platform
 
-<div class="grid grid-cols-2 gap-8 h-[70vh] overflow-hidden">
+<div class="grid grid-cols-2 gap-4 max-h-[70vh] overflow-hidden">
   <div>
-    <div class="text-2xl font-semibold text-teal-300 mb-6">Capital Allocation</div>
+    <div class="text-xl font-semibold text-teal-300 mb-4">Capital Allocation</div>
 
     <PieChart
       title=""
-      :size="350"
+      :size="300"
       :data="[
         { label: 'AI Agent Development', value: 40, color: '#3b82f6' },
         { label: 'GIFT City & US Integration', value: 30, color: '#14b8a6' },
@@ -1281,9 +1281,9 @@ Clear ask with specific milestones unlocked by funding.
     />
   </div>
 
-  <div class="space-y-4 text-sm">
-    <div class="p-4 border-l-4 border-blue-500 bg-blue-900/20 rounded">
-      <div class="font-semibold text-blue-300 mb-2">40% - AI Agent Development</div>
+  <div class="space-y-3 text-sm">
+    <div class="p-3 border-l-4 border-blue-500 bg-blue-900/20 rounded">
+      <div class="font-semibold text-blue-300 mb-1 text-sm">40% - AI Agent Development</div>
       <div class="text-gray-400 space-y-1 text-xs">
         - Equity Agent for concentrated stock
         - Tax Alpha expansion (estate, trust)
@@ -1292,8 +1292,8 @@ Clear ask with specific milestones unlocked by funding.
       </div>
     </div>
 
-    <div class="p-4 border-l-4 border-teal-500 bg-teal-900/20 rounded">
-      <div class="font-semibold text-teal-300 mb-2">30% - GIFT City & US Integration</div>
+    <div class="p-3 border-l-4 border-teal-500 bg-teal-900/20 rounded">
+      <div class="font-semibold text-teal-300 mb-1 text-sm">30% - GIFT City & US Integration</div>
       <div class="text-gray-400 space-y-1 text-xs">
         - GIFT City infrastructure & compliance
         - IBKR TWS API integration
@@ -1302,8 +1302,8 @@ Clear ask with specific milestones unlocked by funding.
       </div>
     </div>
 
-    <div class="p-4 border-l-4 border-purple-500 bg-purple-900/20 rounded">
-      <div class="font-semibold text-purple-300 mb-2">30% - US Market Entry & Growth</div>
+    <div class="p-3 border-l-4 border-purple-500 bg-purple-900/20 rounded">
+      <div class="font-semibold text-purple-300 mb-1 text-sm">30% - US Market Entry & Growth</div>
       <div class="text-gray-400 space-y-1 text-xs">
         - US entity formation & SEC RIA filing
         - HNW customer acquisition (digital + partnerships)
@@ -1312,8 +1312,8 @@ Clear ask with specific milestones unlocked by funding.
       </div>
     </div>
 
-    <div class="mt-6 p-4 bg-gradient-to-r from-green-900/40 to-emerald-900/40 rounded-lg border border-green-500/30">
-      <div class="font-semibold text-green-300 mb-2">18-Month Milestones</div>
+    <div class="mt-4 p-3 bg-gradient-to-r from-green-900/40 to-emerald-900/40 rounded-lg border border-green-500/30">
+      <div class="font-semibold text-green-300 mb-1 text-sm">18-Month Milestones</div>
       <div class="text-gray-400 space-y-1 text-xs">
         <div>✓ US entity & SEC RIA registration</div>
         <div>✓ 500 HNW beta users onboarded</div>
