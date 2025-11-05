@@ -110,16 +110,16 @@ This creates urgency and shows a once-in-a-generation opportunity.
 
 # Why They're Switching: The Three Failures
 
-<div class="mb-6 text-center">
-  <div class="text-2xl font-semibold text-gray-300">
+<div class="mb-4 text-center">
+  <div class="text-xl font-semibold text-gray-300">
     The "Alpha Gap" - What HNWIs Want vs What They Get
   </div>
 </div>
 
 <AlphaGapComparison />
 
-<div class="mt-8 p-4 bg-red-900/20 rounded-lg border border-red-500/30 text-center">
-  <div class="text-lg font-semibold text-red-300">
+<div class="mt-4 p-3 bg-red-900/20 rounded-lg border border-red-500/30 text-center">
+  <div class="text-base font-semibold text-red-300">
     Traditional advisors can't scale these solutions. AI can.
   </div>
 </div>
@@ -244,11 +244,11 @@ It establishes our technical superiority over simple chatbots like ChatGPT.
 
 # Our Moat: Three "Alpha Agents" Solving The Three Failures
 
-<div class="text-center text-base text-gray-400 mb-6">
+<div class="text-center text-sm text-gray-400 mb-3">
   Each agent directly answers one pain point from Slide 4
 </div>
 
-<ThreeColumnLayout :gap="6">
+<ThreeColumnLayout :gap="4">
 
 <AgentCard
   icon="💰"
@@ -288,8 +288,8 @@ It establishes our technical superiority over simple chatbots like ChatGPT.
 
 </ThreeColumnLayout>
 
-<div class="mt-6 text-center p-4 bg-gradient-to-r from-purple-900/40 to-pink-900/40 rounded-lg border border-purple-500/30">
-  <div class="text-lg font-semibold text-purple-300">
+<div class="mt-3 text-center p-3 bg-gradient-to-r from-purple-900/40 to-pink-900/40 rounded-lg border border-purple-500/30">
+  <div class="text-base font-semibold text-purple-300">
     Each agent creates measurable alpha. Together, they're unstoppable.
   </div>
 </div>
@@ -1128,11 +1128,11 @@ Benchmark against Wealthfront showing our HNW advantage.
 
 # Built by Experts in AI, Finance, and Global Markets
 
-<div class="grid grid-cols-3 gap-6 text-sm">
-  <div class="p-6 border-2 border-teal-500 rounded-xl bg-teal-900/20">
-    <div class="text-xl font-semibold text-teal-300 mb-4">Leadership</div>
+<div class="grid grid-cols-3 gap-4 text-sm">
+  <div class="p-4 border-2 border-teal-500 rounded-xl bg-teal-900/20">
+    <div class="text-lg font-semibold text-teal-300 mb-3">Leadership</div>
 
-    <div class="space-y-4">
+    <div class="space-y-3">
       <div>
         <div class="font-semibold text-gray-300">[Founder, CEO]</div>
         <div class="text-xs text-gray-400 mt-1">10+ yrs wealth management</div>
@@ -1153,10 +1153,10 @@ Benchmark against Wealthfront showing our HNW advantage.
     </div>
   </div>
 
-  <div class="p-6 border-2 border-purple-500 rounded-xl bg-purple-900/20">
-    <div class="text-xl font-semibold text-purple-300 mb-4">Core Team</div>
+  <div class="p-4 border-2 border-purple-500 rounded-xl bg-purple-900/20">
+    <div class="text-lg font-semibold text-purple-300 mb-3">Core Team</div>
 
-    <div class="space-y-3 text-xs">
+    <div class="space-y-2 text-xs">
       <div>
         <div class="font-semibold text-gray-300">Engineering (8)</div>
         <div class="text-gray-400">3 Full-stack, 2 AI/ML, 2 Data, 1 DevOps</div>
@@ -1184,10 +1184,10 @@ Benchmark against Wealthfront showing our HNW advantage.
     </div>
   </div>
 
-  <div class="p-6 border-2 border-blue-500 rounded-xl bg-blue-900/20">
-    <div class="text-xl font-semibold text-blue-300 mb-4">Advisory Board</div>
+  <div class="p-4 border-2 border-blue-500 rounded-xl bg-blue-900/20">
+    <div class="text-lg font-semibold text-blue-300 mb-3">Advisory Board</div>
 
-    <div class="space-y-3 text-xs">
+    <div class="space-y-2 text-xs">
       <div>
         <div class="font-semibold text-gray-300">Financial Advisors</div>
         <div class="text-gray-400">Ex-SEC, RIA Partner, Family Office Executive ($2B)</div>
