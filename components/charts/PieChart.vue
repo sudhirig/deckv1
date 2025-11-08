@@ -53,8 +53,8 @@ const segments = computed(() => {
 </script>
 
 <template>
-  <div class="flex flex-col items-center gap-4">
-    <h3 v-if="title" class="text-lg font-semibold">{{ title }}</h3>
+  <div class="flex flex-col items-center gap-1">
+    <h3 v-if="title" class="text-xs font-semibold">{{ title }}</h3>
 
     <div class="relative" :style="{ width: size + 'px', height: size + 'px' }">
       <svg :width="size" :height="size" viewBox="0 0 100 100" class="transform rotate-0">
@@ -79,19 +79,19 @@ const segments = computed(() => {
       </svg>
     </div>
 
-    <div class="grid grid-cols-2 gap-2 text-sm">
+    <div class="grid grid-cols-1 gap-1 text-xs">
       <div
         v-for="(segment, index) in segments"
         :key="index"
-        class="flex items-center gap-2 p-2 rounded hover:bg-gray-800/50 transition-all duration-200"
+        class="flex items-center gap-1.5 p-1 rounded hover:bg-gray-800/50 transition-all duration-200"
       >
         <div
-          class="w-4 h-4 rounded"
+          class="w-3 h-3 rounded"
           :style="{ backgroundColor: segment.color }"
         ></div>
         <div class="flex-1">
-          <div class="font-medium">{{ segment.label }}</div>
-          <div class="text-xs opacity-70">{{ segment.percentage }}%</div>
+          <div class="font-medium text-[10px]">{{ segment.label }}</div>
+          <div class="text-[9px] opacity-70">{{ segment.percentage }}%</div>
         </div>
       </div>
     </div>

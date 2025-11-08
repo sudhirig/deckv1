@@ -1,0 +1,350 @@
+/* CAPITAL GLOBAL Brand Styles */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+
+/* Slidev-specific styles - moved from slides.md */
+@keyframes pulse-slow {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+/* CAPITAL GLOBAL Brand Backgrounds - Black Theme */
+.slidev-layout {
+  background: linear-gradient(135deg, #000000 0%, #1a1a1a 50%, #000000 100%);
+  overflow: hidden;
+  color: var(--brand-text-white);
+}
+
+/* Prevent overflow on all slides */
+.slidev-page {
+  overflow: hidden;
+}
+
+/* Ensure all slide content fits */
+.slidev-layout > * {
+  max-height: 100vh;
+}
+
+/* CAPITAL GLOBAL Brand Title Styling - Black */
+h1 {
+  color: #ffffff;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  font-family: 'Montserrat', 'Poppins', sans-serif;
+}
+
+/* CAPITAL GLOBAL text styling - BLACK */
+.capital-global-text {
+  color: #000000;
+  font-weight: 700;
+  font-family: 'Montserrat', 'Poppins', sans-serif;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  background: #ffffff;
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+.capital-global-text-black {
+  color: var(--brand-text-black);
+  font-weight: 700;
+  font-family: 'Montserrat', 'Poppins', sans-serif;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+/* Logo styling */
+.logo-footer {
+  position: absolute;
+  bottom: 1rem;
+  left: 1rem;
+  opacity: 0.7;
+  transition: opacity 0.3s;
+}
+
+.logo-footer:hover {
+  opacity: 1;
+}
+
+.logo-header {
+  opacity: 0.9;
+  transition: opacity 0.3s;
+}
+
+.logo-header:hover {
+  opacity: 1;
+}
+
+/* CAPITAL GLOBAL Brand Colors - Dark Theme */
+:root {
+  /* Primary Brand Colors */
+  --brand-dark-green: #0a3324;        /* Deep dark green background */
+  --brand-dark-green-2: #0d3d2a;      /* Slightly lighter dark green */
+  --brand-dark-green-3: #0f4a35;      /* Medium dark green */
+  --brand-green-accent: #00d9a5;       /* Bright light green/teal accent */
+  --brand-green-accent-dark: #00b88a; /* Darker green accent */
+  --brand-green-accent-light: #33ffc4; /* Lightest green */
+  
+  /* Text Colors */
+  --brand-text-white: #ffffff;
+  --brand-text-black: #1a1a1a;        /* Black for dark theme contrast */
+  --brand-text-gray: #a3a3a3;         /* Gray for secondary text */
+  --brand-text-dark-gray: #4a4a4a;    /* Dark gray */
+  
+  /* Legacy mapping for compatibility */
+  --color-primary: var(--brand-green-accent);
+  --color-primary-dark: var(--brand-green-accent-dark);
+  --color-secondary: var(--brand-dark-green);
+  --color-accent: var(--brand-green-accent);
+  
+  /* Glow effects - black theme */
+  --glow-green: 0 0 40px rgba(0, 0, 0, 0.5);
+  --glow-green-strong: 0 0 60px rgba(0, 0, 0, 0.7);
+  --glow-teal: var(--glow-green);
+  --glow-blue: var(--glow-green);
+  --glow-purple: var(--glow-green);
+  
+  --shadow-modern: 0 20px 60px rgba(0, 0, 0, 0.5);
+  --shadow-glow: 0 0 60px rgba(0, 0, 0, 0.4);
+}
+
+/* Smooth scrolling and modern animations */
+* {
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Modern glassmorphism effects */
+.glass-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.glass-card-strong {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(30px);
+  -webkit-backdrop-filter: blur(30px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* CAPITAL GLOBAL Brand Gradient Text - Black */
+.gradient-text-teal,
+.gradient-text-green {
+  color: #ffffff;
+}
+
+.gradient-text-brand {
+  background: linear-gradient(135deg, var(--brand-green-accent) 0%, var(--brand-green-accent-light) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.gradient-text-purple {
+  background: linear-gradient(135deg, var(--brand-green-accent-dark) 0%, var(--brand-green-accent) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.gradient-text-orange {
+  background: linear-gradient(135deg, var(--brand-green-accent) 0%, var(--brand-green-accent-light) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* CAPITAL GLOBAL Brand Glow Effects */
+.glow-teal,
+.glow-green {
+  box-shadow: 0 0 40px rgba(255, 255, 255, 0.3),
+              0 0 80px rgba(255, 255, 255, 0.2);
+}
+
+.glow-blue {
+  box-shadow: 0 0 40px rgba(255, 255, 255, 0.3),
+              0 0 80px rgba(255, 255, 255, 0.2);
+}
+
+.glow-purple {
+  box-shadow: 0 0 40px rgba(255, 255, 255, 0.3),
+              0 0 80px rgba(255, 255, 255, 0.2);
+}
+
+.glow-brand {
+  box-shadow: 0 0 40px rgba(255, 255, 255, 0.4),
+              0 0 80px rgba(255, 255, 255, 0.3);
+}
+
+/* Modern animations */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+@keyframes pulse-glow {
+  0%, 100% {
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 40px rgba(255, 255, 255, 0.5),
+                0 0 60px rgba(255, 255, 255, 0.3);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -1000px 0;
+  }
+  100% {
+    background-position: 1000px 0;
+  }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+.animate-shimmer {
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.1),
+    transparent
+  );
+  background-size: 1000px 100%;
+  animation: shimmer 3s infinite;
+}
+
+/* CAPITAL GLOBAL Brand Card Styling - Black */
+.card-modern {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.card-modern:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.4);
+  transform: translateY(-4px);
+  box-shadow: 0 12px 48px rgba(0, 0, 0, 0.5);
+}
+
+/* Modern gradient backgrounds */
+/* CAPITAL GLOBAL Brand Backgrounds - Black */
+.bg-gradient-modern {
+  background: linear-gradient(135deg, #000000 0%, #1a1a1a 50%, #000000 100%);
+}
+
+.bg-gradient-brand {
+  background: linear-gradient(135deg, #000000 0%, #2a2a2a 50%, #1a1a1a 100%);
+}
+
+.bg-gradient-teal-modern,
+.bg-gradient-green-modern {
+  background: linear-gradient(135deg, 
+    rgba(255, 255, 255, 0.05) 0%,
+    rgba(255, 255, 255, 0.1) 50%,
+    rgba(255, 255, 255, 0.05) 100%
+  );
+}
+
+/* CAPITAL GLOBAL Dark Theme Backgrounds - Black */
+.bg-brand-dark {
+  background: #000000;
+}
+
+.bg-brand-dark-2 {
+  background: #1a1a1a;
+}
+
+/* Modern scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 4px;
+}
+
+/* CAPITAL GLOBAL Brand Scrollbar - Black */
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.7);
+}
+
+/* CAPITAL GLOBAL Brand Selection - Black */
+::selection {
+  background: rgba(255, 255, 255, 0.3);
+  color: #000;
+}
+
+/* Enhanced typography */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+
+/* Modern border radius */
+.rounded-modern {
+  border-radius: 1.5rem;
+}
+
+.rounded-modern-lg {
+  border-radius: 2rem;
+}
+
+/* Modern shadows */
+/* CAPITAL GLOBAL Brand Shadows - Black */
+.shadow-modern {
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5),
+              0 0 40px rgba(0, 0, 0, 0.3);
+}
+
+.shadow-modern-lg {
+  box-shadow: 0 30px 100px rgba(0, 0, 0, 0.6),
+              0 0 60px rgba(0, 0, 0, 0.4);
+}
+
+/* PDF Export Optimizations */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  
+  /* Ensure high quality rendering */
+  * {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  
+  /* Better page breaks */
+  .slide {
+    page-break-after: always;
+  }
+}
